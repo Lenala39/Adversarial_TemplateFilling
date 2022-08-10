@@ -1,0 +1,1960 @@
+,abstract_id,sentence_index,synonym_tokens,original_tokens,attack_successful,num_changed,divergence,token_index,num_queries,changed_sentences,num_entities_changed,synonym_prob,semantic_sim,attack_type,type,num_changes_in_pred,comp_mode,num_entites_changed
+0,11336940,0,,,False,,,,,,,,,,,,,
+1,11336940,1,,,False,,,,,,,,,,,,,
+2,11336940,2,latanoprost product,latanoprost,,1,,9,1,,,,,,CHEMICAL,,,
+3,11336940,2,oht - ocular hypertension,ocular hypertension,False,2,22.437381744384766,40,2,[],,,,,DISEASE,,,0.0
+4,11336940,3,,,False,,,,,,,,,,,,,
+5,11336940,4,,,False,,,,,,,,,,,,,
+6,11336940,5,latanoprost product,latanoprost,False,1,11.595463752746582,17,1,[],,,,,CHEMICAL,,,0.0
+7,11336940,6,oht - ocular hypertension,ocular hypertension,,1,,14,1,,,,,,DISEASE,,,
+8,11336940,6,latanoprost product,latanoprost,False,2,11.609075546264648,27,2,[],,,,,CHEMICAL,,,0.0
+9,11336940,7,,,False,,,,,,,,,,,,,
+10,11336940,8,,,False,,,,,,,,,,,,,
+11,11336940,9,latanoprost product,latanoprost,False,1,2.0531604290008545,20,1,[],,,,,CHEMICAL,,,0.0
+12,11336940,10,,,False,,,,,,,,,,,,,
+13,11336940,12,,,False,,,,,,,,,,,,,
+14,11336940,13,latanoprost product,latanoprost,False,1,15.770944595336914,6,1,[],,,,,CHEMICAL,,,0.0
+15,11336940,14,latanoprost product,latanoprost,False,1,8.247079849243164,18,1,[],,,,,CHEMICAL,,,0.0
+16,11336940,15,latanoprost product,latanoprost,False,1,5.660939693450928,26,1,[],,,,,CHEMICAL,,,0.0
+17,11336940,17,,,False,,,,,,,,,,,,,
+18,11336940,18,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+19,11336940,18,oht - ocular hypertension,ocular hypertension,False,2,5.205039978027344,44,2,[],,,,,DISEASE,,,0.0
+20,11336940,19,,,False,,,,,,,,,,,,,
+21,11336940,20,,,False,,,,,,,,,,,,,
+22,12586182,0,,,False,,,,,,,,,,,,,
+23,12586182,1,,,False,,,,,,,,,,,,,
+24,12586182,2,latanoprost product,latanoprost,,1,,10,1,,,,,,CHEMICAL,,,
+25,12586182,2,pilocarpine product,pilocarpine,,2,,22,2,,,,,,CHEMICAL,,,
+26,12586182,2,unspecified glaucoma,glaucoma,True,3,24.66486930847168,31,3,[2],,,,,DISEASE,,,2.0
+27,12586182,3,,,False,,,,,,,,,,,,,
+28,12586182,4,latanoprost product,latanoprost,,1,,8,1,,,,,,CHEMICAL,,,
+29,12586182,4,pilocarpine product,pilocarpine,,2,,23,2,,,,,,CHEMICAL,,,
+30,12586182,4,unspecified glaucoma,glaucoma,True,3,20.465473175048828,34,3,[4],,,,,DISEASE,,,1.0
+31,12586182,5,,,False,,,,,,,,,,,,,
+32,12586182,6,unspecified glaucoma,glaucoma,,1,,12,1,,,,,,DISEASE,,,
+33,12586182,6,oht - ocular hypertension,ocular hypertension,False,2,18.720523834228516,18,2,[],,,,,DISEASE,,,0.0
+34,12586182,7,latanoprost product,latanoprost,,1,,12,1,,,,,,CHEMICAL,,,
+35,12586182,7,pilocarpine product,pilocarpine,False,2,13.072965621948242,37,2,[],,,,,CHEMICAL,,,0.0
+36,12586182,8,,,False,,,,,,,,,,,,,
+37,12586182,9,,,False,,,,,,,,,,,,,
+38,12586182,10,latanoprost product,latanoprost,,1,,39,1,,,,,,CHEMICAL,,,
+39,12586182,10,pilocarpine product,pilocarpine,False,2,3.521388530731201,58,2,[],,,,,CHEMICAL,,,0.0
+40,12586182,11,,,False,,,,,,,,,,,,,
+41,12586182,12,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+42,12586182,12,pilocarpine product,pilocarpine,False,2,16.983741760253906,46,2,[],,,,,CHEMICAL,,,0.0
+43,12586182,13,,,False,,,,,,,,,,,,,
+44,12586182,14,blurry vision,blurred vision,,1,,8,1,,,,,,DISEASE,,,
+45,12586182,14,"headache , cephalalgia",headache,,2,,13,2,,,,,,DISEASE,,,
+46,12586182,14,pilocarpine product,pilocarpine,,3,,31,3,,,,,,CHEMICAL,,,
+47,12586182,14,latanoprost product,latanoprost,False,4,14.365349769592285,40,4,[],,,,,CHEMICAL,,,0.0
+48,12586182,15,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+49,12586182,15,pilocarpine product,pilocarpine,,2,,25,2,,,,,,CHEMICAL,,,
+50,12586182,15,unspecified glaucoma,glaucoma,,3,,43,3,,,,,,DISEASE,,,
+51,12586182,15,oht - ocular hypertension,ocular hypertension,False,4,8.01664924621582,49,4,[],,,,,DISEASE,,,0.0
+52,12586182,16,,,False,,,,,,,,,,,,,
+53,12867391,0,,,False,,,,,,,,,,,,,
+54,12867391,1,,,False,,,,,,,,,,,,,
+55,12867391,2,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+56,12867391,2,timolol product,timolol,,2,,26,2,,,,,,CHEMICAL,,,
+57,12867391,2,product containing dorzolamide,dorzolamide,True,3,26.635208129882812,31,3,"[4, 2]",,,,,CHEMICAL,,,1.0
+58,12867391,3,,,False,,,,,,,,,,,,,
+59,12867391,4,,,False,,,,,,,,,,,,,
+60,12867391,5,latanoprost product,latanoprost,,1,,11,1,,,,,,CHEMICAL,,,
+61,12867391,5,timolol product,timolol,,2,,26,2,,,,,,CHEMICAL,,,
+62,12867391,5,product containing dorzolamide,dorzolamide,True,3,21.498397827148438,35,3,[5],,,,,CHEMICAL,,,3.0
+63,12867391,6,,,False,,,,,,,,,,,,,
+64,12867391,7,,,False,,,,,,,,,,,,,
+65,12867391,8,oht - ocular hypertension,ocular hypertension,False,1,10.218975067138672,16,1,[],,,,,DISEASE,,,0.0
+66,12867391,9,latanoprost product,latanoprost,False,1,6.849745750427246,2,1,[],,,,,CHEMICAL,,,0.0
+67,12867391,10,,,False,,,,,,,,,,,,,
+68,12867391,11,,,False,,,,,,,,,,,,,
+69,12867391,12,latanoprost product,latanoprost,False,1,3.6002492904663086,17,1,[],,,,,CHEMICAL,,,0.0
+70,12867391,13,latanoprost product,latanoprost,False,1,11.263330459594727,45,1,[],,,,,CHEMICAL,,,0.0
+71,12867391,14,latanoprost product,latanoprost,False,1,9.038020133972168,4,1,[],,,,,CHEMICAL,,,0.0
+72,12867391,15,latanoprost product,latanoprost,False,1,6.93102502822876,27,1,[],,,,,CHEMICAL,,,0.0
+73,12867391,16,,,False,,,,,,,,,,,,,
+74,12867391,17,latanoprost product,latanoprost,False,1,2.179640769958496,35,1,[],,,,,CHEMICAL,,,0.0
+75,12867391,18,,,False,,,,,,,,,,,,,
+76,21499770,0,,,False,,,,,,,,,,,,,
+77,21499770,1,,,False,,,,,,,,,,,,,
+78,21499770,3,timolol product,timolol,,1,,0,1,,,,,,CHEMICAL,,,
+79,21499770,3,product containing brinzolamide,brinzolamide,,2,,5,2,,,,,,CHEMICAL,,,
+80,21499770,3,travoprost product,travoprost,,3,,14,3,,,,,,CHEMICAL,,,
+81,21499770,3,unspecified glaucoma,glaucoma,,4,,21,4,,,,,,DISEASE,,,
+82,21499770,3,oht - ocular hypertension,ocular hypertension,True,5,23.85500717163086,27,5,[4],,,,,DISEASE,,,2.0
+83,21499770,4,,,False,,,,,,,,,,,,,
+84,21499770,6,,,False,,,,,,,,,,,,,
+85,21499770,7,timolol product,timolol,,1,,27,1,,,,,,CHEMICAL,,,
+86,21499770,7,product containing brinzolamide,brinzolamide,,2,,36,2,,,,,,CHEMICAL,,,
+87,21499770,7,travoprost product,travoprost,,3,,50,3,,,,,,CHEMICAL,,,
+88,21499770,7,oht - ocular hypertension,ocular hypertension,True,4,17.647075653076172,70,4,[9],,,,,DISEASE,,,3.0
+89,21499770,8,travoprost product,travoprost,False,1,5.8216047286987305,37,1,[],,,,,CHEMICAL,,,0.0
+90,21499770,9,travoprost product,travoprost,,1,,6,1,,,,,,CHEMICAL,,,
+91,21499770,9,travoprost product,travoprost,,2,,33,2,,,,,,CHEMICAL,,,
+92,21499770,9,product containing brinzolamide,brinzolamide,,3,,40,3,,,,,,CHEMICAL,,,
+93,21499770,9,travoprost product,travoprost,,4,,48,4,,,,,,CHEMICAL,,,
+94,21499770,9,timolol product,timolol,False,5,7.43319845199585,55,5,[],,,,,CHEMICAL,,,0.0
+95,21499770,10,,,False,,,,,,,,,,,,,
+96,21499770,11,travoprost product,travoprost,False,1,1.2417125701904297,2,1,[],,,,,CHEMICAL,,,0.0
+97,21499770,12,product containing brinzolamide,brinzolamide,,1,,57,1,,,,,,CHEMICAL,,,
+98,21499770,12,timolol product,timolol,False,2,17.665298461914062,77,2,[],,,,,CHEMICAL,,,0.0
+99,21499770,14,timolol product,timolol,,1,,38,1,,,,,,CHEMICAL,,,
+100,21499770,14,product containing brinzolamide,brinzolamide,True,2,12.332237243652344,43,2,[16],,,,,CHEMICAL,,,1.0
+101,21499770,15,,,False,,,,,,,,,,,,,
+102,21499770,16,hyperaemia,hyperemia,True,1,5.007941246032715,0,1,[18],,,,,DISEASE,,,1.0
+103,21499770,17,travoprost product,travoprost,,1,,16,1,,,,,,CHEMICAL,,,
+104,21499770,17,timolol product,timolol,True,2,4.17421817779541,26,2,[19],,,,,CHEMICAL,,,1.0
+105,21499770,18,product containing brinzolamide,brinzolamide,,1,,4,1,,,,,,CHEMICAL,,,
+106,21499770,18,travoprost product,travoprost,,2,,12,2,,,,,,CHEMICAL,,,
+107,21499770,18,timolol product,timolol,,3,,32,3,,,,,,CHEMICAL,,,
+108,21499770,18,travoprost product,travoprost,False,4,3.868683338165283,37,4,[],,,,,CHEMICAL,,,0.0
+109,21499770,19,,,False,,,,,,,,,,,,,
+110,19123151,0,,,False,,,,,,,,,,,,,
+111,19123151,1,,,False,,,,,,,,,,,,,
+112,19123151,2,bimatoprost product,bimatoprost,,1,,6,1,,,,,,CHEMICAL,,,
+113,19123151,2,latanoprost product,latanoprost,,2,,13,2,,,,,,CHEMICAL,,,
+114,19123151,2,timolol product,timolol,,3,,20,3,,,,,,CHEMICAL,,,
+115,19123151,2,pg - prostaglandin,prostaglandin,False,4,21.960067749023438,31,4,[],,,,,CHEMICAL,,,0.0
+116,19123151,3,,,False,,,,,,,,,,,,,
+117,19123151,4,,,False,,,,,,,,,,,,,
+118,19123151,6,,,False,,,,,,,,,,,,,
+119,19123151,7,bimatoprost product,bimatoprost,,1,,18,1,,,,,,CHEMICAL,,,
+120,19123151,7,timolol product,timolol,,2,,25,2,,,,,,CHEMICAL,,,
+121,19123151,7,latanoprost product,latanoprost,,3,,45,3,,,,,,CHEMICAL,,,
+122,19123151,7,timolol product,timolol,True,4,11.233348846435547,52,4,[8],,,,,CHEMICAL,,,1.0
+123,19123151,8,prostaglandin analogs,prostaglandin,False,1,0.0034245410934090614,8,1,[],,,,,CHEMICAL,,,0.0
+124,19123151,9,,,False,,,,,,,,,,,,,
+125,19123151,10,,,False,,,,,,,,,,,,,
+126,19123151,11,,,False,,,,,,,,,,,,,
+127,19123151,12,,,False,,,,,,,,,,,,,
+128,19123151,13,,,False,,,,,,,,,,,,,
+129,19123151,14,,,False,,,,,,,,,,,,,
+130,19123151,15,prostaglandin analogs,prostaglandin,False,1,0.024369582533836365,16,1,[],,,,,CHEMICAL,,,0.0
+131,19123151,16,,,False,,,,,,,,,,,,,
+132,19123151,17,,,False,,,,,,,,,,,,,
+133,19860553,0,,,False,,,,,,,,,,,,,
+134,19860553,1,,,False,,,,,,,,,,,,,
+135,19860553,2,bimatoprost product,bimatoprost,,1,,3,1,,,,,,CHEMICAL,,,
+136,19860553,2,latanoprost product,latanoprost,,2,,19,2,,,,,,CHEMICAL,,,
+137,19860553,2,timolol product,timolol,True,3,21.07614517211914,31,3,[2],,,,,CHEMICAL,,,1.0
+138,19860553,3,,,False,,,,,,,,,,,,,
+139,19860553,4,bimatoprost product,bimatoprost,,1,,4,1,,,,,,CHEMICAL,,,
+140,19860553,4,latanoprost product,latanoprost,,2,,15,2,,,,,,CHEMICAL,,,
+141,19860553,4,maleate timolol,timolol maleate,,3,,22,3,,,,,,CHEMICAL,,,
+142,19860553,4,unspecified glaucoma,glaucoma,,4,,34,4,,,,,,DISEASE,,,
+143,19860553,4,oht - ocular hypertension,ocular hypertension,True,5,10.652626991271973,40,5,[4],,,,,DISEASE,,,3.0
+144,19860553,5,prim open angle glaucoma,glaucoma,True,1,3.5448803901672363,35,1,[5],,,,,DISEASE,,,1.0
+145,19860553,6,bimatoprost product,bimatoprost,,1,,25,1,,,,,,CHEMICAL,,,
+146,19860553,6,latanoprost product,latanoprost,,2,,38,2,,,,,,CHEMICAL,,,
+147,19860553,6,timolol product,timolol,False,3,2.493772029876709,45,3,[],,,,,CHEMICAL,,,0.0
+148,19860553,7,,,False,,,,,,,,,,,,,
+149,19860553,8,latanoprost product,latanoprost,,1,,8,1,,,,,,CHEMICAL,,,
+150,19860553,8,timolol product,timolol,,2,,15,2,,,,,,CHEMICAL,,,
+151,19860553,8,bimatoprost product,bimatoprost,False,3,16.21129035949707,35,3,[],,,,,CHEMICAL,,,0.0
+152,19860553,9,latanoprost product,latanoprost,,1,,14,1,,,,,,CHEMICAL,,,
+153,19860553,9,timolol product,timolol,False,2,10.558867454528809,21,2,[],,,,,CHEMICAL,,,0.0
+154,19860553,10,latanoprost product,latanoprost,,1,,37,1,,,,,,CHEMICAL,,,
+155,19860553,10,timolol product,timolol,False,2,5.743160247802734,44,2,[],,,,,CHEMICAL,,,0.0
+156,19860553,11,,,False,,,,,,,,,,,,,
+157,19860553,12,latanoprost product,latanoprost,,1,,6,1,,,,,,CHEMICAL,,,
+158,19860553,12,timolol product,timolol,,2,,13,2,,,,,,CHEMICAL,,,
+159,19860553,12,bimatoprost product,bimatoprost,False,3,4.994976043701172,21,3,[],,,,,CHEMICAL,,,0.0
+160,19860553,13,latanoprost product,latanoprost,,1,,15,1,,,,,,CHEMICAL,,,
+161,19860553,13,timolol product,timolol,False,2,2.334357261657715,22,2,[],,,,,CHEMICAL,,,0.0
+162,19860553,14,,,False,,,,,,,,,,,,,
+163,10837379,0,,,False,,,,,,,,,,,,,
+164,10837379,1,,,False,,,,,,,,,,,,,
+165,10837379,2,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+166,10837379,2,product containing dorzolamide,dorzolamide,,2,,10,2,,,,,,CHEMICAL,,,
+167,10837379,2,unspecified glaucoma,glaucoma,,3,,19,3,,,,,,DISEASE,,,
+168,10837379,2,oht - ocular hypertension,ocular hypertension,True,4,29.25002670288086,25,4,[2],,,,,DISEASE,,,5.0
+169,10837379,3,latanoprost product,latanoprost,False,1,17.67153549194336,1,1,[],,,,,CHEMICAL,,,0.0
+170,10837379,4,,,False,,,,,,,,,,,,,
+171,10837379,5,,,False,,,,,,,,,,,,,
+172,10837379,6,latanoprost product,latanoprost,,1,,30,1,,,,,,CHEMICAL,,,
+173,10837379,6,product containing dorzolamide,dorzolamide,,2,,37,2,,,,,,CHEMICAL,,,
+174,10837379,6,unspecified glaucoma,glaucoma,,3,,46,3,,,,,,DISEASE,,,
+175,10837379,6,oht - ocular hypertension,ocular hypertension,True,4,22.857257843017578,52,4,[6],,,,,DISEASE,,,3.0
+176,10837379,7,open cleft glaucoma,glaucoma,,1,,7,1,,,,,,DISEASE,,,
+177,10837379,7,oht - ocular hypertension,ocular hypertension,True,2,18.861328125,13,2,[7],,,,,DISEASE,,,3.0
+178,10837379,8,unspecified glaucoma,glaucoma,,1,,1,1,,,,,,DISEASE,,,
+179,10837379,8,latanoprost product,latanoprost,,2,,19,2,,,,,,CHEMICAL,,,
+180,10837379,8,product containing dorzolamide,dorzolamide,True,3,16.134693145751953,33,3,[8],,,,,CHEMICAL,,,2.0
+181,10837379,9,,,False,,,,,,,,,,,,,
+182,10837379,10,latanoprost product,latanoprost,False,1,9.248151779174805,4,1,[],,,,,CHEMICAL,,,0.0
+183,10837379,11,product containing dorzolamide,dorzolamide,False,1,6.893214702606201,4,1,[],,,,,CHEMICAL,,,0.0
+184,10837379,12,,,False,,,,,,,,,,,,,
+185,10837379,16,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+186,10837379,16,product containing dorzolamide,dorzolamide,True,2,8.594915390014648,11,2,[16],,,,,CHEMICAL,,,1.0
+187,10837379,17,,,False,,,,,,,,,,,,,
+188,10837379,13,latanoprost product,latanoprost,,1,,0,1,,,,,,CHEMICAL,,,
+189,10837379,13,product containing dorzolamide,dorzolamide,False,2,20.747528076171875,35,2,[],,,,,CHEMICAL,,,0.0
+190,10837379,14,latanoprost product,latanoprost,,1,,17,1,,,,,,CHEMICAL,,,
+191,10837379,14,product containing dorzolamide,dorzolamide,False,2,13.322061538696289,35,2,[],,,,,CHEMICAL,,,0.0
+192,15097262,0,,,False,,,,,,,,,,,,,
+193,15097262,1,,,False,,,,,,,,,,,,,
+194,15097262,2,product containing dorzolamide,dorzolamide,,1,,0,1,,,,,,CHEMICAL,,,
+195,15097262,2,timolol product,timolol,,2,,7,2,,,,,,CHEMICAL,,,
+196,15097262,2,brimonidine product,brimonidine,,3,,20,3,,,,,,CHEMICAL,,,
+197,15097262,2,timolol product,timolol,True,4,21.149810791015625,26,4,[2],,,,,CHEMICAL,,,3.0
+198,15097262,3,,,False,,,,,,,,,,,,,
+199,15097262,4,product containing dorzolamide,dorzolamide,,1,,27,1,,,,,,CHEMICAL,,,
+200,15097262,4,timolol product,timolol,,2,,34,2,,,,,,CHEMICAL,,,
+201,15097262,4,brimonidine product,brimonidine,,3,,48,3,,,,,,CHEMICAL,,,
+202,15097262,4,timolol product,timolol,False,4,12.223776817321777,54,4,[],,,,,CHEMICAL,,,0.0
+203,15097262,5,oht - ocular hypertension,ocular hypertension,,1,,9,1,,,,,,DISEASE,,,
+204,15097262,5,glaucoma pigmentary,pigmentary glaucoma,True,2,9.717039108276367,35,2,[5],,,,,DISEASE,,,5.0
+205,15097262,6,timolol product,timolol,,1,,4,1,,,,,,CHEMICAL,,,
+206,15097262,6,product containing dorzolamide,dorzolamide,,2,,33,2,,,,,,CHEMICAL,,,
+207,15097262,6,timolol product,timolol,,3,,40,3,,,,,,CHEMICAL,,,
+208,15097262,6,brimonidine product,brimonidine,,4,,51,4,,,,,,CHEMICAL,,,
+209,15097262,6,timolol product,timolol,True,5,5.885890007019043,57,5,[6],,,,,CHEMICAL,,,1.0
+210,15097262,7,,,False,,,,,,,,,,,,,
+211,15097262,8,product containing dorzolamide,dorzolamide,,1,,8,1,,,,,,CHEMICAL,,,
+212,15097262,8,timolol product,timolol,,2,,15,2,,,,,,CHEMICAL,,,
+213,15097262,8,brimonidine product,brimonidine,,3,,60,3,,,,,,CHEMICAL,,,
+214,15097262,8,timolol product,timolol,False,4,21.323524475097656,68,4,[],,,,,CHEMICAL,,,0.0
+215,15097262,9,,,False,,,,,,,,,,,,,
+216,15097262,10,,,False,,,,,,,,,,,,,
+217,15097262,11,,,False,,,,,,,,,,,,,
+218,15097262,12,product containing dorzolamide,dorzolamide,,1,,10,1,,,,,,CHEMICAL,,,
+219,15097262,12,timolol product,timolol,,2,,17,2,,,,,,CHEMICAL,,,
+220,15097262,12,brimonidine product,brimonidine,,3,,28,3,,,,,,CHEMICAL,,,
+221,15097262,12,timolol product,timolol,False,4,6.3276872634887695,34,4,[],,,,,CHEMICAL,,,0.0
+222,15097262,13,,,False,,,,,,,,,,,,,
+223,15097262,14,,,False,,,,,,,,,,,,,
+224,17519068,0,,,False,,,,,,,,,,,,,
+225,17519068,1,,,False,,,,,,,,,,,,,
+226,17519068,2,bimatoprost product,bimatoprost,,1,,12,1,,,,,,CHEMICAL,,,
+227,17519068,2,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+228,17519068,2,latanoprost product,latanoprost,,3,,26,3,,,,,,CHEMICAL,,,
+229,17519068,2,timolol product,timolol,False,4,23.453346252441406,33,4,[],,,,,CHEMICAL,,,0.0
+230,17519068,3,,,False,,,,,,,,,,,,,
+231,17519068,4,latanoprost product,latanoprost,,1,,28,1,,,,,,CHEMICAL,,,
+232,17519068,4,timolol product,timolol,,2,,35,2,,,,,,CHEMICAL,,,
+233,17519068,4,bimatoprost product,bimatoprost,,3,,56,3,,,,,,CHEMICAL,,,
+234,17519068,4,timolol product,timolol,False,4,17.331066131591797,63,4,[],,,,,CHEMICAL,,,0.0
+235,17519068,5,,,False,,,,,,,,,,,,,
+236,17519068,6,,,False,,,,,,,,,,,,,
+237,17519068,7,,,False,,,,,,,,,,,,,
+238,17519068,8,,,False,,,,,,,,,,,,,
+239,17519068,9,,,False,,,,,,,,,,,,,
+240,17519068,10,hyperaemia,hyperemia,True,1,10.468301773071289,7,1,[9],,,,,DISEASE,,,1.0
+241,17519068,11,,,False,,,,,,,,,,,,,
+242,17519068,12,,,False,,,,,,,,,,,,,
+243,25430900,0,,,False,,,,,,,,,,,,,
+244,25430900,1,,,False,,,,,,,,,,,,,
+245,25430900,3,product containing brinzolamide,brinzolamide,,1,,4,1,,,,,,CHEMICAL,,,
+246,25430900,3,brimonidine product,brimonidine,,2,,12,2,,,,,,CHEMICAL,,,
+247,25430900,3,product containing brinzolamide,brinzolamide,,3,,18,3,,,,,,CHEMICAL,,,
+248,25430900,3,brimonidine product,brimonidine,,4,,26,4,,,,,,CHEMICAL,,,
+249,25430900,3,oht - ocular hypertension,ocular hypertension,False,5,38.54094696044922,40,5,[],,,,,DISEASE,,,0.0
+250,25430900,4,,,False,,,,,,,,,,,,,
+251,25430900,5,,,False,,,,,,,,,,,,,
+252,25430900,6,,,False,,,,,,,,,,,,,
+253,25430900,7,product containing brinzolamide,brinzolamide,,1,,16,1,,,,,,CHEMICAL,,,
+254,25430900,7,brimonidine product,brimonidine,,2,,26,2,,,,,,CHEMICAL,,,
+255,25430900,7,product containing brinzolamide,brinzolamide,,3,,46,3,,,,,,CHEMICAL,,,
+256,25430900,7,brimonidine product,brimonidine,,4,,56,4,,,,,,CHEMICAL,,,
+257,25430900,7,oht - ocular hypertension,ocular hypertension,True,5,31.733295440673828,84,5,[8],,,,,DISEASE,,,1.0
+258,25430900,8,,,False,,,,,,,,,,,,,
+259,25430900,9,,,False,,,,,,,,,,,,,
+260,25430900,10,,,False,,,,,,,,,,,,,
+261,25430900,11,,,False,,,,,,,,,,,,,
+262,25430900,12,,,False,,,,,,,,,,,,,
+263,25430900,14,,,False,,,,,,,,,,,,,
+264,25430900,15,,,False,,,,,,,,,,,,,
+265,25430900,16,,,False,,,,,,,,,,,,,
+266,25430900,18,hyperaemia,hyperemia,,1,,9,1,,,,,,DISEASE,,,
+267,25430900,18,disturbances visual,visual disturbances,True,2,5.742924690246582,30,2,[20],,,,,DISEASE,,,2.0
+268,25430900,19,,,False,,,,,,,,,,,,,
+269,25430900,20,product containing brinzolamide,brinzolamide,,1,,2,1,,,,,,CHEMICAL,,,
+270,25430900,20,brimonidine product,brimonidine,True,2,4.129505157470703,12,2,[22],,,,,CHEMICAL,,,2.0
+271,25430900,21,,,False,,,,,,,,,,,,,
+272,25430900,22,,,False,,,,,,,,,,,,,
+273,24672097,0,,,False,,,,,,,,,,,,,
+274,24672097,1,,,False,,,,,,,,,,,,,
+275,24672097,2,bimatoprost product,bimatoprost,,1,,5,1,,,,,,CHEMICAL,,,
+276,24672097,2,timolol product,timolol,True,2,10.062255859375,12,2,[2],,,,,CHEMICAL,,,1.0
+277,24672097,3,,,False,,,,,,,,,,,,,
+278,24672097,4,,,False,,,,,,,,,,,,,
+279,24672097,5,,,False,,,,,,,,,,,,,
+280,24672097,7,,,False,,,,,,,,,,,,,
+281,24672097,8,bimatoprost product,bimatoprost,,1,,0,1,,,,,,CHEMICAL,,,
+282,24672097,8,maleate timolol,timolol maleate,True,2,2.764289379119873,42,2,[9],,,,,CHEMICAL,,,1.0
+283,24672097,9,bimatoprost product,bimatoprost,,1,,13,1,,,,,,CHEMICAL,,,
+284,24672097,9,timolol product,timolol,False,2,1.6482186317443848,20,2,[],,,,,CHEMICAL,,,0.0
+285,24672097,10,unspecified glaucoma,glaucoma,False,1,12.299613952636719,24,1,[],,,,,DISEASE,,,0.0
+286,24672097,11,timolol product,timolol,False,1,11.138185501098633,21,1,[],,,,,CHEMICAL,,,0.0
+287,24672097,12,timolol product,timolol,True,1,9.612241744995117,6,1,[12],,,,,CHEMICAL,,,1.0
+288,24672097,13,bimatoprost product,bimatoprost,False,1,8.390681266784668,11,1,[],,,,,CHEMICAL,,,0.0
+289,24672097,14,,,False,,,,,,,,,,,,,
+290,24672097,15,timolol product,timolol,False,1,6.286070823669434,14,1,[],,,,,CHEMICAL,,,0.0
+291,24672097,16,stinging sensation,stinging,False,1,5.363885402679443,28,1,[],,,,,DISEASE,,,0.0
+292,24672097,17,,,False,,,,,,,,,,,,,
+293,24672097,18,timolol product,timolol,False,1,2.2710375785827637,9,1,[],,,,,CHEMICAL,,,0.0
+294,24672097,19,bimatoprost product,bimatoprost,False,1,1.460262417793274,2,1,[],,,,,CHEMICAL,,,0.0
+295,24672097,20,conjunctival hyperaemia,conjunctival hyperemia,,1,,9,1,,,,,,DISEASE,,,
+296,24672097,20,bimatoprost product,bimatoprost,,2,,33,2,,,,,,CHEMICAL,,,
+297,24672097,20,bimatoprost product,bimatoprost,False,3,9.578205108642578,61,3,[],,,,,CHEMICAL,,,0.0
+298,24672097,21,,,False,,,,,,,,,,,,,
+299,24672097,22,bimatoprost product,bimatoprost,,1,,11,1,,,,,,CHEMICAL,,,
+300,24672097,22,timolol product,timolol,,2,,32,2,,,,,,CHEMICAL,,,
+301,24672097,22,bimatoprost product,bimatoprost,False,3,6.390053749084473,43,3,[],,,,,CHEMICAL,,,0.0
+302,24672097,23,bimatoprost product,bimatoprost,,1,,0,1,,,,,,CHEMICAL,,,
+303,24672097,23,timolol product,timolol,False,2,4.4751691818237305,21,2,[],,,,,CHEMICAL,,,0.0
+304,24672097,24,timolol product,timolol,,1,,8,1,,,,,,CHEMICAL,,,
+305,24672097,24,bimatoprost product,bimatoprost,False,2,3.2801642417907715,19,2,[],,,,,CHEMICAL,,,0.0
+306,24672097,25,bimatoprost product,bimatoprost,False,1,2.0207719802856445,5,1,[],,,,,CHEMICAL,,,0.0
+307,24672097,26,,,False,,,,,,,,,,,,,
+308,16458964,0,,,False,,,,,,,,,,,,,
+309,16458964,1,,,False,,,,,,,,,,,,,
+310,16458964,3,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+311,16458964,3,latanoprost product,latanoprost,,2,,12,2,,,,,,CHEMICAL,,,
+312,16458964,3,timolol product,timolol,,3,,19,3,,,,,,CHEMICAL,,,
+313,16458964,3,timolol product,timolol,False,4,20.836822509765625,30,4,[],,,,,CHEMICAL,,,0.0
+314,16458964,4,,,False,,,,,,,,,,,,,
+315,16458964,5,,,False,,,,,,,,,,,,,
+316,16458964,6,latanoprost product,latanoprost,,1,,14,1,,,,,,CHEMICAL,,,
+317,16458964,6,latanoprost product,latanoprost,,2,,25,2,,,,,,CHEMICAL,,,
+318,16458964,6,timolol product,timolol,,3,,32,3,,,,,,CHEMICAL,,,
+319,16458964,6,unspecified glaucoma,glaucoma,,4,,37,4,,,,,,DISEASE,,,
+320,16458964,6,oht - ocular hypertension,ocular hypertension,,5,,43,5,,,,,,DISEASE,,,
+321,16458964,6,unspecified glaucoma,glaucoma,,6,,55,6,,,,,,DISEASE,,,
+322,16458964,6,timolol product,timolol,True,7,18.63202667236328,62,7,[7],,,,,CHEMICAL,,,3.0
+323,16458964,7,,,False,,,,,,,,,,,,,
+324,16458964,8,unspecified glaucoma,glaucoma,,1,,2,1,,,,,,DISEASE,,,
+325,16458964,8,oht - ocular hypertension,ocular hypertension,,2,,8,2,,,,,,DISEASE,,,
+326,16458964,8,timolol product,timolol,,3,,21,3,,,,,,CHEMICAL,,,
+327,16458964,8,pilocarpine product,pilocarpine,True,4,13.796436309814453,39,4,[9],,,,,CHEMICAL,,,4.0
+328,16458964,9,,,False,,,,,,,,,,,,,
+329,16458964,10,latanoprost product,latanoprost,,1,,7,1,,,,,,CHEMICAL,,,
+330,16458964,10,latanoprost product,latanoprost,False,2,6.104040622711182,17,2,[],,,,,CHEMICAL,,,0.0
+331,16458964,11,,,False,,,,,,,,,,,,,
+332,16458964,13,latanoprost product,latanoprost,,1,,10,1,,,,,,CHEMICAL,,,
+333,16458964,13,latanoprost product,latanoprost,,2,,21,2,,,,,,CHEMICAL,,,
+334,16458964,13,timolol product,timolol,False,3,2.271923303604126,28,3,[],,,,,CHEMICAL,,,0.0
+335,16458964,16,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+336,16458964,16,latanoprost product,latanoprost,,2,,13,2,,,,,,CHEMICAL,,,
+337,16458964,16,timolol product,timolol,,3,,20,3,,,,,,CHEMICAL,,,
+338,16458964,16,timolol product,timolol,,4,,29,4,,,,,,CHEMICAL,,,
+339,16458964,16,unspecified glaucoma,glaucoma,,5,,43,5,,,,,,DISEASE,,,
+340,16458964,16,oht - ocular hypertension,ocular hypertension,True,6,6.588825702667236,49,6,[17],,,,,DISEASE,,,2.0
+341,16458964,17,,,False,,,,,,,,,,,,,
+342,16458964,14,timolol product,timolol,,1,,17,1,,,,,,CHEMICAL,,,
+343,16458964,14,latanoprost product,latanoprost,,2,,67,2,,,,,,CHEMICAL,,,
+344,16458964,14,latanoprost product,latanoprost,,3,,106,3,,,,,,CHEMICAL,,,
+345,16458964,14,timolol product,timolol,,4,,113,4,,,,,,CHEMICAL,,,
+346,16458964,14,latanoprost product,latanoprost,,5,,155,5,,,,,,CHEMICAL,,,
+347,16458964,14,latanoprost product,latanoprost,,6,,196,6,,,,,,CHEMICAL,,,
+348,16458964,14,timolol product,timolol,True,7,23.824508666992188,203,7,[15],,,,,CHEMICAL,,,4.0
+349,16458964,15,latanoprost product,latanoprost,,1,,6,1,,,,,,CHEMICAL,,,
+350,16458964,15,latanoprost product,latanoprost,,2,,16,2,,,,,,CHEMICAL,,,
+351,16458964,15,timolol product,timolol,True,3,7.882692337036133,23,3,[16],,,,,CHEMICAL,,,1.0
+352,12485286,0,,,False,,,,,,,,,,,,,
+353,12485286,1,,,False,,,,,,,,,,,,,
+354,12485286,2,latanoprost product,latanoprost,,1,,11,1,,,,,,CHEMICAL,,,
+355,12485286,2,product containing dorzolamide,dorzolamide,,2,,27,2,,,,,,CHEMICAL,,,
+356,12485286,2,timolol product,timolol,False,3,63.942657470703125,36,3,[],,,,,CHEMICAL,,,0.0
+357,12485286,3,latanoprost product,latanoprost,False,1,15.882834434509277,18,1,[],,,,,CHEMICAL,,,0.0
+358,12485286,4,,,False,,,,,,,,,,,,,
+359,12485286,5,latanoprost product,latanoprost,,1,,27,1,,,,,,CHEMICAL,,,
+360,12485286,5,product containing dorzolamide,dorzolamide,,2,,43,2,,,,,,CHEMICAL,,,
+361,12485286,5,timolol product,timolol,True,3,57.68201446533203,52,3,[5],,,,,CHEMICAL,,,1.0
+362,12485286,6,timolol product,timolol,,1,,14,1,,,,,,CHEMICAL,,,
+363,12485286,6,latanoprost product,latanoprost,,2,,25,2,,,,,,CHEMICAL,,,
+364,12485286,6,product containing dorzolamide,dorzolamide,,3,,38,3,,,,,,CHEMICAL,,,
+365,12485286,6,timolol product,timolol,True,4,54.619895935058594,45,4,[6],,,,,CHEMICAL,,,1.0
+366,12485286,7,,,False,,,,,,,,,,,,,
+367,12485286,8,latanoprost product,latanoprost,,1,,50,1,,,,,,CHEMICAL,,,
+368,12485286,8,product containing dorzolamide,dorzolamide,,2,,77,2,,,,,,CHEMICAL,,,
+369,12485286,8,timolol product,timolol,False,3,45.80403518676758,84,3,[],,,,,CHEMICAL,,,0.0
+370,12485286,9,,,False,,,,,,,,,,,,,
+371,12485286,10,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+372,12485286,10,product containing dorzolamide,dorzolamide,,2,,26,2,,,,,,CHEMICAL,,,
+373,12485286,10,timolol product,timolol,,3,,33,3,,,,,,CHEMICAL,,,
+374,12485286,10,timolol product,timolol,False,4,8.01173210144043,48,4,[],,,,,CHEMICAL,,,0.0
+375,12485286,11,,,False,,,,,,,,,,,,,
+376,11167277,0,,,False,,,,,,,,,,,,,
+377,11167277,1,,,False,,,,,,,,,,,,,
+378,11167277,2,latanoprost product,latanoprost,,1,,0,1,,,,,,CHEMICAL,,,
+379,11167277,2,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+380,11167277,2,product containing dorzolamide,dorzolamide,True,3,50.47259521484375,15,3,[2],,,,,CHEMICAL,,,1.0
+381,11167277,3,,,False,,,,,,,,,,,,,
+382,11167277,4,,,False,,,,,,,,,,,,,
+383,11167277,5,latanoprost product,latanoprost,,1,,12,1,,,,,,CHEMICAL,,,
+384,11167277,5,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+385,11167277,5,product containing dorzolamide,dorzolamide,False,3,38.81995391845703,24,3,[],,,,,CHEMICAL,,,0.0
+386,11167277,6,latanoprost product,latanoprost,,1,,20,1,,,,,,CHEMICAL,,,
+387,11167277,6,timolol product,timolol,,2,,31,2,,,,,,CHEMICAL,,,
+388,11167277,6,product containing dorzolamide,dorzolamide,False,3,34.060340881347656,36,3,[],,,,,CHEMICAL,,,0.0
+389,11167277,7,,,False,,,,,,,,,,,,,
+390,11167277,8,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+391,11167277,8,timolol product,timolol,,2,,26,2,,,,,,CHEMICAL,,,
+392,11167277,8,product containing dorzolamide,dorzolamide,False,3,26.43838119506836,31,3,[],,,,,CHEMICAL,,,0.0
+393,11167277,9,,,False,,,,,,,,,,,,,
+394,11167277,10,latanoprost product,latanoprost,,1,,15,1,,,,,,CHEMICAL,,,
+395,11167277,10,timolol product,timolol,,2,,48,2,,,,,,CHEMICAL,,,
+396,11167277,10,product containing dorzolamide,dorzolamide,False,3,13.855581283569336,53,3,[],,,,,CHEMICAL,,,0.0
+397,11167277,11,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+398,11167277,11,timolol product,timolol,,2,,22,2,,,,,,CHEMICAL,,,
+399,11167277,11,product containing dorzolamide,dorzolamide,False,3,7.79170036315918,27,3,[],,,,,CHEMICAL,,,0.0
+400,11167277,12,,,False,,,,,,,,,,,,,
+401,18327364,0,,,False,,,,,,,,,,,,,
+402,18327364,1,,,False,,,,,,,,,,,,,
+403,18327364,2,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+404,18327364,2,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+405,18327364,2,product containing dorzolamide,dorzolamide,,3,,15,3,,,,,,CHEMICAL,,,
+406,18327364,2,prim open angle glaucoma,glaucoma,True,4,22.360044479370117,29,4,"[5, 6, 2]",,,,,DISEASE,,,1.0
+407,18327364,3,,,False,,,,,,,,,,,,,
+408,18327364,4,,,False,,,,,,,,,,,,,
+409,18327364,5,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+410,18327364,5,timolol product,timolol,,2,,12,2,,,,,,CHEMICAL,,,
+411,18327364,5,product containing dorzolamide,dorzolamide,,3,,17,3,,,,,,CHEMICAL,,,
+412,18327364,5,prim open angle glaucoma,glaucoma,True,4,17.043846130371094,31,4,"[6, 5]",,,,,DISEASE,,,1.0
+413,18327364,6,latanoprost product,latanoprost,,1,,6,1,,,,,,CHEMICAL,,,
+414,18327364,6,product containing dorzolamide,dorzolamide,,2,,17,2,,,,,,CHEMICAL,,,
+415,18327364,6,timolol product,timolol,,3,,24,3,,,,,,CHEMICAL,,,
+416,18327364,6,latanoprost product,latanoprost,,4,,37,4,,,,,,CHEMICAL,,,
+417,18327364,6,timolol product,timolol,,5,,56,5,,,,,,CHEMICAL,,,
+418,18327364,6,product containing dorzolamide,dorzolamide,True,6,10.098442077636719,68,6,[6],,,,,CHEMICAL,,,2.0
+419,18327364,7,,,False,,,,,,,,,,,,,
+420,18327364,8,,,False,,,,,,,,,,,,,
+421,18327364,9,,,False,,,,,,,,,,,,,
+422,18327364,10,latanoprost product,latanoprost,,1,,58,1,,,,,,CHEMICAL,,,
+423,18327364,10,product containing dorzolamide,dorzolamide,,2,,98,2,,,,,,CHEMICAL,,,
+424,18327364,10,timolol product,timolol,False,3,19.63732147216797,105,3,[],,,,,CHEMICAL,,,0.0
+425,18327364,12,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+426,18327364,12,product containing dorzolamide,dorzolamide,,2,,10,2,,,,,,CHEMICAL,,,
+427,18327364,12,timolol product,timolol,False,3,10.730587005615234,17,3,[],,,,,CHEMICAL,,,0.0
+428,18327364,13,,,False,,,,,,,,,,,,,
+429,15598478,0,,,False,,,,,,,,,,,,,
+430,15598478,1,,,False,,,,,,,,,,,,,
+431,15598478,2,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+432,15598478,2,latanoprost product,latanoprost,,2,,12,2,,,,,,CHEMICAL,,,
+433,15598478,2,timolol product,timolol,,3,,19,3,,,,,,CHEMICAL,,,
+434,15598478,2,unspecified glaucoma,glaucoma,,4,,43,4,,,,,,DISEASE,,,
+435,15598478,2,oht - ocular hypertension,ocular hypertension,True,5,15.292166709899902,49,5,[2],,,,,DISEASE,,,1.0
+436,15598478,3,latanoprost product,latanoprost,False,1,8.181747436523438,26,1,[],,,,,CHEMICAL,,,0.0
+437,15598478,4,,,False,,,,,,,,,,,,,
+438,15598478,5,unspecified glaucoma,glaucoma,False,1,7.107081413269043,17,1,[],,,,,DISEASE,,,0.0
+439,15598478,6,,,False,,,,,,,,,,,,,
+440,15598478,7,latanoprost product,latanoprost,,1,,19,1,,,,,,CHEMICAL,,,
+441,15598478,7,maleate timolol,timolol maleate,,2,,31,2,,,,,,CHEMICAL,,,
+442,15598478,7,latanoprost product,latanoprost,,3,,45,3,,,,,,CHEMICAL,,,
+443,15598478,7,latanoprost product,latanoprost,True,4,6.416450023651123,80,4,[7],,,,,CHEMICAL,,,1.0
+444,15598478,8,,,False,,,,,,,,,,,,,
+445,15598478,9,unspecified glaucoma,glaucoma,,1,,2,1,,,,,,DISEASE,,,
+446,15598478,9,oht - ocular hypertension,ocular hypertension,,2,,8,2,,,,,,DISEASE,,,
+447,15598478,9,latanoprost product,latanoprost,True,3,1.511976957321167,31,3,[16],,,,,CHEMICAL,,,2.0
+448,15598478,10,latanoprost product,latanoprost,,1,,6,1,,,,,,CHEMICAL,,,
+449,15598478,10,latanoprost product,latanoprost,False,2,13.112812995910645,22,2,[],,,,,CHEMICAL,,,0.0
+450,15598478,11,,,False,,,,,,,,,,,,,
+451,15598478,12,,,False,,,,,,,,,,,,,
+452,15598478,13,,,False,,,,,,,,,,,,,
+453,15598478,15,,,False,,,,,,,,,,,,,
+454,15598478,16,latanoprost product,latanoprost,False,1,4.642017364501953,25,1,[],,,,,CHEMICAL,,,0.0
+455,15598478,18,latanoprost product,latanoprost,False,1,1.6086732149124146,26,1,[],,,,,CHEMICAL,,,0.0
+456,15598478,19,latanoprost product,latanoprost,,1,,46,1,,,,,,CHEMICAL,,,
+457,15598478,19,latanoprost product,latanoprost,False,2,8.727082252502441,72,2,[],,,,,CHEMICAL,,,0.0
+458,15598478,20,,,False,,,,,,,,,,,,,
+459,15598478,21,latanoprost product,latanoprost,False,1,4.60706901550293,10,1,[],,,,,CHEMICAL,,,0.0
+460,15598478,22,latanoprost product,latanoprost,,1,,16,1,,,,,,CHEMICAL,,,
+461,15598478,22,latanoprost product,latanoprost,False,2,3.385485887527466,52,2,[],,,,,CHEMICAL,,,0.0
+462,15598478,23,,,False,,,,,,,,,,,,,
+463,10901475,0,,,False,,,,,,,,,,,,,
+464,10901475,1,,,False,,,,,,,,,,,,,
+465,10901475,2,latanoprost product,latanoprost,,1,,10,1,,,,,,CHEMICAL,,,
+466,10901475,2,pilocarpine product,pilocarpine,False,2,22.377635955810547,24,2,[],,,,,CHEMICAL,,,0.0
+467,10901475,3,oht - ocular hypertension,ocular hypertension,True,1,22.17501449584961,11,1,[3],,,,,DISEASE,,,2.0
+468,10901475,4,,,False,,,,,,,,,,,,,
+469,10901475,5,latanoprost product,latanoprost,False,1,14.795104026794434,1,1,[],,,,,CHEMICAL,,,0.0
+470,10901475,6,,,False,,,,,,,,,,,,,
+471,10901475,7,,,False,,,,,,,,,,,,,
+472,10901475,8,latanoprost product,latanoprost,,1,,14,1,,,,,,CHEMICAL,,,
+473,10901475,8,pilocarpine product,pilocarpine,,2,,31,2,,,,,,CHEMICAL,,,
+474,10901475,8,oht - ocular hypertension,ocular hypertension,,3,,54,3,,,,,,DISEASE,,,
+475,10901475,8,timolol product,timolol,True,4,18.218128204345703,66,4,[8],,,,,CHEMICAL,,,2.0
+476,10901475,9,timolol product,timolol,False,1,7.708168983459473,33,1,[],,,,,CHEMICAL,,,0.0
+477,10901475,11,pilocarpine product,pilocarpine,,1,,6,1,,,,,,CHEMICAL,,,
+478,10901475,11,latanoprost product,latanoprost,True,2,9.029854774475098,12,2,[12],,,,,CHEMICAL,,,1.0
+479,10901475,12,,,False,,,,,,,,,,,,,
+480,10901475,13,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+481,10901475,13,pilocarpine product,pilocarpine,False,2,6.225364685058594,19,2,[],,,,,CHEMICAL,,,0.0
+482,10901475,14,,,False,,,,,,,,,,,,,
+483,10901475,15,,,False,,,,,,,,,,,,,
+484,10901475,16,latanoprost product,latanoprost,,1,,41,1,,,,,,CHEMICAL,,,
+485,10901475,16,pilocarpine product,pilocarpine,False,2,21.621376037597656,83,2,[],,,,,CHEMICAL,,,0.0
+486,10901475,17,latanoprost product,latanoprost,False,1,10.271595001220703,58,1,[],,,,,CHEMICAL,,,0.0
+487,10901475,18,latanoprost product,latanoprost,False,1,9.412221908569336,4,1,[],,,,,CHEMICAL,,,0.0
+488,10901475,19,latanoprost product,latanoprost,,1,,6,1,,,,,,CHEMICAL,,,
+489,10901475,19,pilocarpine product,pilocarpine,False,2,9.813467025756836,17,2,[],,,,,CHEMICAL,,,0.0
+490,10901475,20,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+491,10901475,20,pilocarpine product,pilocarpine,False,2,7.536360740661621,30,2,[],,,,,CHEMICAL,,,0.0
+492,10901475,21,timolol product,timolol,False,1,4.755463600158691,13,1,[],,,,,CHEMICAL,,,0.0
+493,10901475,22,latanoprost product,latanoprost,,1,,0,1,,,,,,CHEMICAL,,,
+494,10901475,22,pilocarpine product,pilocarpine,False,2,3.9703617095947266,10,2,[],,,,,CHEMICAL,,,0.0
+495,10901475,23,,,False,,,,,,,,,,,,,
+496,10901475,24,,,False,,,,,,,,,,,,,
+497,21792284,0,,,False,,,,,,,,,,,,,
+498,21792284,1,,,False,,,,,,,,,,,,,
+499,21792284,3,brimonidine product,brimonidine,,1,,16,1,,,,,,CHEMICAL,,,
+500,21792284,3,timolol product,timolol,,2,,22,2,,,,,,CHEMICAL,,,
+501,21792284,3,timolol product,timolol,,3,,27,3,,,,,,CHEMICAL,,,
+502,21792284,3,latanoprost product,latanoprost,True,4,22.589588165283203,36,4,"[9, 4]",,,,,CHEMICAL,,,2.0
+503,21792284,4,,,False,,,,,,,,,,,,,
+504,21792284,5,,,False,,,,,,,,,,,,,
+505,21792284,6,brimonidine product,brimonidine,,1,,34,1,,,,,,CHEMICAL,,,
+506,21792284,6,timolol product,timolol,,2,,44,2,,,,,,CHEMICAL,,,
+507,21792284,6,timolol product,timolol,,3,,54,3,,,,,,CHEMICAL,,,
+508,21792284,6,latanoprost product,latanoprost,,4,,74,4,,,,,,CHEMICAL,,,
+509,21792284,6,unspecified glaucoma,glaucoma,,5,,88,5,,,,,,DISEASE,,,
+510,21792284,6,oht - ocular hypertension,ocular hypertension,True,6,47.03369140625,94,6,[7],,,,,DISEASE,,,4.0
+511,21792284,7,latanoprost product,latanoprost,False,1,6.6195244789123535,26,1,[],,,,,CHEMICAL,,,0.0
+512,21792284,8,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+513,21792284,8,brimonidine product,brimonidine,,2,,31,2,,,,,,CHEMICAL,,,
+514,21792284,8,timolol product,timolol,,3,,37,3,,,,,,CHEMICAL,,,
+515,21792284,8,timolol product,timolol,,4,,47,4,,,,,,CHEMICAL,,,
+516,21792284,8,latanoprost product,latanoprost,True,5,8.473657608032227,61,5,[9],,,,,CHEMICAL,,,0.0
+517,21792284,9,,,False,,,,,,,,,,,,,
+518,21792284,10,,,False,,,,,,,,,,,,,
+519,21792284,12,brimonidine product,brimonidine,,1,,16,1,,,,,,CHEMICAL,,,
+520,21792284,12,timolol product,timolol,,2,,22,2,,,,,,CHEMICAL,,,
+521,21792284,12,timolol product,timolol,False,3,22.348533630371094,32,3,[],,,,,CHEMICAL,,,0.0
+522,21792284,13,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+523,21792284,13,brimonidine product,brimonidine,,2,,30,2,,,,,,CHEMICAL,,,
+524,21792284,13,timolol product,timolol,,3,,36,3,,,,,,CHEMICAL,,,
+525,21792284,13,timolol product,timolol,False,4,21.33303451538086,53,4,[],,,,,CHEMICAL,,,0.0
+526,21792284,14,brimonidine product,brimonidine,,1,,4,1,,,,,,CHEMICAL,,,
+527,21792284,14,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+528,21792284,14,latanoprost product,latanoprost,,3,,17,3,,,,,,CHEMICAL,,,
+529,21792284,14,timolol product,timolol,False,4,16.76477813720703,33,4,[],,,,,CHEMICAL,,,0.0
+530,21792284,15,brimonidine product,brimonidine,,1,,10,1,,,,,,CHEMICAL,,,
+531,21792284,15,timolol product,timolol,,2,,16,2,,,,,,CHEMICAL,,,
+532,21792284,15,timolol product,timolol,False,3,8.182074546813965,27,3,[],,,,,CHEMICAL,,,0.0
+533,21792284,16,,,False,,,,,,,,,,,,,
+534,21792284,17,brimonidine product,brimonidine,,1,,5,1,,,,,,CHEMICAL,,,
+535,21792284,17,timolol product,timolol,,2,,11,2,,,,,,CHEMICAL,,,
+536,21792284,17,timolol product,timolol,,3,,22,3,,,,,,CHEMICAL,,,
+537,21792284,17,latanoprost product,latanoprost,,4,,33,4,,,,,,CHEMICAL,,,
+538,21792284,17,unspecified glaucoma,glaucoma,,5,,42,5,,,,,,DISEASE,,,
+539,21792284,17,oht - ocular hypertension,ocular hypertension,False,6,6.8947906494140625,48,6,[],,,,,DISEASE,,,0.0
+540,21792284,18,brimonidine product,brimonidine,,1,,2,1,,,,,,CHEMICAL,,,
+541,21792284,18,timolol product,timolol,,2,,8,2,,,,,,CHEMICAL,,,
+542,21792284,18,timolol product,timolol,,3,,13,3,,,,,,CHEMICAL,,,
+543,21792284,18,latanoprost product,latanoprost,False,4,3.860530376434326,25,4,[],,,,,CHEMICAL,,,0.0
+544,21792284,19,,,False,,,,,,,,,,,,,
+545,12470755,0,,,False,,,,,,,,,,,,,
+546,12470755,1,,,False,,,,,,,,,,,,,
+547,12470755,2,latanoprost product,latanoprost,True,1,16.459197998046875,5,1,[2],,,,,CHEMICAL,,,1.0
+548,12470755,3,latanoprost product,latanoprost,False,1,13.41083812713623,29,1,[],,,,,CHEMICAL,,,0.0
+549,12470755,4,,,False,,,,,,,,,,,,,
+550,12470755,5,latanoprost product,latanoprost,,1,,29,1,,,,,,CHEMICAL,,,
+551,12470755,5,oht - ocular hypertension,ocular hypertension,False,2,13.318849563598633,66,2,[],,,,,DISEASE,,,0.0
+552,12470755,6,,,False,,,,,,,,,,,,,
+553,12470755,7,latanoprost product,latanoprost,False,1,2.943115472793579,55,1,[],,,,,CHEMICAL,,,0.0
+554,12470755,9,,,False,,,,,,,,,,,,,
+555,12470755,10,latanoprost product,latanoprost,False,1,16.418874740600586,49,1,[],,,,,CHEMICAL,,,0.0
+556,12470755,11,,,False,,,,,,,,,,,,,
+557,12470755,12,latanoprost product,latanoprost,False,1,4.828747272491455,9,1,[],,,,,CHEMICAL,,,0.0
+558,12470755,13,,,False,,,,,,,,,,,,,
+559,12470755,14,,,False,,,,,,,,,,,,,
+560,9230823,0,,,False,,,,,,,,,,,,,
+561,9230823,1,,,False,,,,,,,,,,,,,
+562,9230823,2,brimonidine product,brimonidine,,1,,6,1,,,,,,CHEMICAL,,,
+563,9230823,2,unspecified glaucoma,glaucoma,,2,,14,2,,,,,,DISEASE,,,
+564,9230823,2,oht - ocular hypertension,ocular hypertension,True,3,24.227806091308594,20,3,[2],,,,,DISEASE,,,1.0
+565,9230823,3,,,False,,,,,,,,,,,,,
+566,9230823,4,brimonidine product,brimonidine,False,1,16.505508422851562,1,1,[],,,,,CHEMICAL,,,0.0
+567,9230823,5,,,False,,,,,,,,,,,,,
+568,9230823,8,,,False,,,,,,,,,,,,,
+569,9230823,9,brimonidine product,brimonidine,,1,,12,1,,,,,,CHEMICAL,,,
+570,9230823,9,unspecified glaucoma,glaucoma,,2,,26,2,,,,,,DISEASE,,,
+571,9230823,9,oht - ocular hypertension,ocular hypertension,False,3,15.847860336303711,32,3,[],,,,,DISEASE,,,0.0
+572,9230823,10,,,False,,,,,,,,,,,,,
+573,9230823,11,brimonidine product,brimonidine,,1,,8,1,,,,,,CHEMICAL,,,
+574,9230823,11,maleate timolol,timolol maleate,True,2,7.738231658935547,18,2,[13],,,,,CHEMICAL,,,4.0
+575,9230823,12,,,False,,,,,,,,,,,,,
+576,9230823,13,,,False,,,,,,,,,,,,,
+577,9230823,14,brimonidine product,brimonidine,,1,,20,1,,,,,,CHEMICAL,,,
+578,9230823,14,timolol product,timolol,False,2,4.597907066345215,28,2,[],,,,,CHEMICAL,,,0.0
+579,9230823,15,brimonidine product,brimonidine,,1,,0,1,,,,,,CHEMICAL,,,
+580,9230823,15,timolol product,timolol,False,2,3.3568503856658936,31,2,[],,,,,CHEMICAL,,,0.0
+581,9230823,16,brimonidine product,brimonidine,,1,,0,1,,,,,,CHEMICAL,,,
+582,9230823,16,timolol product,timolol,False,2,16.128074645996094,13,2,[],,,,,CHEMICAL,,,0.0
+583,9230823,18,brimonidine product,brimonidine,False,1,10.586593627929688,11,1,[],,,,,CHEMICAL,,,0.0
+584,9230823,19,drying mouth,dry mouth,,1,,0,1,,,,,,DISEASE,,,
+585,9230823,19,brimonidine product,brimonidine,,2,,7,2,,,,,,CHEMICAL,,,
+586,9230823,19,timolol product,timolol,,3,,18,3,,,,,,CHEMICAL,,,
+587,9230823,19,stinging sensation,stinging,,4,,42,4,,,,,,DISEASE,,,
+588,9230823,19,timolol product,timolol,,5,,49,5,,,,,,CHEMICAL,,,
+589,9230823,19,brimonidine product,brimonidine,False,6,14.144286155700684,65,6,[],,,,,CHEMICAL,,,0.0
+590,9230823,20,"headache , cephalalgia",headache,,1,,0,1,,,,,,DISEASE,,,
+591,9230823,20,fatigue symptoms,fatigue,False,2,8.653449058532715,7,2,[],,,,,DISEASE,,,0.0
+592,9230823,21,,,False,,,,,,,,,,,,,
+593,9230823,22,brimonidine product,brimonidine,False,1,3.677988052368164,2,1,[],,,,,CHEMICAL,,,0.0
+594,9230823,23,brimonidine product,brimonidine,True,1,2.816232204437256,0,1,[None],,,,,CHEMICAL,,,1.0
+595,9230823,24,,,False,,,,,,,,,,,,,
+596,23550916,0,,,False,,,,,,,,,,,,,
+597,23550916,1,,,False,,,,,,,,,,,,,
+598,23550916,3,product containing brinzolamide,brinzolamide,,1,,12,1,,,,,,CHEMICAL,,,
+599,23550916,3,timolol product,timolol,,2,,20,2,,,,,,CHEMICAL,,,
+600,23550916,3,brimonidine product,brimonidine,,3,,25,3,,,,,,CHEMICAL,,,
+601,23550916,3,timolol product,timolol,,4,,31,4,,,,,,CHEMICAL,,,
+602,23550916,3,travoprost product,travoprost,True,5,21.114763259887695,41,5,[4],,,,,CHEMICAL,,,1.0
+603,23550916,4,,,False,,,,,,,,,,,,,
+604,23550916,5,,,False,,,,,,,,,,,,,
+605,23550916,6,product containing brinzolamide,brinzolamide,,1,,23,1,,,,,,CHEMICAL,,,
+606,23550916,6,timolol product,timolol,,2,,31,2,,,,,,CHEMICAL,,,
+607,23550916,6,brimonidine product,brimonidine,,3,,37,3,,,,,,CHEMICAL,,,
+608,23550916,6,timolol product,timolol,,4,,43,4,,,,,,CHEMICAL,,,
+609,23550916,6,travoprost product,travoprost,False,5,13.511434555053711,66,5,[],,,,,CHEMICAL,,,0.0
+610,23550916,7,,,False,,,,,,,,,,,,,
+611,23550916,8,travoprost product,travoprost,,1,,35,1,,,,,,CHEMICAL,,,
+612,23550916,8,product containing brinzolamide,brinzolamide,,2,,51,2,,,,,,CHEMICAL,,,
+613,23550916,8,timolol product,timolol,,3,,59,3,,,,,,CHEMICAL,,,
+614,23550916,8,brimonidine product,brimonidine,,4,,65,4,,,,,,CHEMICAL,,,
+615,23550916,8,timolol product,timolol,,5,,71,5,,,,,,CHEMICAL,,,
+616,23550916,8,travoprost product,travoprost,False,6,7.021975517272949,79,6,[],,,,,CHEMICAL,,,0.0
+617,23550916,9,,,False,,,,,,,,,,,,,
+618,23550916,10,,,False,,,,,,,,,,,,,
+619,23550916,11,,,False,,,,,,,,,,,,,
+620,23550916,12,travoprost product,travoprost,False,1,14.335281372070312,9,1,[],,,,,CHEMICAL,,,0.0
+621,23550916,13,travoprost product,travoprost,False,1,11.515110969543457,34,1,[],,,,,CHEMICAL,,,0.0
+622,23550916,14,product containing brinzolamide,brinzolamide,,1,,0,1,,,,,,CHEMICAL,,,
+623,23550916,14,timolol product,timolol,,2,,8,2,,,,,,CHEMICAL,,,
+624,23550916,14,brimonidine product,brimonidine,,3,,47,3,,,,,,CHEMICAL,,,
+625,23550916,14,timolol product,timolol,False,4,16.759292602539062,53,4,[],,,,,CHEMICAL,,,0.0
+626,23550916,15,product containing brinzolamide,brinzolamide,,1,,16,1,,,,,,CHEMICAL,,,
+627,23550916,15,timolol product,timolol,,2,,24,2,,,,,,CHEMICAL,,,
+628,23550916,15,brimonidine product,brimonidine,,3,,37,3,,,,,,CHEMICAL,,,
+629,23550916,15,timolol product,timolol,False,4,8.052783966064453,43,4,[],,,,,CHEMICAL,,,0.0
+630,23550916,17,travoprost product,travoprost,False,1,3.440969944000244,26,1,[],,,,,CHEMICAL,,,0.0
+631,23550916,18,product containing brinzolamide,brinzolamide,,1,,1,1,,,,,,CHEMICAL,,,
+632,23550916,18,timolol product,timolol,False,2,4.0545268058776855,9,2,[],,,,,CHEMICAL,,,0.0
+633,23550916,19,,,False,,,,,,,,,,,,,
+634,27445072,0,,,False,,,,,,,,,,,,,
+635,27445072,1,,,False,,,,,,,,,,,,,
+636,27445072,3,product containing dorzolamide,dorzolamide,,1,,2,1,,,,,,CHEMICAL,,,
+637,27445072,3,timolol product,timolol,,2,,9,2,,,,,,CHEMICAL,,,
+638,27445072,3,product containing brinzolamide,brinzolamide,,3,,14,3,,,,,,CHEMICAL,,,
+639,27445072,3,brimonidine product,brimonidine,False,4,23.945518493652344,22,4,[],,,,,CHEMICAL,,,0.0
+640,27445072,4,,,False,,,,,,,,,,,,,
+641,27445072,5,,,False,,,,,,,,,,,,,
+642,27445072,6,,,False,,,,,,,,,,,,,
+643,27445072,7,,,False,,,,,,,,,,,,,
+644,27445072,8,product containing brinzolamide,brinzolamide,,1,,7,1,,,,,,CHEMICAL,,,
+645,27445072,8,brimonidine product,brimonidine,,2,,15,2,,,,,,CHEMICAL,,,
+646,27445072,8,product containing dorzolamide,dorzolamide,,3,,24,3,,,,,,CHEMICAL,,,
+647,27445072,8,timolol product,timolol,False,4,13.905023574829102,31,4,[],,,,,CHEMICAL,,,0.0
+648,27445072,9,product containing dorzolamide,dorzolamide,,1,,17,1,,,,,,CHEMICAL,,,
+649,27445072,9,timolol product,timolol,,2,,24,2,,,,,,CHEMICAL,,,
+650,27445072,9,product containing brinzolamide,brinzolamide,,3,,37,3,,,,,,CHEMICAL,,,
+651,27445072,9,brimonidine product,brimonidine,True,4,10.666255950927734,45,4,[10],,,,,CHEMICAL,,,3.0
+652,27445072,10,,,False,,,,,,,,,,,,,
+653,27445072,11,,,False,,,,,,,,,,,,,
+654,27445072,12,,,False,,,,,,,,,,,,,
+655,27445072,16,product containing brinzolamide,brinzolamide,,1,,2,1,,,,,,CHEMICAL,,,
+656,27445072,16,brimonidine product,brimonidine,True,2,11.199926376342773,10,2,[17],,,,,CHEMICAL,,,1.0
+657,27445072,17,,,False,,,,,,,,,,,,,
+658,27445072,13,,,False,,,,,,,,,,,,,
+659,27445072,14,,,False,,,,,,,,,,,,,
+660,10664047,0,,,False,,,,,,,,,,,,,
+661,10664047,1,,,False,,,,,,,,,,,,,
+662,10664047,2,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+663,10664047,2,product containing dorzolamide,dorzolamide,,2,,11,2,,,,,,CHEMICAL,,,
+664,10664047,2,timolol product,timolol,,3,,19,3,,,,,,CHEMICAL,,,
+665,10664047,2,unspecified glaucoma,glaucoma,,4,,26,4,,,,,,DISEASE,,,
+666,10664047,2,oht - ocular hypertension,ocular hypertension,True,5,24.695194244384766,32,5,[2],,,,,DISEASE,,,2.0
+667,10664047,3,,,False,,,,,,,,,,,,,
+668,10664047,4,,,False,,,,,,,,,,,,,
+669,10664047,5,product containing dorzolamide,dorzolamide,,1,,23,1,,,,,,CHEMICAL,,,
+670,10664047,5,timolol product,timolol,,2,,30,2,,,,,,CHEMICAL,,,
+671,10664047,5,timolol product,timolol,,3,,38,3,,,,,,CHEMICAL,,,
+672,10664047,5,latanoprost product,latanoprost,,4,,43,4,,,,,,CHEMICAL,,,
+673,10664047,5,unspecified glaucoma,glaucoma,,5,,52,5,,,,,,DISEASE,,,
+674,10664047,5,timolol product,timolol,True,6,18.802196502685547,62,6,[5],,,,,CHEMICAL,,,5.0
+675,10664047,6,,,False,,,,,,,,,,,,,
+676,10664047,7,timolol product,timolol,,1,,13,1,,,,,,CHEMICAL,,,
+677,10664047,7,latanoprost product,latanoprost,False,2,6.825518608093262,34,2,[],,,,,CHEMICAL,,,0.0
+678,10664047,8,timolol product,timolol,,1,,10,1,,,,,,CHEMICAL,,,
+679,10664047,8,product containing dorzolamide,dorzolamide,False,2,4.304718971252441,23,2,[],,,,,CHEMICAL,,,0.0
+680,10664047,9,,,False,,,,,,,,,,,,,
+681,10664047,10,timolol product,timolol,,1,,4,1,,,,,,CHEMICAL,,,
+682,10664047,10,latanoprost product,latanoprost,,2,,9,2,,,,,,CHEMICAL,,,
+683,10664047,10,product containing dorzolamide,dorzolamide,,3,,52,3,,,,,,CHEMICAL,,,
+684,10664047,10,timolol product,timolol,False,4,20.517993927001953,59,4,[],,,,,CHEMICAL,,,0.0
+685,10664047,11,,,False,,,,,,,,,,,,,
+686,10664047,12,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+687,10664047,12,timolol product,timolol,False,2,6.5182294845581055,35,2,[],,,,,CHEMICAL,,,0.0
+688,10664047,13,,,False,,,,,,,,,,,,,
+689,21851642,0,,,False,,,,,,,,,,,,,
+690,21851642,1,,,False,,,,,,,,,,,,,
+691,21851642,2,latanoprost product,latanoprost,,1,,12,1,,,,,,CHEMICAL,,,
+692,21851642,2,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+693,21851642,2,oht - ocular hypertension,ocular hypertension,False,3,24.981700897216797,35,3,[],,,,,DISEASE,,,0.0
+694,21851642,3,,,False,,,,,,,,,,,,,
+695,21851642,5,,,False,,,,,,,,,,,,,
+696,21851642,6,latanoprost product,latanoprost,,1,,35,1,,,,,,CHEMICAL,,,
+697,21851642,6,timolol product,timolol,,2,,47,2,,,,,,CHEMICAL,,,
+698,21851642,6,oht - ocular hypertension,ocular hypertension,True,3,14.607495307922363,84,3,[7],,,,,DISEASE,,,1.0
+699,21851642,7,latanoprost product,latanoprost,,1,,40,1,,,,,,CHEMICAL,,,
+700,21851642,7,timolol product,timolol,False,2,4.852321624755859,54,2,[],,,,,CHEMICAL,,,0.0
+701,21851642,8,,,False,,,,,,,,,,,,,
+702,21851642,9,,,False,,,,,,,,,,,,,
+703,21851642,10,,,False,,,,,,,,,,,,,
+704,21851642,11,,,False,,,,,,,,,,,,,
+705,21851642,13,latanoprost product,latanoprost,,1,,20,1,,,,,,CHEMICAL,,,
+706,21851642,13,timolol product,timolol,False,2,7.106662750244141,30,2,[],,,,,CHEMICAL,,,0.0
+707,21851642,14,,,False,,,,,,,,,,,,,
+708,21851642,15,,,False,,,,,,,,,,,,,
+709,15857284,0,,,False,,,,,,,,,,,,,
+710,15857284,1,,,False,,,,,,,,,,,,,
+711,15857284,2,product containing brinzolamide,brinzolamide,,1,,6,1,,,,,,CHEMICAL,,,
+712,15857284,2,product containing dorzolamide,dorzolamide,,2,,14,2,,,,,,CHEMICAL,,,
+713,15857284,2,latanoprost product,latanoprost,,3,,27,3,,,,,,CHEMICAL,,,
+714,15857284,2,unspecified glaucoma,glaucoma,True,4,24.150440216064453,42,4,[2],,,,,DISEASE,,,3.0
+715,15857284,3,,,False,,,,,,,,,,,,,
+716,15857284,4,,,False,,,,,,,,,,,,,
+717,15857284,5,product containing brinzolamide,brinzolamide,,1,,13,1,,,,,,CHEMICAL,,,
+718,15857284,5,product containing dorzolamide,dorzolamide,False,2,17.647167205810547,21,2,[],,,,,CHEMICAL,,,0.0
+719,15857284,6,product containing brinzolamide,brinzolamide,,1,,13,1,,,,,,CHEMICAL,,,
+720,15857284,6,product containing dorzolamide,dorzolamide,,2,,23,2,,,,,,CHEMICAL,,,
+721,15857284,6,latanoprost product,latanoprost,,3,,38,3,,,,,,CHEMICAL,,,
+722,15857284,6,unspecified glaucoma,glaucoma,True,4,15.979925155639648,53,4,[6],,,,,DISEASE,,,2.0
+723,15857284,7,unspecified glaucoma,glaucoma,True,1,9.23516845703125,21,1,[7],,,,,DISEASE,,,1.0
+724,15857284,8,product containing brinzolamide,brinzolamide,,1,,0,1,,,,,,CHEMICAL,,,
+725,15857284,8,product containing dorzolamide,dorzolamide,,2,,15,2,,,,,,CHEMICAL,,,
+726,15857284,8,latanoprost product,latanoprost,True,3,12.221465110778809,41,3,[8],,,,,CHEMICAL,,,2.0
+727,15857284,9,product containing brinzolamide,brinzolamide,,1,,80,1,,,,,,CHEMICAL,,,
+728,15857284,9,product containing dorzolamide,dorzolamide,False,2,1.086592674255371,88,2,[],,,,,CHEMICAL,,,0.0
+729,15857284,10,,,False,,,,,,,,,,,,,
+730,15857284,11,product containing dorzolamide,dorzolamide,,1,,19,1,,,,,,CHEMICAL,,,
+731,15857284,11,product containing brinzolamide,brinzolamide,,2,,32,2,,,,,,CHEMICAL,,,
+732,15857284,11,blurry vision,blurred vision,,3,,52,3,,,,,,DISEASE,,,
+733,15857284,11,product containing dorzolamide,dorzolamide,,4,,59,4,,,,,,CHEMICAL,,,
+734,15857284,11,product containing brinzolamide,brinzolamide,True,5,18.199398040771484,68,5,[10],,,,,CHEMICAL,,,1.0
+735,15857284,12,product containing brinzolamide,brinzolamide,,1,,8,1,,,,,,CHEMICAL,,,
+736,15857284,12,product containing dorzolamide,dorzolamide,,2,,20,2,,,,,,CHEMICAL,,,
+737,15857284,12,product containing brinzolamide,brinzolamide,,3,,34,3,,,,,,CHEMICAL,,,
+738,15857284,12,product containing dorzolamide,dorzolamide,,4,,46,4,,,,,,CHEMICAL,,,
+739,15857284,12,latanoprost product,latanoprost,False,5,13.360532760620117,62,5,[],,,,,CHEMICAL,,,0.0
+740,15857284,13,,,False,,,,,,,,,,,,,
+741,22775229,0,,,False,,,,,,,,,,,,,
+742,22775229,1,,,False,,,,,,,,,,,,,
+743,22775229,3,latanoprost product,latanoprost,,1,,12,1,,,,,,CHEMICAL,,,
+744,22775229,3,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+745,22775229,3,brimonidine product,brimonidine,,3,,24,3,,,,,,CHEMICAL,,,
+746,22775229,3,timolol product,timolol,,4,,30,4,,,,,,CHEMICAL,,,
+747,22775229,3,oht - ocular hypertension,ocular hypertension,False,5,22.16581153869629,58,5,[],,,,,DISEASE,,,0.0
+748,22775229,4,,,False,,,,,,,,,,,,,
+749,22775229,5,unspecified glaucoma,glaucoma,False,1,8.37572956085205,19,1,[],,,,,DISEASE,,,0.0
+750,22775229,6,,,False,,,,,,,,,,,,,
+751,22775229,7,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+752,22775229,7,timolol product,timolol,,2,,25,2,,,,,,CHEMICAL,,,
+753,22775229,7,brimonidine product,brimonidine,,3,,39,3,,,,,,CHEMICAL,,,
+754,22775229,7,timolol product,timolol,False,4,7.926804542541504,49,4,[],,,,,CHEMICAL,,,0.0
+755,22775229,8,oht - ocular hypertension,ocular hypertension,False,1,2.2721571922302246,37,1,[],,,,,DISEASE,,,0.0
+756,22775229,9,,,False,,,,,,,,,,,,,
+757,22775229,10,,,False,,,,,,,,,,,,,
+758,22775229,11,,,False,,,,,,,,,,,,,
+759,22775229,12,,,False,,,,,,,,,,,,,
+760,22775229,13,,,False,,,,,,,,,,,,,
+761,22775229,14,,,False,,,,,,,,,,,,,
+762,22775229,15,,,False,,,,,,,,,,,,,
+763,22775229,16,,,False,,,,,,,,,,,,,
+764,22775229,17,,,False,,,,,,,,,,,,,
+765,22775229,18,,,False,,,,,,,,,,,,,
+766,12383812,0,,,False,,,,,,,,,,,,,
+767,12383812,1,,,False,,,,,,,,,,,,,
+768,12383812,2,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+769,12383812,2,unspecified glaucoma,glaucoma,False,2,13.90874195098877,34,2,[],,,,,DISEASE,,,0.0
+770,12383812,3,,,False,,,,,,,,,,,,,
+771,12383812,4,unspecified glaucoma,glaucoma,,1,,29,1,,,,,,DISEASE,,,
+772,12383812,4,latanoprost product,latanoprost,False,2,10.665929794311523,48,2,[],,,,,CHEMICAL,,,0.0
+773,12383812,5,,,False,,,,,,,,,,,,,
+774,12383812,6,unspecified glaucoma,glaucoma,False,1,5.2844953536987305,37,1,[],,,,,DISEASE,,,0.0
+775,12383812,7,latanoprost product,latanoprost,False,1,2.714968204498291,20,1,[],,,,,CHEMICAL,,,0.0
+776,12383812,8,latanoprost product,latanoprost,False,1,1.585261583328247,12,1,[],,,,,CHEMICAL,,,0.0
+777,12383812,9,,,False,,,,,,,,,,,,,
+778,12383812,10,latanoprost product,latanoprost,False,1,12.574264526367188,45,1,[],,,,,CHEMICAL,,,0.0
+779,12383812,11,latanoprost product,latanoprost,False,1,11.005463600158691,17,1,[],,,,,CHEMICAL,,,0.0
+780,12383812,12,latanoprost product,latanoprost,False,1,8.774248123168945,21,1,[],,,,,CHEMICAL,,,0.0
+781,12383812,13,,,False,,,,,,,,,,,,,
+782,12383812,14,latanoprost product,latanoprost,False,1,5.381875038146973,17,1,[],,,,,CHEMICAL,,,0.0
+783,12383812,15,latanoprost product,latanoprost,False,1,2.6765613555908203,25,1,[],,,,,CHEMICAL,,,0.0
+784,12383812,17,latanoprost product,latanoprost,False,1,0.9805195927619934,3,1,[],,,,,CHEMICAL,,,0.0
+785,12383812,18,latanoprost product,latanoprost,False,1,6.480737686157227,0,1,[],,,,,CHEMICAL,,,0.0
+786,12383812,19,latanoprost product,latanoprost,False,1,3.7438695430755615,14,1,[],,,,,CHEMICAL,,,0.0
+787,12383812,20,,,False,,,,,,,,,,,,,
+788,12466165,0,,,False,,,,,,,,,,,,,
+789,12466165,1,,,False,,,,,,,,,,,,,
+790,12466165,2,latanoprost product,latanoprost,False,1,10.43130874633789,13,1,[],,,,,CHEMICAL,,,0.0
+791,12466165,3,,,False,,,,,,,,,,,,,
+792,12466165,4,,,False,,,,,,,,,,,,,
+793,12466165,5,latanoprost product,latanoprost,False,1,6.347771644592285,9,1,[],,,,,CHEMICAL,,,0.0
+794,12466165,6,,,False,,,,,,,,,,,,,
+795,12466165,7,,,False,,,,,,,,,,,,,
+796,12466165,8,,,False,,,,,,,,,,,,,
+797,12466165,9,latanoprost product,latanoprost,,1,,7,1,,,,,,CHEMICAL,,,
+798,12466165,9,brimonidine product,brimonidine,,2,,20,2,,,,,,CHEMICAL,,,
+799,12466165,9,brimonidine product,brimonidine,,3,,38,3,,,,,,CHEMICAL,,,
+800,12466165,9,latanoprost product,latanoprost,False,4,2.9334850311279297,50,4,[],,,,,CHEMICAL,,,0.0
+801,12466165,10,,,False,,,,,,,,,,,,,
+802,12466165,11,,,False,,,,,,,,,,,,,
+803,12466165,12,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+804,12466165,12,brimonidine product,brimonidine,False,2,18.74410629272461,9,2,[],,,,,CHEMICAL,,,0.0
+805,12466165,13,,,False,,,,,,,,,,,,,
+806,12466165,14,latanoprost product,latanoprost,,1,,0,1,,,,,,CHEMICAL,,,
+807,12466165,14,brimonidine product,brimonidine,False,2,14.967353820800781,13,2,[],,,,,CHEMICAL,,,0.0
+808,12466165,15,latanoprost product,latanoprost,,1,,24,1,,,,,,CHEMICAL,,,
+809,12466165,15,brimonidine product,brimonidine,False,2,6.116643905639648,45,2,[],,,,,CHEMICAL,,,0.0
+810,12466165,16,latanoprost product,latanoprost,,1,,0,1,,,,,,CHEMICAL,,,
+811,12466165,16,brimonidine product,brimonidine,False,2,5.009435653686523,25,2,[],,,,,CHEMICAL,,,0.0
+812,12466165,17,latanoprost product,latanoprost,,1,,4,1,,,,,,CHEMICAL,,,
+813,12466165,17,brimonidine product,brimonidine,False,2,3.0317697525024414,23,2,[],,,,,CHEMICAL,,,0.0
+814,12466165,18,,,False,,,,,,,,,,,,,
+815,12466165,19,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+816,12466165,19,brimonidine product,brimonidine,False,2,1.1008081436157227,10,2,[],,,,,CHEMICAL,,,0.0
+817,12466165,20,brimonidine product,brimonidine,,1,,0,1,,,,,,CHEMICAL,,,
+818,12466165,20,latanoprost product,latanoprost,,2,,17,2,,,,,,CHEMICAL,,,
+819,12466165,20,latanoprost product,latanoprost,False,3,6.519515514373779,35,3,[],,,,,CHEMICAL,,,0.0
+820,12466165,21,latanoprost product,latanoprost,False,1,3.5452513694763184,0,1,[],,,,,CHEMICAL,,,0.0
+821,12466165,22,,,False,,,,,,,,,,,,,
+822,20545217,0,,,False,,,,,,,,,,,,,
+823,20545217,1,,,False,,,,,,,,,,,,,
+824,20545217,2,tafluprost product,tafluprost,,1,,13,1,,,,,,CHEMICAL,,,
+825,20545217,2,glaucoma normal tension,glaucoma,True,2,15.943470001220703,29,2,[2],,,,,DISEASE,,,3.0
+826,20545217,3,,,False,,,,,,,,,,,,,
+827,20545217,4,,,False,,,,,,,,,,,,,
+828,20545217,5,tafluprost product,tafluprost,,1,,25,1,,,,,,CHEMICAL,,,
+829,20545217,5,glaucoma normal tension,glaucoma,False,2,10.688308715820312,47,2,[],,,,,DISEASE,,,0.0
+830,20545217,6,,,False,,,,,,,,,,,,,
+831,20545217,7,tafluprost product,tafluprost,False,1,7.842353820800781,11,1,[],,,,,CHEMICAL,,,0.0
+832,20545217,8,,,False,,,,,,,,,,,,,
+833,20545217,9,tafluprost product,tafluprost,False,1,4.854048728942871,28,1,[],,,,,CHEMICAL,,,0.0
+834,20545217,10,tafluprost product,tafluprost,False,1,1.8456165790557861,21,1,[],,,,,CHEMICAL,,,0.0
+835,20545217,11,tafluprost product,tafluprost,,1,,8,1,,,,,,CHEMICAL,,,
+836,20545217,11,drug adverse reactions,adverse drug reactions,False,2,1.0429387092590332,27,2,[],,,,,DISEASE,,,0.0
+837,20545217,12,tafluprost product,tafluprost,False,1,9.46225357055664,6,1,[],,,,,CHEMICAL,,,0.0
+838,20545217,13,,,False,,,,,,,,,,,,,
+839,25533656,0,,,False,,,,,,,,,,,,,
+840,25533656,1,,,False,,,,,,,,,,,,,
+841,25533656,3,latanoprost product,latanoprost,False,1,10.158968925476074,0,1,[],,,,,CHEMICAL,,,0.0
+842,25533656,4,,,False,,,,,,,,,,,,,
+843,25533656,5,,,False,,,,,,,,,,,,,
+844,25533656,6,,,False,,,,,,,,,,,,,
+845,25533656,7,,,False,,,,,,,,,,,,,
+846,25533656,8,,,False,,,,,,,,,,,,,
+847,25533656,9,,,False,,,,,,,,,,,,,
+848,25533656,10,,,False,,,,,,,,,,,,,
+849,25533656,32,,,False,,,,,,,,,,,,,
+850,25533656,33,latanoprost product,latanoprost,False,1,2.508086681365967,36,1,[],,,,,CHEMICAL,,,0.0
+851,25533656,34,,,False,,,,,,,,,,,,,
+852,25533656,35,,,False,,,,,,,,,,,,,
+853,25533656,11,,,False,,,,,,,,,,,,,
+854,25533656,12,,,False,,,,,,,,,,,,,
+855,25533656,13,,,False,,,,,,,,,,,,,
+856,25533656,14,,,False,,,,,,,,,,,,,
+857,25533656,15,,,False,,,,,,,,,,,,,
+858,25533656,16,,,False,,,,,,,,,,,,,
+859,25533656,17,,,False,,,,,,,,,,,,,
+860,25533656,18,,,False,,,,,,,,,,,,,
+861,25533656,19,,,False,,,,,,,,,,,,,
+862,25533656,30,,,False,,,,,,,,,,,,,
+863,25533656,31,latanoprost product,latanoprost,False,1,5.400964736938477,7,1,[],,,,,CHEMICAL,,,0.0
+864,25533656,37,,,False,,,,,,,,,,,,,
+865,25533656,39,,,False,,,,,,,,,,,,,
+866,25533656,40,latanoprost product,latanoprost,False,1,10.147603988647461,24,1,[],,,,,CHEMICAL,,,0.0
+867,25533656,41,latanoprost product,latanoprost,False,1,7.229119300842285,29,1,[],,,,,CHEMICAL,,,0.0
+868,25533656,42,latanoprost product,latanoprost,False,1,4.832305431365967,8,1,[],,,,,CHEMICAL,,,0.0
+869,25533656,43,,,False,,,,,,,,,,,,,
+870,25533656,44,,,False,,,,,,,,,,,,,
+871,25533656,45,,,False,,,,,,,,,,,,,
+872,25533656,46,,,False,,,,,,,,,,,,,
+873,25533656,50,,,False,,,,,,,,,,,,,
+874,20429818,0,,,False,,,,,,,,,,,,,
+875,20429818,1,,,False,,,,,,,,,,,,,
+876,20429818,2,brimonidine product,brimonidine,,1,,14,1,,,,,,CHEMICAL,,,
+877,20429818,2,timolol product,timolol,,2,,20,2,,,,,,CHEMICAL,,,
+878,20429818,2,product containing dorzolamide,dorzolamide,,3,,25,3,,,,,,CHEMICAL,,,
+879,20429818,2,timolol product,timolol,False,4,56.546661376953125,32,4,[],,,,,CHEMICAL,,,0.0
+880,20429818,3,,,False,,,,,,,,,,,,,
+881,20429818,4,,,False,,,,,,,,,,,,,
+882,20429818,5,brimonidine product,brimonidine,,1,,4,1,,,,,,CHEMICAL,,,
+883,20429818,5,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+884,20429818,5,product containing dorzolamide,dorzolamide,,3,,26,3,,,,,,CHEMICAL,,,
+885,20429818,5,timolol product,timolol,False,4,49.61872863769531,33,4,[],,,,,CHEMICAL,,,0.0
+886,20429818,6,,,False,,,,,,,,,,,,,
+887,20429818,7,maleate timolol,timolol maleate,False,1,0.10093531757593155,6,1,[],,,,,CHEMICAL,,,0.0
+888,20429818,8,,,False,,,,,,,,,,,,,
+889,20429818,9,,,False,,,,,,,,,,,,,
+890,20429818,10,,,False,,,,,,,,,,,,,
+891,20429818,12,,,False,,,,,,,,,,,,,
+892,20429818,13,timolol product,timolol,False,1,21.038780212402344,30,1,[],,,,,CHEMICAL,,,0.0
+893,20429818,14,,,False,,,,,,,,,,,,,
+894,20429818,15,,,False,,,,,,,,,,,,,
+895,20429818,16,,,False,,,,,,,,,,,,,
+896,20429818,17,,,False,,,,,,,,,,,,,
+897,20429818,18,,,False,,,,,,,,,,,,,
+898,20429818,20,,,False,,,,,,,,,,,,,
+899,20429818,21,,,False,,,,,,,,,,,,,
+900,20429818,22,,,False,,,,,,,,,,,,,
+901,12483094,0,,,False,,,,,,,,,,,,,
+902,12483094,1,,,False,,,,,,,,,,,,,
+903,12483094,2,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+904,12483094,2,product containing unoprostone isopropyl,isopropyl unoprostone,,2,,12,2,,,,,,CHEMICAL,,,
+905,12483094,2,oht - ocular hypertension,ocular hypertension,True,3,23.674118041992188,34,3,[2],,,,,DISEASE,,,1.0
+906,12483094,3,unspecified glaucoma,glaucoma,False,1,13.013349533081055,28,1,[],,,,,DISEASE,,,0.0
+907,12483094,4,,,False,,,,,,,,,,,,,
+908,12483094,5,latanoprost product,latanoprost,,1,,9,1,,,,,,CHEMICAL,,,
+909,12483094,5,product containing unoprostone isopropyl,unoprostone,,2,,20,2,,,,,,CHEMICAL,,,
+910,12483094,5,oht - ocular hypertension,ocular hypertension,True,3,16.903539657592773,47,3,[5],,,,,DISEASE,,,1.0
+911,12483094,6,,,False,,,,,,,,,,,,,
+912,12483094,7,,,False,,,,,,,,,,,,,
+913,12483094,8,latanoprost product,latanoprost,False,1,5.655191898345947,6,1,[],,,,,CHEMICAL,,,0.0
+914,12483094,9,,,False,,,,,,,,,,,,,
+915,12483094,11,latanoprost product,latanoprost,False,1,2.9189460277557373,10,1,[],,,,,CHEMICAL,,,0.0
+916,12483094,12,latanoprost product,latanoprost,False,1,15.003471374511719,52,1,[],,,,,CHEMICAL,,,0.0
+917,12483094,13,latanoprost product,latanoprost,False,1,11.40103530883789,6,1,[],,,,,CHEMICAL,,,0.0
+918,12483094,14,latanoprost product,latanoprost,False,1,7.482060432434082,16,1,[],,,,,CHEMICAL,,,0.0
+919,12483094,15,,,False,,,,,,,,,,,,,
+920,12483094,16,latanoprost product,latanoprost,False,1,3.1472089290618896,2,1,[],,,,,CHEMICAL,,,0.0
+921,12483094,17,,,False,,,,,,,,,,,,,
+922,12660585,0,,,False,,,,,,,,,,,,,
+923,12660585,1,,,False,,,,,,,,,,,,,
+924,12660585,2,,,False,,,,,,,,,,,,,
+925,12660585,3,,,False,,,,,,,,,,,,,
+926,12660585,4,,,False,,,,,,,,,,,,,
+927,12660585,5,,,False,,,,,,,,,,,,,
+928,12660585,6,,,False,,,,,,,,,,,,,
+929,12660585,7,,,False,,,,,,,,,,,,,
+930,12660585,8,,,False,,,,,,,,,,,,,
+931,12660585,9,,,False,,,,,,,,,,,,,
+932,12660585,10,,,False,,,,,,,,,,,,,
+933,12660585,11,,,False,,,,,,,,,,,,,
+934,12660585,12,open cleft glaucoma,glaucoma,True,1,4.006814956665039,9,1,[12],,,,,DISEASE,,,1.0
+935,12660585,13,,,False,,,,,,,,,,,,,
+936,12660585,14,,,False,,,,,,,,,,,,,
+937,12660585,15,,,False,,,,,,,,,,,,,
+938,12660585,17,secondary / other glaucoma,glaucoma,True,1,23.79808807373047,13,1,"[34, 35, 28, 29, 36]",,,,,DISEASE,,,0.0
+939,12660585,18,,,False,,,,,,,,,,,,,
+940,12660585,19,,,False,,,,,,,,,,,,,
+941,12660585,20,,,False,,,,,,,,,,,,,
+942,12660585,21,,,False,,,,,,,,,,,,,
+943,12660585,22,,,False,,,,,,,,,,,,,
+944,12660585,23,,,False,,,,,,,,,,,,,
+945,12660585,24,,,False,,,,,,,,,,,,,
+946,12660585,25,,,False,,,,,,,,,,,,,
+947,12660585,32,blurry vision,blurred vision,False,1,5.513283729553223,1,1,[],,,,,DISEASE,,,0.0
+948,12660585,33,subjective vertigo,vertigo,,1,,16,1,,,,,,DISEASE,,,
+949,12660585,33,punctate keratitis,keratitis,False,2,0.20954683423042297,24,2,[],,,,,DISEASE,,,0.0
+950,12660585,34,,,False,,,,,,,,,,,,,
+951,12660585,35,,,False,,,,,,,,,,,,,
+952,12660585,36,,,False,,,,,,,,,,,,,
+953,12660585,37,unspecified glaucoma,glaucoma,False,1,0.8861278295516968,26,1,[],,,,,DISEASE,,,0.0
+954,12660585,38,,,False,,,,,,,,,,,,,
+955,12660585,26,,,False,,,,,,,,,,,,,
+956,12660585,27,,,False,,,,,,,,,,,,,
+957,12660585,28,,,False,,,,,,,,,,,,,
+958,12660585,29,,,False,,,,,,,,,,,,,
+959,12660585,30,,,False,,,,,,,,,,,,,
+960,12660585,31,stinging sensation,stinging,False,1,6.198756217956543,4,1,[],,,,,DISEASE,,,0.0
+961,1524115,0,,,False,,,,,,,,,,,,,
+962,1524115,1,,,False,,,,,,,,,,,,,
+963,1524115,2,product containing levobunolol,levobunolol,False,1,25.24250030517578,5,1,[],,,,,CHEMICAL,,,0.0
+964,1524115,3,,,False,,,,,,,,,,,,,
+965,1524115,4,,,False,,,,,,,,,,,,,
+966,1524115,5,product containing levobunolol,levobunolol,,1,,20,1,,,,,,CHEMICAL,,,
+967,1524115,5,unspecified glaucoma,glaucoma,False,2,20.314123153686523,65,2,[],,,,,DISEASE,,,0.0
+968,1524115,6,,,False,,,,,,,,,,,,,
+969,1524115,7,product containing levobunolol,levobunolol,False,1,10.529834747314453,7,1,[],,,,,CHEMICAL,,,0.0
+970,1524115,8,product containing levobunolol,levobunolol,False,1,21.352989196777344,12,1,[],,,,,CHEMICAL,,,0.0
+971,1524115,9,,,False,,,,,,,,,,,,,
+972,1524115,10,unspecified glaucoma,glaucoma,False,1,5.989066123962402,6,1,[],,,,,DISEASE,,,0.0
+973,1524115,11,,,False,,,,,,,,,,,,,
+974,1524115,12,,,False,,,,,,,,,,,,,
+975,1524115,13,,,False,,,,,,,,,,,,,
+976,25432143,0,,,False,,,,,,,,,,,,,
+977,25432143,1,,,False,,,,,,,,,,,,,
+978,25432143,2,travoprost product,travoprost,,1,,15,1,,,,,,CHEMICAL,,,
+979,25432143,2,bimatoprost product,bimatoprost,,2,,27,2,,,,,,CHEMICAL,,,
+980,25432143,2,oht - ocular hypertension,ocular hypertension,False,3,22.4469051361084,48,3,[],,,,,DISEASE,,,0.0
+981,25432143,3,,,False,,,,,,,,,,,,,
+982,25432143,4,,,False,,,,,,,,,,,,,
+983,25432143,6,,,False,,,,,,,,,,,,,
+984,25432143,7,pg - prostaglandin,prostaglandin,False,1,12.387063980102539,9,1,[],,,,,CHEMICAL,,,0.0
+985,25432143,8,oht - ocular hypertension,ocular hypertension,False,1,8.120542526245117,66,1,[],,,,,DISEASE,,,0.0
+986,25432143,9,,,False,,,,,,,,,,,,,
+987,25432143,10,,,False,,,,,,,,,,,,,
+988,25432143,11,,,False,,,,,,,,,,,,,
+989,25432143,12,,,False,,,,,,,,,,,,,
+990,25432143,14,atopic conjunctivitis,allergic conjunctivitis,False,1,19.311691284179688,7,1,[],,,,,DISEASE,,,0.0
+991,25432143,15,,,False,,,,,,,,,,,,,
+992,25432143,16,,,False,,,,,,,,,,,,,
+993,25432143,17,,,False,,,,,,,,,,,,,
+994,25432143,19,hyperaemia,hyperemia,False,1,5.584931373596191,25,1,[],,,,,DISEASE,,,0.0
+995,25432143,20,,,False,,,,,,,,,,,,,
+996,25432143,21,,,False,,,,,,,,,,,,,
+997,25432143,23,,,False,,,,,,,,,,,,,
+998,8694726,0,,,False,,,,,,,,,,,,,
+999,8694726,1,,,False,,,,,,,,,,,,,
+1000,8694726,2,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+1001,8694726,2,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+1002,8694726,2,oht - ocular hypertension,ocular hypertension,False,3,28.383934020996094,24,3,[],,,,,DISEASE,,,0.0
+1003,8694726,3,,,False,,,,,,,,,,,,,
+1004,8694726,4,,,False,,,,,,,,,,,,,
+1005,8694726,6,,,False,,,,,,,,,,,,,
+1006,8694726,7,latanoprost product,latanoprost,,1,,21,1,,,,,,CHEMICAL,,,
+1007,8694726,7,maleate timolol,timolol maleate,True,2,14.73206615447998,65,2,[8],,,,,CHEMICAL,,,1.0
+1008,8694726,8,oht - ocular hypertension,ocular hypertension,True,1,15.211946487426758,17,1,[9],,,,,DISEASE,,,1.0
+1009,8694726,9,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+1010,8694726,9,maleate timolol,timolol maleate,True,2,9.408781051635742,26,2,[10],,,,,CHEMICAL,,,3.0
+1011,8694726,10,timolol product,timolol,False,1,7.061126708984375,12,1,[],,,,,CHEMICAL,,,0.0
+1012,8694726,11,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1013,8694726,11,timolol product,timolol,False,2,6.919124603271484,45,2,[],,,,,CHEMICAL,,,0.0
+1014,8694726,12,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+1015,8694726,12,timolol product,timolol,False,2,1.0345876216888428,15,2,[],,,,,CHEMICAL,,,0.0
+1016,8694726,13,conjunctival hyperaemia,conjunctival hyperemia,,1,,11,1,,,,,,DISEASE,,,
+1017,8694726,13,smarting pain,smarting,True,2,11.048444747924805,20,2,[13],,,,,DISEASE,,,3.0
+1018,8694726,14,timolol product,timolol,False,1,7.152998924255371,17,1,[],,,,,CHEMICAL,,,0.0
+1019,8694726,15,latanoprost product,latanoprost,,1,,14,1,,,,,,CHEMICAL,,,
+1020,8694726,15,timolol product,timolol,False,2,8.009787559509277,38,2,[],,,,,CHEMICAL,,,0.0
+1021,8694726,16,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1022,8694726,16,unspecified glaucoma,glaucoma,False,2,5.605777740478516,18,2,[],,,,,DISEASE,,,0.0
+1023,8694726,17,,,False,,,,,,,,,,,,,
+1024,17571086,0,,,False,,,,,,,,,,,,,
+1025,17571086,1,,,False,,,,,,,,,,,,,
+1026,17571086,3,brimonidine product,brimonidine,,1,,8,1,,,,,,CHEMICAL,,,
+1027,17571086,3,timolol product,timolol,False,2,20.786619186401367,14,2,[],,,,,CHEMICAL,,,0.0
+1028,17571086,4,,,False,,,,,,,,,,,,,
+1029,17571086,5,,,False,,,,,,,,,,,,,
+1030,17571086,6,brimonidine product,brimonidine,,1,,18,1,,,,,,CHEMICAL,,,
+1031,17571086,6,timolol product,timolol,,2,,24,2,,,,,,CHEMICAL,,,
+1032,17571086,6,oht - ocular hypertension,ocular hypertension,False,3,16.881755828857422,62,3,[],,,,,DISEASE,,,0.0
+1033,17571086,7,,,False,,,,,,,,,,,,,
+1034,17571086,8,brimonidine product,brimonidine,,1,,24,1,,,,,,CHEMICAL,,,
+1035,17571086,8,timolol product,timolol,True,2,7.576333999633789,30,2,[9],,,,,CHEMICAL,,,2.0
+1036,17571086,9,,,False,,,,,,,,,,,,,
+1037,17571086,10,,,False,,,,,,,,,,,,,
+1038,17571086,11,,,False,,,,,,,,,,,,,
+1039,17571086,12,,,False,,,,,,,,,,,,,
+1040,17571086,13,,,False,,,,,,,,,,,,,
+1041,17571086,14,,,False,,,,,,,,,,,,,
+1042,17571086,15,,,False,,,,,,,,,,,,,
+1043,17571086,16,brimonidine product,brimonidine,,1,,15,1,,,,,,CHEMICAL,,,
+1044,17571086,16,timolol product,timolol,False,2,7.530750274658203,21,2,[],,,,,CHEMICAL,,,0.0
+1045,17571086,17,,,False,,,,,,,,,,,,,
+1046,17407624,0,,,False,,,,,,,,,,,,,
+1047,17407624,1,,,False,,,,,,,,,,,,,
+1048,17407624,2,brimonidine product,brimonidine,,1,,4,1,,,,,,CHEMICAL,,,
+1049,17407624,2,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+1050,17407624,2,product containing dorzolamide,dorzolamide,,3,,17,3,,,,,,CHEMICAL,,,
+1051,17407624,2,timolol product,timolol,False,4,22.824262619018555,24,4,[],,,,,CHEMICAL,,,0.0
+1052,17407624,3,,,False,,,,,,,,,,,,,
+1053,17407624,4,unspecified glaucoma,glaucoma,False,1,14.025259017944336,6,1,[],,,,,DISEASE,,,0.0
+1054,17407624,5,brimonidine product,brimonidine,,1,,18,1,,,,,,CHEMICAL,,,
+1055,17407624,5,timolol product,timolol,,2,,24,2,,,,,,CHEMICAL,,,
+1056,17407624,5,product containing dorzolamide,dorzolamide,,3,,35,3,,,,,,CHEMICAL,,,
+1057,17407624,5,timolol product,timolol,,4,,42,4,,,,,,CHEMICAL,,,
+1058,17407624,5,oht - ocular hypertension,ocular hypertension,True,5,18.12955665588379,68,5,[5],,,,,DISEASE,,,2.0
+1059,17407624,6,,,False,,,,,,,,,,,,,
+1060,17407624,7,,,False,,,,,,,,,,,,,
+1061,17407624,8,,,False,,,,,,,,,,,,,
+1062,17407624,9,,,False,,,,,,,,,,,,,
+1063,17407624,10,,,False,,,,,,,,,,,,,
+1064,17407624,12,,,False,,,,,,,,,,,,,
+1065,17407624,13,,,False,,,,,,,,,,,,,
+1066,17407624,14,,,False,,,,,,,,,,,,,
+1067,17407624,15,,,False,,,,,,,,,,,,,
+1068,17407624,16,,,False,,,,,,,,,,,,,
+1069,17407624,17,,,False,,,,,,,,,,,,,
+1070,17407624,18,,,False,,,,,,,,,,,,,
+1071,17407624,19,,,False,,,,,,,,,,,,,
+1072,17407624,20,,,False,,,,,,,,,,,,,
+1073,21257146,0,,,False,,,,,,,,,,,,,
+1074,21257146,1,,,False,,,,,,,,,,,,,
+1075,21257146,3,brimonidine product,brimonidine,,1,,5,1,,,,,,CHEMICAL,,,
+1076,21257146,3,timolol product,timolol,True,2,53.583377838134766,11,2,[4],,,,,CHEMICAL,,,1.0
+1077,21257146,4,,,False,,,,,,,,,,,,,
+1078,21257146,6,,,False,,,,,,,,,,,,,
+1079,21257146,15,maleate timolol,timolol maleate,False,1,0.38476020097732544,34,1,[],,,,,CHEMICAL,,,0.0
+1080,21257146,16,,,False,,,,,,,,,,,,,
+1081,21257146,17,,,False,,,,,,,,,,,,,
+1082,21257146,18,brimonidine product,brimonidine,,1,,16,1,,,,,,CHEMICAL,,,
+1083,21257146,18,timolol product,timolol,False,2,40.448753356933594,23,2,[],,,,,CHEMICAL,,,0.0
+1084,21257146,20,,,False,,,,,,,,,,,,,
+1085,21257146,21,unspecified glaucoma,glaucoma,False,1,2.8464529514312744,7,1,[],,,,,DISEASE,,,0.0
+1086,21257146,22,brimonidine product,brimonidine,,1,,10,1,,,,,,CHEMICAL,,,
+1087,21257146,22,timolol product,timolol,False,2,35.04457092285156,18,2,[],,,,,CHEMICAL,,,0.0
+1088,21257146,23,,,False,,,,,,,,,,,,,
+1089,21257146,24,brimonidine product,brimonidine,,1,,3,1,,,,,,CHEMICAL,,,
+1090,21257146,24,timolol product,timolol,False,2,17.194849014282227,29,2,[],,,,,CHEMICAL,,,0.0
+1091,21257146,25,brimonidine product,brimonidine,,1,,7,1,,,,,,CHEMICAL,,,
+1092,21257146,25,timolol product,timolol,False,2,12.565113067626953,14,2,[],,,,,CHEMICAL,,,0.0
+1093,21257146,26,brimonidine product,brimonidine,,1,,1,1,,,,,,CHEMICAL,,,
+1094,21257146,26,timolol product,timolol,False,2,11.37319564819336,17,2,[],,,,,CHEMICAL,,,0.0
+1095,21257146,28,brimonidine product,brimonidine,,1,,12,1,,,,,,CHEMICAL,,,
+1096,21257146,28,timolol product,timolol,False,2,5.499478340148926,40,2,[],,,,,CHEMICAL,,,0.0
+1097,21257146,30,,,False,,,,,,,,,,,,,
+1098,17197028,0,,,False,,,,,,,,,,,,,
+1099,17197028,1,,,False,,,,,,,,,,,,,
+1100,17197028,3,latanoprost product,latanoprost,,1,,4,1,,,,,,CHEMICAL,,,
+1101,17197028,3,travoprost product,travoprost,,2,,11,2,,,,,,CHEMICAL,,,
+1102,17197028,3,unspecified glaucoma,glaucoma,True,3,54.69941711425781,21,3,"[7, 4]",,,,,DISEASE,,,1.0
+1103,17197028,4,,,False,,,,,,,,,,,,,
+1104,17197028,5,,,False,,,,,,,,,,,,,
+1105,17197028,6,latanoprost product,latanoprost,,1,,17,1,,,,,,CHEMICAL,,,
+1106,17197028,6,travoprost product,travoprost,,2,,24,2,,,,,,CHEMICAL,,,
+1107,17197028,6,unspecified glaucoma,glaucoma,True,3,49.03123474121094,40,3,[7],,,,,DISEASE,,,0.0
+1108,17197028,7,,,False,,,,,,,,,,,,,
+1109,17197028,8,unspecified glaucoma,glaucoma,True,1,43.265159606933594,8,1,[9],,,,,DISEASE,,,1.0
+1110,17197028,9,latanoprost product,latanoprost,,1,,15,1,,,,,,CHEMICAL,,,
+1111,17197028,9,travoprost product,travoprost,False,2,43.320030212402344,22,2,[],,,,,CHEMICAL,,,0.0
+1112,17197028,11,,,False,,,,,,,,,,,,,
+1113,17197028,12,,,False,,,,,,,,,,,,,
+1114,17197028,13,latanoprost product,latanoprost,,1,,36,1,,,,,,CHEMICAL,,,
+1115,17197028,13,travoprost product,travoprost,True,2,37.07250213623047,56,2,[14],,,,,CHEMICAL,,,1.0
+1116,17197028,14,travoprost product,travoprost,True,1,35.133968353271484,13,1,[15],,,,,CHEMICAL,,,1.0
+1117,17197028,16,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1118,17197028,16,travoprost product,travoprost,,2,,9,2,,,,,,CHEMICAL,,,
+1119,17197028,16,unspecified glaucoma,glaucoma,,3,,30,3,,,,,,DISEASE,,,
+1120,17197028,16,travoprost product,travoprost,False,4,14.476588249206543,37,4,[],,,,,CHEMICAL,,,0.0
+1121,17197028,17,,,False,,,,,,,,,,,,,
+1122,17197028,15,travoprost product,travoprost,,1,,12,1,,,,,,CHEMICAL,,,
+1123,17197028,15,latanoprost product,latanoprost,False,2,12.63402271270752,24,2,[],,,,,CHEMICAL,,,0.0
+1124,1882923,0,,,False,,,,,,,,,,,,,
+1125,1882923,1,,,False,,,,,,,,,,,,,
+1126,1882923,2,product containing levobunolol,levobunolol,,1,,5,1,,,,,,CHEMICAL,,,
+1127,1882923,2,timolol product,timolol,False,2,47.78579330444336,17,2,[],,,,,CHEMICAL,,,0.0
+1128,1882923,3,,,False,,,,,,,,,,,,,
+1129,1882923,4,,,False,,,,,,,,,,,,,
+1130,1882923,5,product containing levobunolol,levobunolol,,1,,34,1,,,,,,CHEMICAL,,,
+1131,1882923,5,timolol product,timolol,,2,,46,2,,,,,,CHEMICAL,,,
+1132,1882923,5,oht - ocular hypertension,ocular hypertension,False,3,36.554344177246094,62,3,[],,,,,DISEASE,,,0.0
+1133,1882923,6,product containing levobunolol,levobunolol,,1,,17,1,,,,,,CHEMICAL,,,
+1134,1882923,6,timolol product,timolol,True,2,23.46432876586914,41,2,[6],,,,,CHEMICAL,,,1.0
+1135,1882923,7,product containing levobunolol,levobunolol,,1,,26,1,,,,,,CHEMICAL,,,
+1136,1882923,7,timolol product,timolol,False,2,12.543790817260742,51,2,[],,,,,CHEMICAL,,,0.0
+1137,1882923,9,,,False,,,,,,,,,,,,,
+1138,1882923,10,product containing levobunolol,levobunolol,,1,,4,1,,,,,,CHEMICAL,,,
+1139,1882923,10,timolol product,timolol,,2,,16,2,,,,,,CHEMICAL,,,
+1140,1882923,10,oht - ocular hypertension,ocular hypertension,False,3,7.630283355712891,44,3,[],,,,,DISEASE,,,0.0
+1141,1882923,11,,,False,,,,,,,,,,,,,
+1142,16750448,0,,,False,,,,,,,,,,,,,
+1143,16750448,1,,,False,,,,,,,,,,,,,
+1144,16750448,2,travoprost product,travoprost,,1,,19,1,,,,,,CHEMICAL,,,
+1145,16750448,2,latanoprost product,latanoprost,,2,,32,2,,,,,,CHEMICAL,,,
+1146,16750448,2,timolol product,timolol,,3,,44,3,,,,,,CHEMICAL,,,
+1147,16750448,2,oht - ocular hypertension,ocular hypertension,True,4,15.786526679992676,64,4,[2],,,,,DISEASE,,,1.0
+1148,16750448,3,unspecified glaucoma,glaucoma,False,1,8.692804336547852,29,1,[],,,,,DISEASE,,,0.0
+1149,16750448,4,travoprost product,travoprost,,1,,36,1,,,,,,CHEMICAL,,,
+1150,16750448,4,latanoprost product,latanoprost,,2,,55,2,,,,,,CHEMICAL,,,
+1151,16750448,4,timolol product,timolol,,3,,67,3,,,,,,CHEMICAL,,,
+1152,16750448,4,oht - ocular hypertension,ocular hypertension,True,4,8.875608444213867,90,4,[4],,,,,DISEASE,,,1.0
+1153,16750448,5,,,False,,,,,,,,,,,,,
+1154,16750448,6,oht - ocular hypertension,ocular hypertension,False,1,3.623220443725586,26,1,[],,,,,DISEASE,,,0.0
+1155,16750448,7,travoprost product,travoprost,,1,,15,1,,,,,,CHEMICAL,,,
+1156,16750448,7,latanoprost product,latanoprost,,2,,22,2,,,,,,CHEMICAL,,,
+1157,16750448,7,timolol product,timolol,False,3,0.7944839000701904,29,3,[],,,,,CHEMICAL,,,0.0
+1158,16750448,8,travoprost product,travoprost,,1,,3,1,,,,,,CHEMICAL,,,
+1159,16750448,8,travoprost product,travoprost,,2,,11,2,,,,,,CHEMICAL,,,
+1160,16750448,8,latanoprost product,latanoprost,,3,,30,3,,,,,,CHEMICAL,,,
+1161,16750448,8,timolol product,timolol,,4,,37,4,,,,,,CHEMICAL,,,
+1162,16750448,8,latanoprost product,latanoprost,,5,,43,5,,,,,,CHEMICAL,,,
+1163,16750448,8,timolol product,timolol,False,6,13.786989212036133,50,6,[],,,,,CHEMICAL,,,0.0
+1164,16750448,9,,,False,,,,,,,,,,,,,
+1165,16750448,10,,,False,,,,,,,,,,,,,
+1166,16750448,11,travoprost product,travoprost,,1,,19,1,,,,,,CHEMICAL,,,
+1167,16750448,11,latanoprost product,latanoprost,,2,,30,2,,,,,,CHEMICAL,,,
+1168,16750448,11,timolol product,timolol,False,3,7.088863372802734,37,3,[],,,,,CHEMICAL,,,0.0
+1169,16750448,13,,,False,,,,,,,,,,,,,
+1170,16750448,14,travoprost product,travoprost,,1,,24,1,,,,,,CHEMICAL,,,
+1171,16750448,14,latanoprost product,latanoprost,,2,,31,2,,,,,,CHEMICAL,,,
+1172,16750448,14,timolol product,timolol,False,3,4.439015865325928,38,3,[],,,,,CHEMICAL,,,0.0
+1173,16750448,15,,,False,,,,,,,,,,,,,
+1174,16750448,16,travoprost product,travoprost,,1,,8,1,,,,,,CHEMICAL,,,
+1175,16750448,16,ocular hyperaemia,ocular hyperemia,,2,,16,2,,,,,,DISEASE,,,
+1176,16750448,16,subnormal vision,abnormal vision,,3,,38,3,,,,,,DISEASE,,,
+1177,16750448,16,allergic reactions,allergic reaction,,4,,49,4,,,,,,DISEASE,,,
+1178,16750448,16,unspecified conjunctivitis,conjunctivitis,,5,,58,5,,,,,,DISEASE,,,
+1179,16750448,16,unspecified dacryocystitis,dacryocystitis,,6,,71,6,,,,,,DISEASE,,,
+1180,16750448,16,itching eye,pruritus,,7,,95,7,,,,,,DISEASE,,,
+1181,16750448,16,excess tearing,tearing,True,8,16.577192306518555,126,8,[20],,,,,DISEASE,,,1.0
+1182,16750448,17,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1183,16750448,17,timolol product,timolol,,2,,9,2,,,,,,CHEMICAL,,,
+1184,16750448,17,unspecified cataract,cataract,,3,,22,3,,,,,,DISEASE,,,
+1185,16750448,17,itching eye,pruritus,False,4,7.553766250610352,43,4,[],,,,,DISEASE,,,0.0
+1186,16750448,18,travoprost product,travoprost,,1,,9,1,,,,,,CHEMICAL,,,
+1187,16750448,18,latanoprost product,latanoprost,,2,,21,2,,,,,,CHEMICAL,,,
+1188,16750448,18,timolol product,timolol,False,3,3.5588996410369873,33,3,[],,,,,CHEMICAL,,,0.0
+1189,16750448,19,,,False,,,,,,,,,,,,,
+1190,16750448,20,,,False,,,,,,,,,,,,,
+1191,10877373,0,,,False,,,,,,,,,,,,,
+1192,10877373,1,,,False,,,,,,,,,,,,,
+1193,10877373,2,brimonidine product,brimonidine,,1,,7,1,,,,,,CHEMICAL,,,
+1194,10877373,2,timolol product,timolol,,2,,17,2,,,,,,CHEMICAL,,,
+1195,10877373,2,unspecified glaucoma,glaucoma,True,3,23.20893669128418,29,3,"[6, 2]",,,,,DISEASE,,,1.0
+1196,10877373,3,brimonidine product,brimonidine,False,1,15.445645332336426,0,1,[],,,,,CHEMICAL,,,0.0
+1197,10877373,4,,,False,,,,,,,,,,,,,
+1198,10877373,5,brimonidine product,brimonidine,,1,,14,1,,,,,,CHEMICAL,,,
+1199,10877373,5,timolol product,timolol,,2,,24,2,,,,,,CHEMICAL,,,
+1200,10877373,5,unspecified glaucoma,glaucoma,True,3,17.340377807617188,38,3,[6],,,,,DISEASE,,,0.0
+1201,10877373,6,maleate timolol,timolol maleate,,1,,43,1,,,,,,CHEMICAL,,,
+1202,10877373,6,unspecified glaucoma,glaucoma,True,2,9.060829162597656,55,2,[6],,,,,DISEASE,,,6.0
+1203,10877373,7,brimonidine product,brimonidine,,1,,11,1,,,,,,CHEMICAL,,,
+1204,10877373,7,timolol product,timolol,False,2,8.784468650817871,21,2,[],,,,,CHEMICAL,,,0.0
+1205,10877373,8,,,False,,,,,,,,,,,,,
+1206,10877373,9,,,False,,,,,,,,,,,,,
+1207,10877373,10,,,False,,,,,,,,,,,,,
+1208,10877373,11,brimonidine product,brimonidine,,1,,13,1,,,,,,CHEMICAL,,,
+1209,10877373,11,timolol product,timolol,False,2,4.333547115325928,27,2,[],,,,,CHEMICAL,,,0.0
+1210,10877373,12,brimonidine product,brimonidine,,1,,15,1,,,,,,CHEMICAL,,,
+1211,10877373,12,timolol product,timolol,False,2,1.2993874549865723,28,2,[],,,,,CHEMICAL,,,0.0
+1212,10877373,13,stinging sensation,stinging,,1,,22,1,,,,,,DISEASE,,,
+1213,10877373,13,brimonidine product,brimonidine,True,2,11.975577354431152,26,2,[19],,,,,CHEMICAL,,,1.0
+1214,10877373,14,brimonidine product,brimonidine,,1,,14,1,,,,,,CHEMICAL,,,
+1215,10877373,14,timolol product,timolol,False,2,10.185943603515625,37,2,[],,,,,CHEMICAL,,,0.0
+1216,10877373,16,,,False,,,,,,,,,,,,,
+1217,10877373,17,unspecified glaucoma,glaucoma,,1,,12,1,,,,,,DISEASE,,,
+1218,10877373,17,oht - ocular hypertension,ocular hypertension,,2,,18,2,,,,,,DISEASE,,,
+1219,10877373,17,brimonidine product,brimonidine,,3,,26,3,,,,,,CHEMICAL,,,
+1220,10877373,17,timolol product,timolol,True,4,10.305185317993164,36,4,[17],,,,,CHEMICAL,,,1.0
+1221,10877373,18,brimonidine product,brimonidine,,1,,0,1,,,,,,CHEMICAL,,,
+1222,10877373,18,timolol product,timolol,,2,,10,2,,,,,,CHEMICAL,,,
+1223,10877373,18,unspecified glaucoma,glaucoma,,3,,20,3,,,,,,DISEASE,,,
+1224,10877373,18,oht - ocular hypertension,ocular hypertension,False,4,6.723323822021484,26,4,[],,,,,DISEASE,,,0.0
+1225,10877373,19,,,False,,,,,,,,,,,,,
+1226,8123096,0,,,False,,,,,,,,,,,,,
+1227,8123096,1,,,False,,,,,,,,,,,,,
+1228,8123096,2,product containing levobunolol,levobunolol,,1,,0,1,,,,,,CHEMICAL,,,
+1229,8123096,2,dipivalyl epinephrine,dipivefrin,,2,,9,2,,,,,,CHEMICAL,,,
+1230,8123096,2,open cleft glaucoma,glaucoma,True,3,55.30637741088867,24,3,[2],,,,,DISEASE,,,2.0
+1231,8123096,3,,,False,,,,,,,,,,,,,
+1232,8123096,4,,,False,,,,,,,,,,,,,
+1233,8123096,5,open cleft glaucoma,glaucoma,False,1,26.580963134765625,5,1,[],,,,,DISEASE,,,0.0
+1234,8123096,6,unspecified glaucoma,glaucoma,False,1,26.003755569458008,7,1,[],,,,,DISEASE,,,0.0
+1235,8123096,7,open cleft glaucoma,glaucoma,,1,,14,1,,,,,,DISEASE,,,
+1236,8123096,7,product containing levobunolol,levobunolol,True,2,33.980369567871094,21,2,[7],,,,,CHEMICAL,,,1.0
+1237,8123096,8,dipivalyl epinephrine,dipivefrin,True,1,31.88681411743164,1,1,[8],,,,,CHEMICAL,,,1.0
+1238,8123096,9,,,False,,,,,,,,,,,,,
+1239,8123096,10,,,False,,,,,,,,,,,,,
+1240,8123096,11,,,False,,,,,,,,,,,,,
+1241,8123096,12,,,False,,,,,,,,,,,,,
+1242,8123096,13,product containing levobunolol,levobunolol,False,1,13.992708206176758,14,1,[],,,,,CHEMICAL,,,0.0
+1243,8123096,14,dipivalyl epinephrine,dipivefrin,False,1,11.372196197509766,14,1,[],,,,,CHEMICAL,,,0.0
+1244,8123096,16,product containing levobunolol,levobunolol,,1,,1,1,,,,,,CHEMICAL,,,
+1245,8123096,16,dipivalyl epinephrine,dipivefrin,,2,,9,2,,,,,,CHEMICAL,,,
+1246,8123096,16,open cleft glaucoma,glaucoma,False,3,8.27401351928711,35,3,[],,,,,DISEASE,,,0.0
+1247,8123096,17,,,False,,,,,,,,,,,,,
+1248,16825272,0,,,False,,,,,,,,,,,,,
+1249,16825272,1,,,False,,,,,,,,,,,,,
+1250,16825272,2,,,False,,,,,,,,,,,,,
+1251,16825272,3,bimatoprost product,bimatoprost,,1,,8,1,,,,,,CHEMICAL,,,
+1252,16825272,3,travoprost product,travoprost,,2,,19,2,,,,,,CHEMICAL,,,
+1253,16825272,3,unspecified glaucoma,glaucoma,,3,,33,3,,,,,,DISEASE,,,
+1254,16825272,3,oht - ocular hypertension,ocular hypertension,True,4,20.707721710205078,39,4,"[14, 3]",,,,,DISEASE,,,4.0
+1255,16825272,4,bimatoprost product,bimatoprost,,1,,22,1,,,,,,CHEMICAL,,,
+1256,16825272,4,travoprost product,travoprost,False,2,13.211204528808594,29,2,[],,,,,CHEMICAL,,,0.0
+1257,16825272,5,,,False,,,,,,,,,,,,,
+1258,16825272,7,,,False,,,,,,,,,,,,,
+1259,16825272,8,bimatoprost product,bimatoprost,,1,,10,1,,,,,,CHEMICAL,,,
+1260,16825272,8,travoprost product,travoprost,,2,,17,2,,,,,,CHEMICAL,,,
+1261,16825272,8,unspecified glaucoma,glaucoma,,3,,38,3,,,,,,DISEASE,,,
+1262,16825272,8,oht - ocular hypertension,ocular hypertension,True,4,13.338481903076172,44,4,"[14, 9]",,,,,DISEASE,,,1.0
+1263,16825272,9,,,False,,,,,,,,,,,,,
+1264,16825272,10,unspecified glaucoma,glaucoma,,1,,7,1,,,,,,DISEASE,,,
+1265,16825272,10,bimatoprost product,bimatoprost,,2,,24,2,,,,,,CHEMICAL,,,
+1266,16825272,10,travoprost product,travoprost,False,3,7.721436500549316,31,3,[],,,,,CHEMICAL,,,0.0
+1267,16825272,11,,,False,,,,,,,,,,,,,
+1268,16825272,12,,,False,,,,,,,,,,,,,
+1269,16825272,13,,,False,,,,,,,,,,,,,
+1270,16825272,14,,,False,,,,,,,,,,,,,
+1271,16825272,15,bimatoprost product,bimatoprost,,1,,27,1,,,,,,CHEMICAL,,,
+1272,16825272,15,travoprost product,travoprost,False,2,19.732105255126953,52,2,[],,,,,CHEMICAL,,,0.0
+1273,16825272,16,bimatoprost product,bimatoprost,,1,,18,1,,,,,,CHEMICAL,,,
+1274,16825272,16,travoprost product,travoprost,False,2,15.262982368469238,44,2,[],,,,,CHEMICAL,,,0.0
+1275,16825272,17,bimatoprost product,bimatoprost,,1,,25,1,,,,,,CHEMICAL,,,
+1276,16825272,17,travoprost product,travoprost,False,2,7.1124067306518555,51,2,[],,,,,CHEMICAL,,,0.0
+1277,16825272,18,,,False,,,,,,,,,,,,,
+1278,16825272,19,bimatoprost product,bimatoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1279,16825272,19,travoprost product,travoprost,False,2,3.092862844467163,15,2,[],,,,,CHEMICAL,,,0.0
+1280,16825272,20,,,False,,,,,,,,,,,,,
+1281,22320418,0,,,False,,,,,,,,,,,,,
+1282,22320418,1,,,False,,,,,,,,,,,,,
+1283,22320418,3,product containing dorzolamide,dorzolamide,,1,,2,1,,,,,,CHEMICAL,,,
+1284,22320418,3,timolol product,timolol,,2,,9,2,,,,,,CHEMICAL,,,
+1285,22320418,3,latanoprost product,latanoprost,,3,,14,3,,,,,,CHEMICAL,,,
+1286,22320418,3,timolol product,timolol,False,4,23.418746948242188,21,4,[],,,,,CHEMICAL,,,0.0
+1287,22320418,4,,,False,,,,,,,,,,,,,
+1288,22320418,5,maleate timolol,timolol maleate,,1,,31,1,,,,,,CHEMICAL,,,
+1289,22320418,5,latanoprost product,latanoprost,,2,,47,2,,,,,,CHEMICAL,,,
+1290,22320418,5,maleate timolol,timolol maleate,True,3,9.949525833129883,59,3,[6],,,,,CHEMICAL,,,1.0
+1291,22320418,6,,,False,,,,,,,,,,,,,
+1292,22320418,7,latanoprost product,latanoprost,,1,,11,1,,,,,,CHEMICAL,,,
+1293,22320418,7,maleate timolol,timolol maleate,True,2,5.875035285949707,23,2,[8],,,,,CHEMICAL,,,1.0
+1294,22320418,8,,,False,,,,,,,,,,,,,
+1295,22320418,9,,,False,,,,,,,,,,,,,
+1296,22320418,10,,,False,,,,,,,,,,,,,
+1297,22320418,11,stinging sensation,stinging,True,1,8.776130676269531,7,1,[11],,,,,DISEASE,,,2.0
+1298,22320418,12,,,False,,,,,,,,,,,,,
+1299,22320418,13,,,False,,,,,,,,,,,,,
+1300,11825814,0,,,False,,,,,,,,,,,,,
+1301,11825814,1,,,False,,,,,,,,,,,,,
+1302,11825814,2,brimonidine product,brimonidine,,1,,5,1,,,,,,CHEMICAL,,,
+1303,11825814,2,latanoprost product,latanoprost,,2,,11,2,,,,,,CHEMICAL,,,
+1304,11825814,2,unspecified glaucoma,glaucoma,,3,,22,3,,,,,,DISEASE,,,
+1305,11825814,2,oht - ocular hypertension,ocular hypertension,True,4,68.64463806152344,28,4,"[17, 19, 2]",,,,,DISEASE,,,1.0
+1306,11825814,3,,,False,,,,,,,,,,,,,
+1307,11825814,4,,,False,,,,,,,,,,,,,
+1308,11825814,7,brimonidine product,brimonidine,,1,,20,1,,,,,,CHEMICAL,,,
+1309,11825814,7,latanoprost product,latanoprost,,2,,26,2,,,,,,CHEMICAL,,,
+1310,11825814,7,oht - ocular hypertension,ocular hypertension,,3,,39,3,,,,,,DISEASE,,,
+1311,11825814,7,unspecified glaucoma,glaucoma,True,4,64.92063903808594,47,4,"[17, 19, 9]",,,,,DISEASE,,,1.0
+1312,11825814,8,,,False,,,,,,,,,,,,,
+1313,11825814,9,,,False,,,,,,,,,,,,,
+1314,11825814,10,brimonidine product,brimonidine,,1,,8,1,,,,,,CHEMICAL,,,
+1315,11825814,10,latanoprost product,latanoprost,True,2,6.346518516540527,23,2,[12],,,,,CHEMICAL,,,1.0
+1316,11825814,11,,,False,,,,,,,,,,,,,
+1317,11825814,12,,,False,,,,,,,,,,,,,
+1318,11825814,13,,,False,,,,,,,,,,,,,
+1319,11825814,14,,,False,,,,,,,,,,,,,
+1320,11825814,15,brimonidine product,brimonidine,,1,,8,1,,,,,,CHEMICAL,,,
+1321,11825814,15,latanoprost product,latanoprost,,2,,14,2,,,,,,CHEMICAL,,,
+1322,11825814,15,brimonidine product,brimonidine,,3,,38,3,,,,,,CHEMICAL,,,
+1323,11825814,15,latanoprost product,latanoprost,False,4,19.296283721923828,56,4,[],,,,,CHEMICAL,,,0.0
+1324,11825814,16,brimonidine product,brimonidine,,1,,12,1,,,,,,CHEMICAL,,,
+1325,11825814,16,latanoprost product,latanoprost,False,2,14.001314163208008,22,2,[],,,,,CHEMICAL,,,0.0
+1326,11825814,17,brimonidine product,brimonidine,,1,,27,1,,,,,,CHEMICAL,,,
+1327,11825814,17,latanoprost product,latanoprost,False,2,10.891155242919922,39,2,[],,,,,CHEMICAL,,,0.0
+1328,11825814,18,brimonidine product,brimonidine,,1,,9,1,,,,,,CHEMICAL,,,
+1329,11825814,18,latanoprost product,latanoprost,,2,,15,2,,,,,,CHEMICAL,,,
+1330,11825814,18,brimonidine product,brimonidine,,3,,42,3,,,,,,CHEMICAL,,,
+1331,11825814,18,latanoprost product,latanoprost,False,4,9.79222297668457,54,4,[],,,,,CHEMICAL,,,0.0
+1332,11825814,19,latanoprost product,latanoprost,,1,,3,1,,,,,,CHEMICAL,,,
+1333,11825814,19,brimonidine product,brimonidine,False,2,6.2035932540893555,26,2,[],,,,,CHEMICAL,,,0.0
+1334,11825814,20,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1335,11825814,20,brimonidine product,brimonidine,,2,,35,2,,,,,,CHEMICAL,,,
+1336,11825814,20,brimonidine product,brimonidine,False,3,5.475223541259766,76,3,[],,,,,CHEMICAL,,,0.0
+1337,11825814,21,brimonidine product,brimonidine,,1,,11,1,,,,,,CHEMICAL,,,
+1338,11825814,21,latanoprost product,latanoprost,,2,,19,2,,,,,,CHEMICAL,,,
+1339,11825814,21,brimonidine product,brimonidine,False,3,5.855007648468018,38,3,[],,,,,CHEMICAL,,,0.0
+1340,11825814,22,,,False,,,,,,,,,,,,,
+1341,17244215,0,,,False,,,,,,,,,,,,,
+1342,17244215,1,,,False,,,,,,,,,,,,,
+1343,17244215,2,bimatoprost product,bimatoprost,,1,,12,1,,,,,,CHEMICAL,,,
+1344,17244215,2,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+1345,17244215,2,product containing dorzolamide,dorzolamide,True,3,20.620899200439453,24,3,[2],,,,,CHEMICAL,,,3.0
+1346,17244215,3,,,False,,,,,,,,,,,,,
+1347,17244215,4,,,False,,,,,,,,,,,,,
+1348,17244215,5,bimatoprost product,bimatoprost,,1,,17,1,,,,,,CHEMICAL,,,
+1349,17244215,5,timolol product,timolol,,2,,24,2,,,,,,CHEMICAL,,,
+1350,17244215,5,product containing dorzolamide,dorzolamide,,3,,29,3,,,,,,CHEMICAL,,,
+1351,17244215,5,oht - ocular hypertension,ocular hypertension,False,4,17.08232879638672,52,4,[],,,,,DISEASE,,,0.0
+1352,17244215,6,oht - ocular hypertension,ocular hypertension,,1,,14,1,,,,,,DISEASE,,,
+1353,17244215,6,bimatoprost product,bimatoprost,,2,,27,2,,,,,,CHEMICAL,,,
+1354,17244215,6,timolol product,timolol,,3,,40,3,,,,,,CHEMICAL,,,
+1355,17244215,6,product containing dorzolamide,dorzolamide,True,4,11.647522926330566,45,4,[6],,,,,CHEMICAL,,,2.0
+1356,17244215,7,,,False,,,,,,,,,,,,,
+1357,17244215,8,,,False,,,,,,,,,,,,,
+1358,17244215,10,,,False,,,,,,,,,,,,,
+1359,17244215,11,bimatoprost product,bimatoprost,,1,,8,1,,,,,,CHEMICAL,,,
+1360,17244215,11,timolol product,timolol,,2,,15,2,,,,,,CHEMICAL,,,
+1361,17244215,11,product containing dorzolamide,dorzolamide,False,3,2.4141969680786133,20,3,[],,,,,CHEMICAL,,,0.0
+1362,17244215,12,bimatoprost product,bimatoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1363,17244215,12,timolol product,timolol,,2,,45,2,,,,,,CHEMICAL,,,
+1364,17244215,12,product containing dorzolamide,dorzolamide,False,3,18.922006607055664,50,3,[],,,,,CHEMICAL,,,0.0
+1365,17244215,13,,,False,,,,,,,,,,,,,
+1366,17244215,14,bimatoprost product,bimatoprost,,1,,12,1,,,,,,CHEMICAL,,,
+1367,17244215,14,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+1368,17244215,14,product containing dorzolamide,dorzolamide,False,3,11.548248291015625,24,3,[],,,,,CHEMICAL,,,0.0
+1369,17244215,15,bimatoprost product,bimatoprost,,1,,1,1,,,,,,CHEMICAL,,,
+1370,17244215,15,timolol product,timolol,,2,,9,2,,,,,,CHEMICAL,,,
+1371,17244215,15,product containing dorzolamide,dorzolamide,False,3,9.714383125305176,14,3,[],,,,,CHEMICAL,,,0.0
+1372,17244215,16,bimatoprost product,bimatoprost,,1,,0,1,,,,,,CHEMICAL,,,
+1373,17244215,16,oht - ocular hypertension,ocular hypertension,False,2,7.411354064941406,24,2,[],,,,,DISEASE,,,0.0
+1374,17244215,17,,,False,,,,,,,,,,,,,
+1375,16009829,0,,,False,,,,,,,,,,,,,
+1376,16009829,1,,,False,,,,,,,,,,,,,
+1377,16009829,2,latanoprost product,latanoprost,,1,,7,1,,,,,,CHEMICAL,,,
+1378,16009829,2,timolol product,timolol,,2,,14,2,,,,,,CHEMICAL,,,
+1379,16009829,2,latanoprost product,latanoprost,False,3,24.508960723876953,23,3,[],,,,,CHEMICAL,,,0.0
+1380,16009829,3,,,False,,,,,,,,,,,,,
+1381,16009829,4,unspecified glaucoma,glaucoma,False,1,15.493013381958008,6,1,[],,,,,DISEASE,,,0.0
+1382,16009829,5,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+1383,16009829,5,maleate timolol,timolol maleate,,2,,20,2,,,,,,CHEMICAL,,,
+1384,16009829,5,latanoprost product,latanoprost,False,3,16.134862899780273,29,3,[],,,,,CHEMICAL,,,0.0
+1385,16009829,6,latanoprost product,latanoprost,,1,,36,1,,,,,,CHEMICAL,,,
+1386,16009829,6,timolol product,timolol,,2,,43,2,,,,,,CHEMICAL,,,
+1387,16009829,6,latanoprost product,latanoprost,False,3,12.301642417907715,52,3,[],,,,,CHEMICAL,,,0.0
+1388,16009829,7,,,False,,,,,,,,,,,,,
+1389,16009829,8,,,False,,,,,,,,,,,,,
+1390,16009829,9,,,False,,,,,,,,,,,,,
+1391,16009829,10,latanoprost product,latanoprost,False,1,2.403195858001709,23,1,[],,,,,CHEMICAL,,,0.0
+1392,16009829,11,,,False,,,,,,,,,,,,,
+1393,16009829,12,stinging sensation,stinging,,1,,0,1,,,,,,DISEASE,,,
+1394,16009829,12,latanoprost product,latanoprost,,2,,7,2,,,,,,CHEMICAL,,,
+1395,16009829,12,itching skin,itching,True,3,15.773228645324707,23,3,[11],,,,,DISEASE,,,2.0
+1396,16009829,13,latanoprost product,latanoprost,,1,,10,1,,,,,,CHEMICAL,,,
+1397,16009829,13,timolol product,timolol,,2,,17,2,,,,,,CHEMICAL,,,
+1398,16009829,13,latanoprost product,latanoprost,False,3,12.01934814453125,26,3,[],,,,,CHEMICAL,,,0.0
+1399,16009829,14,,,False,,,,,,,,,,,,,
+1400,26578422,0,,,False,,,,,,,,,,,,,
+1401,26578422,1,,,False,,,,,,,,,,,,,
+1402,26578422,3,brimonidine product,brimonidine,,1,,13,1,,,,,,CHEMICAL,,,
+1403,26578422,3,timolol product,timolol,,2,,19,2,,,,,,CHEMICAL,,,
+1404,26578422,3,timolol product,timolol,True,3,17.2750186920166,30,3,[4],,,,,CHEMICAL,,,1.0
+1405,26578422,4,,,False,,,,,,,,,,,,,
+1406,26578422,5,,,False,,,,,,,,,,,,,
+1407,26578422,6,,,False,,,,,,,,,,,,,
+1408,26578422,7,,,False,,,,,,,,,,,,,
+1409,26578422,8,,,False,,,,,,,,,,,,,
+1410,26578422,9,,,False,,,,,,,,,,,,,
+1411,26578422,11,timolol product,timolol,True,1,3.2172913551330566,30,1,[None],,,,,CHEMICAL,,,1.0
+1412,26578422,12,,,False,,,,,,,,,,,,,
+1413,26578422,13,unspecified glaucoma,glaucoma,,1,,8,1,,,,,,DISEASE,,,
+1414,26578422,13,timolol product,timolol,False,2,23.65049934387207,38,2,[],,,,,CHEMICAL,,,0.0
+1415,26578422,15,timolol product,timolol,False,1,16.53465461730957,23,1,[],,,,,CHEMICAL,,,0.0
+1416,26578422,16,,,False,,,,,,,,,,,,,
+1417,26578422,17,,,False,,,,,,,,,,,,,
+1418,26578422,20,,,False,,,,,,,,,,,,,
+1419,26578422,21,timolol product,timolol,False,1,7.41994047164917,23,1,[],,,,,CHEMICAL,,,0.0
+1420,26578422,22,timolol product,timolol,False,1,4.236804008483887,49,1,[],,,,,CHEMICAL,,,0.0
+1421,26578422,23,timolol product,timolol,False,1,2.141395092010498,17,1,[],,,,,CHEMICAL,,,0.0
+1422,26578422,24,,,False,,,,,,,,,,,,,
+1423,11558817,0,,,False,,,,,,,,,,,,,
+1424,11558817,1,,,False,,,,,,,,,,,,,
+1425,11558817,2,latanoprost product,latanoprost,,1,,12,1,,,,,,CHEMICAL,,,
+1426,11558817,2,product containing dorzolamide,dorzolamide,,2,,19,2,,,,,,CHEMICAL,,,
+1427,11558817,2,timolol product,timolol,,3,,28,3,,,,,,CHEMICAL,,,
+1428,11558817,2,oht - ocular hypertension,ocular hypertension,True,4,24.571815490722656,43,4,[3],,,,,DISEASE,,,0.0
+1429,11558817,3,,,False,,,,,,,,,,,,,
+1430,11558817,4,latanoprost product,latanoprost,,1,,23,1,,,,,,CHEMICAL,,,
+1431,11558817,4,product containing dorzolamide,dorzolamide,,2,,32,2,,,,,,CHEMICAL,,,
+1432,11558817,4,timolol product,timolol,False,3,15.921632766723633,41,3,[],,,,,CHEMICAL,,,0.0
+1433,11558817,5,,,False,,,,,,,,,,,,,
+1434,11558817,6,oht - ocular hypertension,ocular hypertension,True,1,10.017370223999023,35,1,[6],,,,,DISEASE,,,1.0
+1435,11558817,7,timolol product,timolol,False,1,5.934234619140625,5,1,[],,,,,CHEMICAL,,,0.0
+1436,11558817,8,latanoprost product,latanoprost,,1,,10,1,,,,,,CHEMICAL,,,
+1437,11558817,8,product containing dorzolamide,dorzolamide,,2,,24,2,,,,,,CHEMICAL,,,
+1438,11558817,8,timolol product,timolol,True,3,4.869462966918945,40,3,[8],,,,,CHEMICAL,,,3.0
+1439,11558817,9,,,False,,,,,,,,,,,,,
+1440,11558817,11,,,False,,,,,,,,,,,,,
+1441,11558817,12,latanoprost product,latanoprost,,1,,14,1,,,,,,CHEMICAL,,,
+1442,11558817,12,timolol product,timolol,,2,,21,2,,,,,,CHEMICAL,,,
+1443,11558817,12,product containing dorzolamide,dorzolamide,,3,,31,3,,,,,,CHEMICAL,,,
+1444,11558817,12,timolol product,timolol,False,4,21.385488510131836,38,4,[],,,,,CHEMICAL,,,0.0
+1445,11558817,13,latanoprost product,latanoprost,,1,,28,1,,,,,,CHEMICAL,,,
+1446,11558817,13,timolol product,timolol,,2,,35,2,,,,,,CHEMICAL,,,
+1447,11558817,13,product containing dorzolamide,dorzolamide,,3,,50,3,,,,,,CHEMICAL,,,
+1448,11558817,13,timolol product,timolol,False,4,16.88479995727539,57,4,[],,,,,CHEMICAL,,,0.0
+1449,11558817,15,latanoprost product,latanoprost,,1,,20,1,,,,,,CHEMICAL,,,
+1450,11558817,15,product containing dorzolamide,dorzolamide,,2,,31,2,,,,,,CHEMICAL,,,
+1451,11558817,15,timolol product,timolol,False,3,6.923649787902832,41,3,[],,,,,CHEMICAL,,,0.0
+1452,11558817,16,,,False,,,,,,,,,,,,,
+1453,15094733,0,,,False,,,,,,,,,,,,,
+1454,15094733,1,,,False,,,,,,,,,,,,,
+1455,15094733,2,brimonidine product,brimonidine,,1,,0,1,,,,,,CHEMICAL,,,
+1456,15094733,2,maleate timolol,timolol maleate,,2,,20,2,,,,,,CHEMICAL,,,
+1457,15094733,2,oht - ocular hypertension,ocular hypertension,True,3,26.161056518554688,44,3,[2],,,,,DISEASE,,,4.0
+1458,15094733,3,,,False,,,,,,,,,,,,,
+1459,15094733,5,,,False,,,,,,,,,,,,,
+1460,15094733,6,brimonidine product,brimonidine,,1,,9,1,,,,,,CHEMICAL,,,
+1461,15094733,6,maleate timolol,timolol maleate,True,2,15.524566650390625,30,2,[7],,,,,CHEMICAL,,,1.0
+1462,15094733,7,,,False,,,,,,,,,,,,,
+1463,15094733,8,,,False,,,,,,,,,,,,,
+1464,15094733,9,,,False,,,,,,,,,,,,,
+1465,15094733,10,,,False,,,,,,,,,,,,,
+1466,15094733,11,brimonidine product,brimonidine,,1,,2,1,,,,,,CHEMICAL,,,
+1467,15094733,11,maleate timolol,timolol maleate,,2,,8,2,,,,,,CHEMICAL,,,
+1468,15094733,11,timolol product,timolol,False,3,6.568236351013184,53,3,[],,,,,CHEMICAL,,,0.0
+1469,15094733,12,,,False,,,,,,,,,,,,,
+1470,15094733,13,,,False,,,,,,,,,,,,,
+1471,15094733,14,brimonidine product,brimonidine,,1,,2,1,,,,,,CHEMICAL,,,
+1472,15094733,14,maleate timolol,timolol maleate,True,2,6.076432228088379,21,2,[14],,,,,CHEMICAL,,,1.0
+1473,15094733,15,,,False,,,,,,,,,,,,,
+1474,21034177,0,,,False,,,,,,,,,,,,,
+1475,21034177,1,,,False,,,,,,,,,,,,,
+1476,21034177,3,bimatoprost product,bimatoprost,,1,,0,1,,,,,,CHEMICAL,,,
+1477,21034177,3,travoprost product,travoprost,True,2,19.02791976928711,7,2,[4],,,,,CHEMICAL,,,1.0
+1478,21034177,4,,,False,,,,,,,,,,,,,
+1479,21034177,5,,,False,,,,,,,,,,,,,
+1480,21034177,6,bimatoprost product,bimatoprost,,1,,15,1,,,,,,CHEMICAL,,,
+1481,21034177,6,travoprost product,travoprost,False,2,15.16668701171875,22,2,[],,,,,CHEMICAL,,,0.0
+1482,21034177,7,oht - ocular hypertension,ocular hypertension,,1,,13,1,,,,,,DISEASE,,,
+1483,21034177,7,bimatoprost product,bimatoprost,,2,,26,2,,,,,,CHEMICAL,,,
+1484,21034177,7,travoprost product,travoprost,True,3,15.97636604309082,37,3,[8],,,,,CHEMICAL,,,4.0
+1485,21034177,8,,,False,,,,,,,,,,,,,
+1486,21034177,9,bimatoprost product,bimatoprost,,1,,54,1,,,,,,CHEMICAL,,,
+1487,21034177,9,travoprost product,travoprost,False,2,4.788825035095215,61,2,[],,,,,CHEMICAL,,,0.0
+1488,21034177,10,,,False,,,,,,,,,,,,,
+1489,21034177,11,bimatoprost product,bimatoprost,,1,,0,1,,,,,,CHEMICAL,,,
+1490,21034177,11,travoprost product,travoprost,False,2,1.88242506980896,23,2,[],,,,,CHEMICAL,,,0.0
+1491,21034177,12,bimatoprost product,bimatoprost,,1,,80,1,,,,,,CHEMICAL,,,
+1492,21034177,12,travoprost product,travoprost,False,2,22.412778854370117,87,2,[],,,,,CHEMICAL,,,0.0
+1493,21034177,13,bimatoprost product,bimatoprost,,1,,122,1,,,,,,CHEMICAL,,,
+1494,21034177,13,travoprost product,travoprost,False,2,5.112938404083252,129,2,[],,,,,CHEMICAL,,,0.0
+1495,21034177,14,,,False,,,,,,,,,,,,,
+1496,21034177,15,drops dose form,drops,,1,,3,1,,,,,,CHEMICAL,,,
+1497,21034177,15,bimatoprost product,bimatoprost,False,2,3.7517008781433105,11,2,[],,,,,CHEMICAL,,,0.0
+1498,21034177,16,,,False,,,,,,,,,,,,,
+1499,11952485,0,,,False,,,,,,,,,,,,,
+1500,11952485,1,,,False,,,,,,,,,,,,,
+1501,11952485,2,product containing dorzolamide,dorzolamide,,1,,0,1,,,,,,CHEMICAL,,,
+1502,11952485,2,unspecified glaucoma,glaucoma,True,2,21.688648223876953,16,2,[2],,,,,DISEASE,,,2.0
+1503,11952485,3,,,False,,,,,,,,,,,,,
+1504,11952485,4,,,False,,,,,,,,,,,,,
+1505,11952485,7,product containing dorzolamide,dorzolamide,,1,,19,1,,,,,,CHEMICAL,,,
+1506,11952485,7,unspecified glaucoma,glaucoma,False,2,16.527965545654297,36,2,[],,,,,DISEASE,,,0.0
+1507,11952485,8,open cleft glaucoma,glaucoma,,1,,9,1,,,,,,DISEASE,,,
+1508,11952485,8,product containing dorzolamide,dorzolamide,False,2,13.550067901611328,20,2,[],,,,,CHEMICAL,,,0.0
+1509,11952485,9,,,False,,,,,,,,,,,,,
+1510,11952485,10,,,False,,,,,,,,,,,,,
+1511,11952485,11,product containing dorzolamide,dorzolamide,False,1,1.588518738746643,96,1,[],,,,,CHEMICAL,,,0.0
+1512,11952485,12,product containing dorzolamide,dorzolamide,False,1,20.093441009521484,11,1,[],,,,,CHEMICAL,,,0.0
+1513,11952485,13,product containing dorzolamide,dorzolamide,,1,,13,1,,,,,,CHEMICAL,,,
+1514,11952485,13,unspecified glaucoma,glaucoma,False,2,9.3500337600708,25,2,[],,,,,DISEASE,,,0.0
+1515,11952485,14,,,False,,,,,,,,,,,,,
+1516,15037890,0,,,False,,,,,,,,,,,,,
+1517,15037890,1,,,False,,,,,,,,,,,,,
+1518,15037890,2,latanoprost product,latanoprost,,1,,5,1,,,,,,CHEMICAL,,,
+1519,15037890,2,maleate timolol,timolol,,2,,12,2,,,,,,CHEMICAL,,,
+1520,15037890,2,brimonidine product,brimonidine,,3,,24,3,,,,,,CHEMICAL,,,
+1521,15037890,2,latanoprost product,latanoprost,False,4,25.84984588623047,30,4,[],,,,,CHEMICAL,,,0.0
+1522,15037890,3,,,False,,,,,,,,,,,,,
+1523,15037890,4,,,False,,,,,,,,,,,,,
+1524,15037890,5,latanoprost product,latanoprost,,1,,16,1,,,,,,CHEMICAL,,,
+1525,15037890,5,maleate timolol,timolol,,2,,23,2,,,,,,CHEMICAL,,,
+1526,15037890,5,brimonidine product,brimonidine,,3,,45,3,,,,,,CHEMICAL,,,
+1527,15037890,5,latanoprost product,latanoprost,False,4,21.25745964050293,53,4,[],,,,,CHEMICAL,,,0.0
+1528,15037890,6,unspecified glaucoma,glaucoma,,1,,19,1,,,,,,DISEASE,,,
+1529,15037890,6,brimonidine product,brimonidine,,2,,39,2,,,,,,CHEMICAL,,,
+1530,15037890,6,latanoprost product,latanoprost,False,3,14.07149600982666,45,3,[],,,,,CHEMICAL,,,1.0
+1531,15037890,8,,,False,,,,,,,,,,,,,
+1532,15037890,9,brimonidine product,brimonidine,,1,,55,1,,,,,,CHEMICAL,,,
+1533,15037890,9,latanoprost product,latanoprost,False,2,4.245194435119629,61,2,[],,,,,CHEMICAL,,,0.0
+1534,15037890,10,,,False,,,,,,,,,,,,,
+1535,15037890,11,latanoprost product,latanoprost,,1,,4,1,,,,,,CHEMICAL,,,
+1536,15037890,11,brimonidine product,brimonidine,False,2,15.454899787902832,11,2,[],,,,,CHEMICAL,,,0.0
+1537,15037890,12,,,False,,,,,,,,,,,,,
+1538,15037890,13,,,False,,,,,,,,,,,,,
+1539,15037890,14,brimonidine product,brimonidine,,1,,15,1,,,,,,CHEMICAL,,,
+1540,15037890,14,latanoprost product,latanoprost,False,2,6.544535160064697,21,2,[],,,,,CHEMICAL,,,0.0
+1541,15037890,15,,,False,,,,,,,,,,,,,
+1542,26940161,0,,,False,,,,,,,,,,,,,
+1543,26940161,1,,,False,,,,,,,,,,,,,
+1544,26940161,3,product containing brinzolamide,brinzolamide,,1,,9,1,,,,,,CHEMICAL,,,
+1545,26940161,3,brimonidine product,brimonidine,,2,,19,2,,,,,,CHEMICAL,,,
+1546,26940161,3,travoprost product,travoprost,True,3,56.997230529785156,33,3,"[None, 17, 4]",,,,,CHEMICAL,,,1.0
+1547,26940161,4,,,False,,,,,,,,,,,,,
+1548,26940161,5,,,False,,,,,,,,,,,,,
+1549,26940161,7,,,False,,,,,,,,,,,,,
+1550,26940161,8,,,False,,,,,,,,,,,,,
+1551,26940161,9,,,False,,,,,,,,,,,,,
+1552,26940161,10,,,False,,,,,,,,,,,,,
+1553,26940161,11,product containing brinzolamide,brinzolamide,,1,,13,1,,,,,,CHEMICAL,,,
+1554,26940161,11,brimonidine product,brimonidine,,2,,23,2,,,,,,CHEMICAL,,,
+1555,26940161,11,travoprost product,travoprost,,3,,41,3,,,,,,CHEMICAL,,,
+1556,26940161,11,oht - ocular hypertension,ocular hypertension,True,4,47.47383117675781,67,4,"[None, 17]",,,,,DISEASE,,,0.0
+1557,26940161,12,,,False,,,,,,,,,,,,,
+1558,26940161,13,,,False,,,,,,,,,,,,,
+1559,26940161,14,oht - ocular hypertension,ocular hypertension,True,1,43.12980651855469,16,1,[15],,,,,DISEASE,,,4.0
+1560,26940161,15,,,False,,,,,,,,,,,,,
+1561,26940161,16,,,False,,,,,,,,,,,,,
+1562,26940161,17,,,False,,,,,,,,,,,,,
+1563,26940161,18,,,False,,,,,,,,,,,,,
+1564,26940161,19,,,False,,,,,,,,,,,,,
+1565,26940161,20,,,False,,,,,,,,,,,,,
+1566,26940161,21,conjunctival hyperaemia,hyperemia,True,1,5.767033576965332,5,1,[22],,,,,DISEASE,,,1.0
+1567,26940161,22,,,False,,,,,,,,,,,,,
+1568,26940161,25,,,False,,,,,,,,,,,,,
+1569,9331215,0,,,False,,,,,,,,,,,,,
+1570,9331215,1,,,False,,,,,,,,,,,,,
+1571,9331215,2,latanoprost product,latanoprost,False,1,17.840749740600586,9,1,[],,,,,CHEMICAL,,,0.0
+1572,9331215,3,,,False,,,,,,,,,,,,,
+1573,9331215,4,latanoprost product,latanoprost,False,1,13.816811561584473,11,1,[],,,,,CHEMICAL,,,0.0
+1574,9331215,5,unspecified glaucoma,glaucoma,,1,,7,1,,,,,,DISEASE,,,
+1575,9331215,5,oht - ocular hypertension,ocular hypertension,,2,,13,2,,,,,,DISEASE,,,
+1576,9331215,5,latanoprost product,latanoprost,True,3,51.69600296020508,37,3,"[15, 16, 5]",,,,,CHEMICAL,,,1.0
+1577,9331215,6,,,False,,,,,,,,,,,,,
+1578,9331215,7,latanoprost product,latanoprost,False,1,4.599333763122559,7,1,[],,,,,CHEMICAL,,,0.0
+1579,9331215,8,,,False,,,,,,,,,,,,,
+1580,9331215,9,latanoprost product,latanoprost,False,1,1.490598440170288,13,1,[],,,,,CHEMICAL,,,0.0
+1581,9331215,10,,,False,,,,,,,,,,,,,
+1582,9331215,11,,,False,,,,,,,,,,,,,
+1583,9331215,12,,,False,,,,,,,,,,,,,
+1584,9331215,13,hyperaemia,hyperemia,True,1,8.372638702392578,7,1,[12],,,,,DISEASE,,,1.0
+1585,9331215,14,latanoprost product,latanoprost,False,1,4.800071716308594,2,1,[],,,,,CHEMICAL,,,0.0
+1586,9331215,15,,,False,,,,,,,,,,,,,
+1587,9331215,16,,,False,,,,,,,,,,,,,
+1588,23203707,0,,,False,,,,,,,,,,,,,
+1589,23203707,1,,,False,,,,,,,,,,,,,
+1590,23203707,3,oht - ocular hypertension,ocular hypertension,,1,,33,1,,,,,,DISEASE,,,
+1591,23203707,3,unspecified glaucoma,glaucoma,True,2,19.035533905029297,41,2,[4],,,,,DISEASE,,,2.0
+1592,23203707,4,,,False,,,,,,,,,,,,,
+1593,23203707,5,,,False,,,,,,,,,,,,,
+1594,23203707,6,oht - ocular hypertension,ocular hypertension,,1,,70,1,,,,,,DISEASE,,,
+1595,23203707,6,prim open angle glaucoma,glaucoma,True,2,8.820146560668945,85,2,[7],,,,,DISEASE,,,2.0
+1596,23203707,7,,,False,,,,,,,,,,,,,
+1597,23203707,8,,,False,,,,,,,,,,,,,
+1598,23203707,9,,,False,,,,,,,,,,,,,
+1599,23203707,10,,,False,,,,,,,,,,,,,
+1600,23203707,11,,,False,,,,,,,,,,,,,
+1601,23203707,12,drugs intolerance,drug intolerance,False,1,0.0725584328174591,8,1,[],,,,,DISEASE,,,0.0
+1602,23203707,13,conjunctival hyperemia,conjunctival hyperaemia,True,1,12.139726638793945,3,1,[13],,,,,DISEASE,,,1.0
+1603,23203707,14,,,False,,,,,,,,,,,,,
+1604,23203707,15,,,False,,,,,,,,,,,,,
+1605,23203707,16,,,False,,,,,,,,,,,,,
+1606,10080213,0,,,False,,,,,,,,,,,,,
+1607,10080213,1,,,False,,,,,,,,,,,,,
+1608,10080213,2,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+1609,10080213,2,timolol product,timolol,,2,,20,2,,,,,,CHEMICAL,,,
+1610,10080213,2,glaucoma pigmentary,pigmentary glaucoma,True,3,12.70253849029541,25,3,[2],,,,,DISEASE,,,3.0
+1611,10080213,3,,,False,,,,,,,,,,,,,
+1612,10080213,4,,,False,,,,,,,,,,,,,
+1613,10080213,5,latanoprost product,latanoprost,,1,,24,1,,,,,,CHEMICAL,,,
+1614,10080213,5,timolol product,timolol,True,2,9.01228141784668,40,2,[5],,,,,CHEMICAL,,,2.0
+1615,10080213,6,,,False,,,,,,,,,,,,,
+1616,10080213,7,,,False,,,,,,,,,,,,,
+1617,10080213,8,,,False,,,,,,,,,,,,,
+1618,10080213,9,timolol product,timolol,False,1,2.991393566131592,33,1,[],,,,,CHEMICAL,,,0.0
+1619,10080213,10,,,False,,,,,,,,,,,,,
+1620,10080213,11,,,False,,,,,,,,,,,,,
+1621,10080213,12,,,False,,,,,,,,,,,,,
+1622,10080213,13,latanoprost product,latanoprost,,1,,31,1,,,,,,CHEMICAL,,,
+1623,10080213,13,timolol product,timolol,False,2,14.52131462097168,38,2,[],,,,,CHEMICAL,,,0.0
+1624,10080213,14,,,False,,,,,,,,,,,,,
+1625,10080213,15,,,False,,,,,,,,,,,,,
+1626,10080213,16,latanoprost product,latanoprost,,1,,8,1,,,,,,CHEMICAL,,,
+1627,10080213,16,timolol product,timolol,False,2,13.245916366577148,15,2,[],,,,,CHEMICAL,,,0.0
+1628,10080213,17,latanoprost product,latanoprost,,1,,25,1,,,,,,CHEMICAL,,,
+1629,10080213,17,timolol product,timolol,False,2,10.81309700012207,52,2,[],,,,,CHEMICAL,,,0.0
+1630,10080213,18,latanoprost product,latanoprost,,1,,8,1,,,,,,CHEMICAL,,,
+1631,10080213,18,timolol product,timolol,False,2,8.433566093444824,15,2,[],,,,,CHEMICAL,,,0.0
+1632,10080213,19,latanoprost product,latanoprost,False,1,5.367461204528809,16,1,[],,,,,CHEMICAL,,,0.0
+1633,10080213,20,latanoprost product,latanoprost,,1,,15,1,,,,,,CHEMICAL,,,
+1634,10080213,20,timolol product,timolol,False,2,4.851683616638184,29,2,[],,,,,CHEMICAL,,,0.0
+1635,10080213,21,latanoprost product,latanoprost,,1,,19,1,,,,,,CHEMICAL,,,
+1636,10080213,21,timolol product,timolol,False,2,3.6166281700134277,33,2,[],,,,,CHEMICAL,,,0.0
+1637,10080213,22,latanoprost product,latanoprost,False,1,2.1637651920318604,15,1,[],,,,,CHEMICAL,,,0.0
+1638,10080213,23,timolol product,timolol,False,1,1.9218895435333252,2,1,[],,,,,CHEMICAL,,,0.0
+1639,10080213,24,glaucoma pigmentary,pigmentary glaucoma,,1,,37,1,,,,,,DISEASE,,,
+1640,10080213,24,latanoprost product,latanoprost,,2,,49,2,,,,,,CHEMICAL,,,
+1641,10080213,24,timolol product,timolol,True,3,4.041712760925293,73,3,[24],,,,,CHEMICAL,,,2.0
+1642,10080213,25,,,False,,,,,,,,,,,,,
+1643,14736774,0,,,False,,,,,,,,,,,,,
+1644,14736774,1,,,False,,,,,,,,,,,,,
+1645,14736774,2,latanoprost product,latanoprost,,1,,9,1,,,,,,CHEMICAL,,,
+1646,14736774,2,timolol product,timolol,,2,,16,2,,,,,,CHEMICAL,,,
+1647,14736774,2,open cleft glaucoma,glaucoma,,3,,36,3,,,,,,DISEASE,,,
+1648,14736774,2,oht - ocular hypertension,ocular hypertension,True,4,62.883384704589844,42,4,[11],,,,,DISEASE,,,0.0
+1649,14736774,3,,,False,,,,,,,,,,,,,
+1650,14736774,4,,,False,,,,,,,,,,,,,
+1651,14736774,5,latanoprost product,latanoprost,,1,,41,1,,,,,,CHEMICAL,,,
+1652,14736774,5,timolol product,timolol,True,2,54.81719207763672,48,2,"[11, 5]",,,,,CHEMICAL,,,1.0
+1653,14736774,6,oht - ocular hypertension,ocular hypertension,True,1,52.09201431274414,28,1,[11],,,,,DISEASE,,,0.0
+1654,14736774,7,latanoprost product,latanoprost,,1,,13,1,,,,,,CHEMICAL,,,
+1655,14736774,7,timolol product,timolol,,2,,25,2,,,,,,CHEMICAL,,,
+1656,14736774,7,latanoprost product,latanoprost,,3,,37,3,,,,,,CHEMICAL,,,
+1657,14736774,7,timolol product,timolol,True,4,49.929725646972656,51,4,"[11, 16]",,,,,CHEMICAL,,,2.0
+1658,14736774,8,,,False,,,,,,,,,,,,,
+1659,14736774,10,,,False,,,,,,,,,,,,,
+1660,14736774,11,,,False,,,,,,,,,,,,,
+1661,14736774,12,,,False,,,,,,,,,,,,,
+1662,14736774,13,,,False,,,,,,,,,,,,,
+1663,14736774,14,,,False,,,,,,,,,,,,,
+1664,14736774,15,latanoprost product,latanoprost,,1,,20,1,,,,,,CHEMICAL,,,
+1665,14736774,15,timolol product,timolol,False,2,6.633830547332764,27,2,[],,,,,CHEMICAL,,,0.0
+1666,14736774,16,,,False,,,,,,,,,,,,,
+1667,14736774,17,,,False,,,,,,,,,,,,,
+1668,18402717,0,,,False,,,,,,,,,,,,,
+1669,18402717,1,,,False,,,,,,,,,,,,,
+1670,18402717,3,product containing brinzolamide,brinzolamide,,1,,11,1,,,,,,CHEMICAL,,,
+1671,18402717,3,latanoprost product,latanoprost,,2,,25,2,,,,,,CHEMICAL,,,
+1672,18402717,3,unspecified glaucoma,glaucoma,,3,,34,3,,,,,,DISEASE,,,
+1673,18402717,3,oht - ocular hypertension,ocular hypertension,True,4,21.65247917175293,40,4,[4],,,,,DISEASE,,,1.0
+1674,18402717,4,,,False,,,,,,,,,,,,,
+1675,18402717,5,,,False,,,,,,,,,,,,,
+1676,18402717,6,product containing brinzolamide,brinzolamide,,1,,31,1,,,,,,CHEMICAL,,,
+1677,18402717,6,latanoprost product,latanoprost,,2,,47,2,,,,,,CHEMICAL,,,
+1678,18402717,6,unspecified glaucoma,glaucoma,,3,,61,3,,,,,,DISEASE,,,
+1679,18402717,6,oht - ocular hypertension,ocular hypertension,True,4,13.87468147277832,67,4,[7],,,,,DISEASE,,,2.0
+1680,18402717,7,,,False,,,,,,,,,,,,,
+1681,18402717,8,latanoprost product,latanoprost,,1,,15,1,,,,,,CHEMICAL,,,
+1682,18402717,8,product containing brinzolamide,brinzolamide,True,2,5.437083721160889,43,2,[9],,,,,CHEMICAL,,,2.0
+1683,18402717,9,latanoprost product,latanoprost,,1,,30,1,,,,,,CHEMICAL,,,
+1684,18402717,9,latanoprost product,latanoprost,False,2,2.011680841445923,46,2,[],,,,,CHEMICAL,,,0.0
+1685,18402717,10,,,False,,,,,,,,,,,,,
+1686,18402717,11,latanoprost product,latanoprost,,1,,20,1,,,,,,CHEMICAL,,,
+1687,18402717,11,product containing brinzolamide,brinzolamide,False,2,19.68084716796875,48,2,[],,,,,CHEMICAL,,,0.0
+1688,18402717,12,product containing brinzolamide,brinzolamide,False,1,11.986104011535645,41,1,[],,,,,CHEMICAL,,,0.0
+1689,18402717,13,product containing brinzolamide,brinzolamide,,1,,16,1,,,,,,CHEMICAL,,,
+1690,18402717,13,product containing brinzolamide,brinzolamide,False,2,11.685904502868652,55,2,[],,,,,CHEMICAL,,,0.0
+1691,18402717,14,blurry vision,blurred vision,,1,,0,1,,,,,,DISEASE,,,
+1692,18402717,14,product containing brinzolamide,brinzolamide,True,2,8.336505889892578,22,2,[14],,,,,CHEMICAL,,,2.0
+1693,18402717,15,product containing brinzolamide,brinzolamide,,1,,19,1,,,,,,CHEMICAL,,,
+1694,18402717,15,latanoprost product,latanoprost,False,2,5.471347808837891,35,2,[],,,,,CHEMICAL,,,0.0
+1695,18402717,16,,,False,,,,,,,,,,,,,
+1696,18402717,17,,,False,,,,,,,,,,,,,
+1697,18402717,18,prostaglandin analogues,prostaglandin,False,1,0.009817926213145256,14,1,[],,,,,CHEMICAL,,,0.0
+1698,18402717,19,,,False,,,,,,,,,,,,,
+1699,18535605,0,,,False,,,,,,,,,,,,,
+1700,18535605,1,,,False,,,,,,,,,,,,,
+1701,18535605,3,bimatoprost product,bimatoprost,,1,,0,1,,,,,,CHEMICAL,,,
+1702,18535605,3,timolol product,timolol,,2,,7,2,,,,,,CHEMICAL,,,
+1703,18535605,3,latanoprost product,latanoprost,,3,,14,3,,,,,,CHEMICAL,,,
+1704,18535605,3,timolol product,timolol,False,4,20.362178802490234,21,4,[],,,,,CHEMICAL,,,0.0
+1705,18535605,4,,,False,,,,,,,,,,,,,
+1706,18535605,5,bimatoprost product,bimatoprost,,1,,14,1,,,,,,CHEMICAL,,,
+1707,18535605,5,timolol product,timolol,,2,,21,2,,,,,,CHEMICAL,,,
+1708,18535605,5,latanoprost product,latanoprost,,3,,32,3,,,,,,CHEMICAL,,,
+1709,18535605,5,timolol product,timolol,False,4,14.956632614135742,39,4,[],,,,,CHEMICAL,,,0.0
+1710,18535605,6,,,False,,,,,,,,,,,,,
+1711,18535605,7,prostaglandin analogs,prostaglandin,,1,,16,1,,,,,,CHEMICAL,,,
+1712,18535605,7,maleate timolol,timolol maleate,False,2,0.10775939375162125,50,2,[],,,,,CHEMICAL,,,0.0
+1713,18535605,9,maleate timolol,timolol maleate,,1,,18,1,,,,,,CHEMICAL,,,
+1714,18535605,9,bd - twice daily,bid,True,2,1.3223509788513184,27,2,[10],,,,,CHEMICAL,,,1.0
+1715,18535605,10,,,False,,,,,,,,,,,,,
+1716,18535605,11,,,False,,,,,,,,,,,,,
+1717,18535605,12,conjunctival hyperemia,conjunctival hyperaemia,True,1,6.574782371520996,10,1,[13],,,,,DISEASE,,,1.0
+1718,18535605,13,,,False,,,,,,,,,,,,,
+1719,18535605,14,,,False,,,,,,,,,,,,,
+1720,18535605,15,,,False,,,,,,,,,,,,,
+1721,18721251,0,,,False,,,,,,,,,,,,,
+1722,18721251,1,,,False,,,,,,,,,,,,,
+1723,18721251,3,latanoprost product,latanoprost,,1,,4,1,,,,,,CHEMICAL,,,
+1724,18721251,3,pilocarpine product,pilocarpine,,2,,11,2,,,,,,CHEMICAL,,,
+1725,18721251,3,maleate timolol,timolol,,3,,17,3,,,,,,CHEMICAL,,,
+1726,18721251,3,oht - ocular hypertension,ocular hypertension,True,4,24.930761337280273,36,4,[4],,,,,DISEASE,,,1.0
+1727,18721251,4,,,False,,,,,,,,,,,,,
+1728,18721251,5,,,False,,,,,,,,,,,,,
+1729,18721251,6,latanoprost product,latanoprost,,1,,21,1,,,,,,CHEMICAL,,,
+1730,18721251,6,pilocarpine product,pilocarpine,,2,,31,2,,,,,,CHEMICAL,,,
+1731,18721251,6,maleate timolol,timolol,,3,,37,3,,,,,,CHEMICAL,,,
+1732,18721251,6,oht - ocular hypertension,ocular hypertension,True,4,16.773895263671875,67,4,[7],,,,,DISEASE,,,1.0
+1733,18721251,7,latanoprost product,latanoprost,False,1,7.435946464538574,29,1,[],,,,,CHEMICAL,,,0.0
+1734,18721251,8,,,False,,,,,,,,,,,,,
+1735,18721251,10,,,False,,,,,,,,,,,,,
+1736,18721251,11,,,False,,,,,,,,,,,,,
+1737,18721251,12,latanoprost product,latanoprost,False,1,0.6365702152252197,33,1,[],,,,,CHEMICAL,,,0.0
+1738,18721251,13,latanoprost product,latanoprost,False,1,11.494149208068848,42,1,[],,,,,CHEMICAL,,,0.0
+1739,18721251,14,,,False,,,,,,,,,,,,,
+1740,18721251,15,latanoprost product,latanoprost,False,1,7.342982769012451,19,1,[],,,,,CHEMICAL,,,0.0
+1741,18721251,16,blurry vision,blurred vision,,1,,12,1,,,,,,DISEASE,,,
+1742,18721251,16,stinging sensation,stinging,,2,,16,2,,,,,,DISEASE,,,
+1743,18721251,16,pain in eye,ocular pain,False,3,7.6938090324401855,19,3,[],,,,,DISEASE,,,0.0
+1744,18721251,17,latanoprost product,latanoprost,False,1,4.867194175720215,6,1,[],,,,,CHEMICAL,,,0.0
+1745,18721251,18,,,False,,,,,,,,,,,,,
+1746,18721251,19,,,False,,,,,,,,,,,,,
+1747,19726422,0,,,False,,,,,,,,,,,,,
+1748,19726422,1,,,False,,,,,,,,,,,,,
+1749,19726422,3,bimatoprost product,bimatoprost,,1,,6,1,,,,,,CHEMICAL,,,
+1750,19726422,3,travoprost product,travoprost,,2,,13,2,,,,,,CHEMICAL,,,
+1751,19726422,3,latanoprost product,latanoprost,True,3,19.708559036254883,23,3,[4],,,,,CHEMICAL,,,2.0
+1752,19726422,4,,,False,,,,,,,,,,,,,
+1753,19726422,5,,,False,,,,,,,,,,,,,
+1754,19726422,6,latanoprost product,latanoprost,,1,,19,1,,,,,,CHEMICAL,,,
+1755,19726422,6,prostaglandin analog,prostaglandin,,2,,27,2,,,,,,CHEMICAL,,,
+1756,19726422,6,unspecified glaucoma,glaucoma,,3,,39,3,,,,,,DISEASE,,,
+1757,19726422,6,oht - ocular hypertension,ocular hypertension,,4,,45,4,,,,,,DISEASE,,,
+1758,19726422,6,latanoprost product,latanoprost,True,5,14.853166580200195,65,5,[7],,,,,CHEMICAL,,,2.0
+1759,19726422,7,,,False,,,,,,,,,,,,,
+1760,19726422,8,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1761,19726422,8,latanoprost product,latanoprost,,2,,21,2,,,,,,CHEMICAL,,,
+1762,19726422,8,bimatoprost product,bimatoprost,,3,,32,3,,,,,,CHEMICAL,,,
+1763,19726422,8,travoprost product,travoprost,True,4,9.171063423156738,48,4,[9],,,,,CHEMICAL,,,1.0
+1764,19726422,9,latanoprost product,latanoprost,False,1,3.6839828491210938,5,1,[],,,,,CHEMICAL,,,0.0
+1765,19726422,10,latanoprost product,latanoprost,False,1,2.856131076812744,10,1,[],,,,,CHEMICAL,,,0.0
+1766,19726422,11,bimatoprost product,bimatoprost,,1,,11,1,,,,,,CHEMICAL,,,
+1767,19726422,11,travoprost product,travoprost,False,2,1.9266414642333984,19,2,[],,,,,CHEMICAL,,,0.0
+1768,19726422,12,bimatoprost product,bimatoprost,,1,,7,1,,,,,,CHEMICAL,,,
+1769,19726422,12,travoprost product,travoprost,,2,,20,2,,,,,,CHEMICAL,,,
+1770,19726422,12,latanoprost product,latanoprost,False,3,24.53829002380371,42,3,[],,,,,CHEMICAL,,,0.0
+1771,19726422,13,latanoprost product,latanoprost,,1,,14,1,,,,,,CHEMICAL,,,
+1772,19726422,13,bimatoprost product,bimatoprost,,2,,49,2,,,,,,CHEMICAL,,,
+1773,19726422,13,travoprost product,travoprost,False,3,19.88372039794922,81,3,[],,,,,CHEMICAL,,,0.0
+1774,19726422,14,bimatoprost product,bimatoprost,,1,,9,1,,,,,,CHEMICAL,,,
+1775,19726422,14,travoprost product,travoprost,,2,,21,2,,,,,,CHEMICAL,,,
+1776,19726422,14,conjunctival hyperemia,conjunctival hyperaemia,True,3,9.361135482788086,41,3,[14],,,,,DISEASE,,,1.0
+1777,19726422,15,"hyperaemia , nos",hyperaemia,,1,,0,1,,,,,,DISEASE,,,
+1778,19726422,15,bimatoprost product,bimatoprost,,2,,20,2,,,,,,CHEMICAL,,,
+1779,19726422,15,travoprost product,travoprost,False,3,9.81203842163086,32,3,[],,,,,CHEMICAL,,,0.0
+1780,19726422,16,latanoprost product,latanoprost,,1,,4,1,,,,,,CHEMICAL,,,
+1781,19726422,16,latanoprost product,latanoprost,,2,,28,2,,,,,,CHEMICAL,,,
+1782,19726422,16,bimatoprost product,bimatoprost,,3,,37,3,,,,,,CHEMICAL,,,
+1783,19726422,16,travoprost product,travoprost,False,4,6.195645809173584,45,4,[],,,,,CHEMICAL,,,0.0
+1784,19726422,17,"hyperaemia , nos",hyperaemia,,1,,3,1,,,,,,DISEASE,,,
+1785,19726422,17,bimatoprost product,bimatoprost,,2,,14,2,,,,,,CHEMICAL,,,
+1786,19726422,17,travoprost product,travoprost,,3,,21,3,,,,,,CHEMICAL,,,
+1787,19726422,17,latanoprost product,latanoprost,False,4,4.33729887008667,30,4,[],,,,,CHEMICAL,,,0.0
+1788,19726422,18,,,False,,,,,,,,,,,,,
+1789,8628544,0,,,False,,,,,,,,,,,,,
+1790,8628544,1,,,False,,,,,,,,,,,,,
+1791,8628544,2,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1792,8628544,2,timolol product,timolol,,2,,9,2,,,,,,CHEMICAL,,,
+1793,8628544,2,oht - ocular hypertension,ocular hypertension,,3,,16,3,,,,,,DISEASE,,,
+1794,8628544,2,unspecified glaucoma,glaucoma,True,4,26.984376907348633,24,4,[2],,,,,DISEASE,,,2.0
+1795,8628544,3,latanoprost product,latanoprost,False,1,16.57065773010254,3,1,[],,,,,CHEMICAL,,,0.0
+1796,8628544,4,,,False,,,,,,,,,,,,,
+1797,8628544,5,,,False,,,,,,,,,,,,,
+1798,8628544,6,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1799,8628544,6,prostaglandin analog,prostaglandin,,2,,11,2,,,,,,CHEMICAL,,,
+1800,8628544,6,timolol product,timolol,False,3,17.6570987701416,21,3,[],,,,,CHEMICAL,,,0.0
+1801,8628544,7,latanoprost product,latanoprost,,1,,43,1,,,,,,CHEMICAL,,,
+1802,8628544,7,timolol product,timolol,False,2,12.853002548217773,56,2,[],,,,,CHEMICAL,,,0.0
+1803,8628544,8,,,False,,,,,,,,,,,,,
+1804,8628544,9,,,False,,,,,,,,,,,,,
+1805,8628544,10,latanoprost product,latanoprost,,1,,27,1,,,,,,CHEMICAL,,,
+1806,8628544,10,timolol product,timolol,False,2,5.951878070831299,61,2,[],,,,,CHEMICAL,,,0.0
+1807,8628544,11,timolol product,timolol,,1,,4,1,,,,,,CHEMICAL,,,
+1808,8628544,11,latanoprost product,latanoprost,False,2,2.2276649475097656,12,2,[],,,,,CHEMICAL,,,0.0
+1809,8628544,12,timolol product,timolol,,1,,6,1,,,,,,CHEMICAL,,,
+1810,8628544,12,latanoprost product,latanoprost,False,2,0.7935590147972107,14,2,[],,,,,CHEMICAL,,,0.0
+1811,8628544,13,conjunctival hyperaemia,hyperemia,,1,,7,1,,,,,,DISEASE,,,
+1812,8628544,13,latanoprost product,latanoprost,,2,,12,2,,,,,,CHEMICAL,,,
+1813,8628544,13,timolol product,timolol,True,3,15.431816101074219,22,3,[19],,,,,CHEMICAL,,,1.0
+1814,8628544,14,latanoprost product,latanoprost,False,1,9.845599174499512,6,1,[],,,,,CHEMICAL,,,0.0
+1815,8628544,15,latanoprost product,latanoprost,False,1,7.934399127960205,35,1,[],,,,,CHEMICAL,,,0.0
+1816,8628544,16,latanoprost product,latanoprost,False,1,7.238839149475098,5,1,[],,,,,CHEMICAL,,,0.0
+1817,8628544,17,,,False,,,,,,,,,,,,,
+1818,8628544,18,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1819,8628544,18,unspecified glaucoma,glaucoma,False,2,5.359620571136475,20,2,[],,,,,DISEASE,,,0.0
+1820,8628544,19,,,False,,,,,,,,,,,,,
+1821,12486510,0,,,False,,,,,,,,,,,,,
+1822,12486510,1,,,False,,,,,,,,,,,,,
+1823,12486510,3,latanoprost product,latanoprost,,1,,7,1,,,,,,CHEMICAL,,,
+1824,12486510,3,timolol product,timolol,False,2,21.807598114013672,14,2,[],,,,,CHEMICAL,,,0.0
+1825,12486510,4,,,False,,,,,,,,,,,,,
+1826,12486510,5,,,False,,,,,,,,,,,,,
+1827,12486510,6,latanoprost product,latanoprost,,1,,44,1,,,,,,CHEMICAL,,,
+1828,12486510,6,timolol product,timolol,True,2,17.69055938720703,55,2,[7],,,,,CHEMICAL,,,1.0
+1829,12486510,7,unspecified glaucoma,glaucoma,,1,,34,1,,,,,,DISEASE,,,
+1830,12486510,7,oht - ocular hypertension,ocular hypertension,,2,,40,2,,,,,,DISEASE,,,
+1831,12486510,7,unspecified glaucoma,glaucoma,True,3,45.44293975830078,64,3,[8],,,,,DISEASE,,,1.0
+1832,12486510,8,timolol product,timolol,,1,,13,1,,,,,,CHEMICAL,,,
+1833,12486510,8,latanoprost product,latanoprost,,2,,40,2,,,,,,CHEMICAL,,,
+1834,12486510,8,timolol product,timolol,True,3,41.125526428222656,54,3,[9],,,,,CHEMICAL,,,1.0
+1835,12486510,9,,,False,,,,,,,,,,,,,
+1836,12486510,10,latanoprost product,latanoprost,True,1,3.3045997619628906,32,1,[11],,,,,CHEMICAL,,,1.0
+1837,12486510,11,,,False,,,,,,,,,,,,,
+1838,12486510,12,timolol product,timolol,False,1,11.19489860534668,7,1,[],,,,,CHEMICAL,,,0.0
+1839,12486510,13,,,False,,,,,,,,,,,,,
+1840,12486510,14,,,False,,,,,,,,,,,,,
+1841,12486510,15,latanoprost product,latanoprost,,1,,11,1,,,,,,CHEMICAL,,,
+1842,12486510,15,timolol product,timolol,False,2,7.366631507873535,22,2,[],,,,,CHEMICAL,,,0.0
+1843,12486510,16,,,False,,,,,,,,,,,,,
+1844,15220019,0,,,False,,,,,,,,,,,,,
+1845,15220019,1,,,False,,,,,,,,,,,,,
+1846,15220019,2,latanoprost product,latanoprost,,1,,2,1,,,,,,CHEMICAL,,,
+1847,15220019,2,product containing dorzolamide,dorzolamide,,2,,12,2,,,,,,CHEMICAL,,,
+1848,15220019,2,timolol product,timolol,True,3,35.39414596557617,19,3,"[18, 2]",,,,,CHEMICAL,,,1.0
+1849,15220019,3,unspecified glaucoma,glaucoma,False,1,8.158417701721191,14,1,[],,,,,DISEASE,,,0.0
+1850,15220019,4,unspecified glaucoma,glaucoma,False,1,7.965915679931641,6,1,[],,,,,DISEASE,,,0.0
+1851,15220019,5,,,False,,,,,,,,,,,,,
+1852,15220019,6,unspecified glaucoma,glaucoma,,1,,24,1,,,,,,DISEASE,,,
+1853,15220019,6,oht - ocular hypertension,ocular hypertension,,2,,30,2,,,,,,DISEASE,,,
+1854,15220019,6,latanoprost product,latanoprost,True,3,32.154266357421875,42,3,[18],,,,,CHEMICAL,,,0.0
+1855,15220019,7,latanoprost product,latanoprost,,1,,17,1,,,,,,CHEMICAL,,,
+1856,15220019,7,product containing dorzolamide,dorzolamide,,2,,30,2,,,,,,CHEMICAL,,,
+1857,15220019,7,timolol product,timolol,True,3,27.743404388427734,37,3,[18],,,,,CHEMICAL,,,0.0
+1858,15220019,8,,,False,,,,,,,,,,,,,
+1859,15220019,9,unspecified glaucoma,glaucoma,,1,,20,1,,,,,,DISEASE,,,
+1860,15220019,9,latanoprost product,latanoprost,,2,,33,2,,,,,,CHEMICAL,,,
+1861,15220019,9,product containing dorzolamide,dorzolamide,,3,,56,3,,,,,,CHEMICAL,,,
+1862,15220019,9,timolol product,timolol,True,4,25.023130416870117,63,4,[18],,,,,CHEMICAL,,,1.0
+1863,15220019,10,,,False,,,,,,,,,,,,,
+1864,15220019,11,,,False,,,,,,,,,,,,,
+1865,15220019,12,,,False,,,,,,,,,,,,,
+1866,15220019,14,latanoprost product,latanoprost,,1,,11,1,,,,,,CHEMICAL,,,
+1867,15220019,14,product containing dorzolamide,dorzolamide,,2,,22,2,,,,,,CHEMICAL,,,
+1868,15220019,14,timolol product,timolol,False,3,14.152471542358398,29,3,[],,,,,CHEMICAL,,,0.0
+1869,15220019,15,,,False,,,,,,,,,,,,,
+1870,15220019,16,latanoprost product,latanoprost,,1,,33,1,,,,,,CHEMICAL,,,
+1871,15220019,16,product containing dorzolamide,dorzolamide,,2,,54,2,,,,,,CHEMICAL,,,
+1872,15220019,16,timolol product,timolol,False,3,9.568580627441406,61,3,[],,,,,CHEMICAL,,,0.0
+1873,15220019,17,latanoprost product,latanoprost,False,1,4.78477668762207,23,1,[],,,,,CHEMICAL,,,0.0
+1874,15220019,18,latanoprost product,latanoprost,False,1,3.7170071601867676,22,1,[],,,,,CHEMICAL,,,0.0
+1875,15220019,19,latanoprost product,latanoprost,False,1,1.9697788953781128,4,1,[],,,,,CHEMICAL,,,0.0
+1876,15220019,20,latanoprost product,latanoprost,False,1,4.398815631866455,60,1,[],,,,,CHEMICAL,,,0.0
+1877,15220019,21,latanoprost product,latanoprost,,1,,0,1,,,,,,CHEMICAL,,,
+1878,15220019,21,product containing dorzolamide,dorzolamide,,2,,13,2,,,,,,CHEMICAL,,,
+1879,15220019,21,timolol product,timolol,False,3,5.927032470703125,20,3,[],,,,,CHEMICAL,,,0.0
+1880,15220019,22,,,False,,,,,,,,,,,,,
+1881,19476406,0,,,False,,,,,,,,,,,,,
+1882,19476406,1,,,False,,,,,,,,,,,,,
+1883,19476406,2,brimonidine product,brimonidine,,1,,12,1,,,,,,CHEMICAL,,,
+1884,19476406,2,timolol product,timolol,,2,,18,2,,,,,,CHEMICAL,,,
+1885,19476406,2,product containing dorzolamide,dorzolamide,,3,,23,3,,,,,,CHEMICAL,,,
+1886,19476406,2,timolol product,timolol,True,4,14.266778945922852,30,4,[2],,,,,CHEMICAL,,,1.0
+1887,19476406,3,,,False,,,,,,,,,,,,,
+1888,19476406,4,brimonidine product,brimonidine,,1,,23,1,,,,,,CHEMICAL,,,
+1889,19476406,4,timolol product,timolol,,2,,33,2,,,,,,CHEMICAL,,,
+1890,19476406,4,product containing dorzolamide,dorzolamide,,3,,40,3,,,,,,CHEMICAL,,,
+1891,19476406,4,timolol product,timolol,False,4,11.01266098022461,51,4,[],,,,,CHEMICAL,,,0.0
+1892,19476406,5,brimonidine product,brimonidine,,1,,21,1,,,,,,CHEMICAL,,,
+1893,19476406,5,timolol product,timolol,,2,,27,2,,,,,,CHEMICAL,,,
+1894,19476406,5,product containing dorzolamide,dorzolamide,,3,,33,3,,,,,,CHEMICAL,,,
+1895,19476406,5,timolol product,timolol,,4,,40,4,,,,,,CHEMICAL,,,
+1896,19476406,5,prostaglandin analogues,prostaglandin,,5,,56,5,,,,,,CHEMICAL,,,
+1897,19476406,5,unspecified glaucoma,glaucoma,,6,,69,6,,,,,,DISEASE,,,
+1898,19476406,5,oht - ocular hypertension,ocular hypertension,True,7,32.425071716308594,75,7,[5],,,,,DISEASE,,,6.0
+1899,19476406,6,,,False,,,,,,,,,,,,,
+1900,19476406,7,oht - ocular hypertension,ocular hypertension,,1,,14,1,,,,,,DISEASE,,,
+1901,19476406,7,brimonidine product,brimonidine,,2,,31,2,,,,,,CHEMICAL,,,
+1902,19476406,7,timolol product,timolol,,3,,37,3,,,,,,CHEMICAL,,,
+1903,19476406,7,product containing dorzolamide,dorzolamide,,4,,43,4,,,,,,CHEMICAL,,,
+1904,19476406,7,timolol product,timolol,,5,,50,5,,,,,,CHEMICAL,,,
+1905,19476406,7,latanoprost product,latanoprost,,6,,72,6,,,,,,CHEMICAL,,,
+1906,19476406,7,bimatoprost product,bimatoprost,,7,,79,7,,,,,,CHEMICAL,,,
+1907,19476406,7,travoprost product,travoprost,False,8,27.606796264648438,87,8,[],,,,,CHEMICAL,,,2.0
+1908,19476406,9,,,False,,,,,,,,,,,,,
+1909,19476406,12,,,False,,,,,,,,,,,,,
+1910,19476406,13,,,False,,,,,,,,,,,,,
+1911,19476406,14,brimonidine product,brimonidine,,1,,40,1,,,,,,CHEMICAL,,,
+1912,19476406,14,timolol product,timolol,,2,,46,2,,,,,,CHEMICAL,,,
+1913,19476406,14,product containing dorzolamide,dorzolamide,,3,,68,3,,,,,,CHEMICAL,,,
+1914,19476406,14,timolol product,timolol,False,4,15.890728950500488,75,4,[],,,,,CHEMICAL,,,0.0
+1915,19476406,15,brimonidine product,brimonidine,,1,,37,1,,,,,,CHEMICAL,,,
+1916,19476406,15,timolol product,timolol,,2,,43,2,,,,,,CHEMICAL,,,
+1917,19476406,15,product containing dorzolamide,dorzolamide,,3,,65,3,,,,,,CHEMICAL,,,
+1918,19476406,15,timolol product,timolol,False,4,10.753606796264648,72,4,[],,,,,CHEMICAL,,,0.0
+1919,19476406,16,brimonidine product,brimonidine,,1,,2,1,,,,,,CHEMICAL,,,
+1920,19476406,16,timolol product,timolol,,2,,8,2,,,,,,CHEMICAL,,,
+1921,19476406,16,stinging sensation,stinging,,3,,23,3,,,,,,DISEASE,,,
+1922,19476406,16,product containing dorzolamide,dorzolamide,,4,,46,4,,,,,,CHEMICAL,,,
+1923,19476406,16,timolol product,timolol,True,5,7.314024448394775,53,5,[18],,,,,CHEMICAL,,,1.0
+1924,19476406,17,brimonidine product,brimonidine,,1,,5,1,,,,,,CHEMICAL,,,
+1925,19476406,17,timolol product,timolol,,2,,11,2,,,,,,CHEMICAL,,,
+1926,19476406,17,product containing dorzolamide,dorzolamide,,3,,28,3,,,,,,CHEMICAL,,,
+1927,19476406,17,timolol product,timolol,False,4,4.678744316101074,35,4,[],,,,,CHEMICAL,,,0.0
+1928,19476406,18,,,False,,,,,,,,,,,,,
+1929,19476406,19,brimonidine product,brimonidine,,1,,0,1,,,,,,CHEMICAL,,,
+1930,19476406,19,timolol product,timolol,,2,,6,2,,,,,,CHEMICAL,,,
+1931,19476406,19,product containing dorzolamide,dorzolamide,,3,,18,3,,,,,,CHEMICAL,,,
+1932,19476406,19,timolol product,timolol,False,4,3.2469024658203125,25,4,[],,,,,CHEMICAL,,,0.0
+1933,19476406,20,brimonidine product,brimonidine,,1,,24,1,,,,,,CHEMICAL,,,
+1934,19476406,20,timolol product,timolol,,2,,30,2,,,,,,CHEMICAL,,,
+1935,19476406,20,product containing dorzolamide,dorzolamide,,3,,35,3,,,,,,CHEMICAL,,,
+1936,19476406,20,timolol product,timolol,False,4,1.0810166597366333,42,4,[],,,,,CHEMICAL,,,0.0
+1937,19476406,21,,,False,,,,,,,,,,,,,
+1938,23950156,0,,,False,,,,,,,,,,,,,
+1939,23950156,1,,,False,,,,,,,,,,,,,
+1940,23950156,2,latanoprost product,latanoprost,,1,,7,1,,,,,,CHEMICAL,,,
+1941,23950156,2,timolol product,timolol,,2,,14,2,,,,,,CHEMICAL,,,
+1942,23950156,2,travoprost product,travoprost,,3,,19,3,,,,,,CHEMICAL,,,
+1943,23950156,2,timolol product,timolol,True,4,21.305057525634766,26,4,[2],,,,,CHEMICAL,,,1.0
+1944,23950156,3,,,False,,,,,,,,,,,,,
+1945,23950156,4,travoprost product,travoprost,,1,,14,1,,,,,,CHEMICAL,,,
+1946,23950156,4,timolol product,timolol,,2,,21,2,,,,,,CHEMICAL,,,
+1947,23950156,4,latanoprost product,latanoprost,,3,,30,3,,,,,,CHEMICAL,,,
+1948,23950156,4,timolol product,timolol,True,4,14.769969940185547,37,4,[4],,,,,CHEMICAL,,,1.0
+1949,23950156,5,,,False,,,,,,,,,,,,,
+1950,23950156,7,product containing dorzolamide,dorzolamide,,1,,10,1,,,,,,CHEMICAL,,,
+1951,23950156,7,timolol product,timolol,False,2,7.3129353523254395,17,2,[],,,,,CHEMICAL,,,0.0
+1952,23950156,8,,,False,,,,,,,,,,,,,
+1953,23950156,9,,,False,,,,,,,,,,,,,
+1954,23950156,10,,,False,,,,,,,,,,,,,
+1955,23950156,16,,,False,,,,,,,,,,,,,
+1956,23950156,18,,,False,,,,,,,,,,,,,
+1957,23950156,11,,,False,,,,,,,,,,,,,
+0,23950156,12,,,False,,,,,,,,,,,,,

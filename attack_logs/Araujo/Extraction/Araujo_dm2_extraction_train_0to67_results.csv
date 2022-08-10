@@ -1,0 +1,1691 @@
+,abstract_id,sentence_index,synonym_tokens,original_tokens,attack_successful,num_changed,divergence,token_index,num_queries,changed_sentences,num_entities_changed,synonym_prob,semantic_sim,attack_type,type,num_changes_in_pred,comp_mode,num_entites_changed
+0,16715577,0,,,False,,,,,,,,,,,,,
+1,16715577,1,,,False,,,,,,,,,,,,,
+2,16715577,2,insulin glargine human,glargine,,1,,7,1,,,,,,CHEMICAL,,,
+3,16715577,2,product containing glimepiride,glimepiride,False,2,22.592426300048828,21,2,[],,,,,CHEMICAL,,,0.0
+4,16715577,3,,,False,,,,,,,,,,,,,
+5,16715577,4,,,False,,,,,,,,,,,,,
+6,16715577,5,diabetes type 2,diabetes,False,1,0.20313747227191925,14,1,[],,,,,DISEASE,,,0.0
+7,16715577,6,,,False,,,,,,,,,,,,,
+8,16715577,7,insulin glargine human,glargine,,1,,9,1,,,,,,CHEMICAL,,,
+9,16715577,7,product containing glimepiride,glimepiride,True,2,13.846378326416016,30,2,[7],,,,,CHEMICAL,,,1.0
+10,16715577,8,product containing glimepiride,glimepiride,,1,,50,1,,,,,,CHEMICAL,,,
+11,16715577,8,insulin glargine human,glargine,True,2,8.827316284179688,59,2,[8],,,,,CHEMICAL,,,1.0
+12,16715577,9,,,False,,,,,,,,,,,,,
+13,16715577,10,insulin glargine human,glargine,False,1,3.2344346046447754,3,1,[],,,,,CHEMICAL,,,0.0
+14,16715577,11,nocturnal hypoglycaemia,nocturnal hypoglycemia,,1,,1,1,,,,,,DISEASE,,,
+15,16715577,11,insulin glargine human,glargine,False,2,18.479982376098633,13,2,[],,,,,CHEMICAL,,,0.0
+16,16715577,12,insulin glargine human,glargine,False,1,16.069334030151367,3,1,[],,,,,CHEMICAL,,,0.0
+17,16715577,13,insulin glargine human,glargine,False,1,11.614469528198242,10,1,[],,,,,CHEMICAL,,,0.0
+18,16715577,14,insulin glargine human,glargine,False,1,8.794334411621094,19,1,[],,,,,CHEMICAL,,,0.0
+19,16715577,15,insulin glargine human,glargine,,1,,20,1,,,,,,CHEMICAL,,,
+20,16715577,15,product containing glimepiride,glimepiride,,2,,26,2,,,,,,CHEMICAL,,,
+21,16715577,15,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,3,6.175206184387207,44,3,[],,,,,DISEASE,,,0.0
+22,16715577,16,,,False,,,,,,,,,,,,,
+23,28345162,0,,,False,,,,,,,,,,,,,
+24,28345162,1,,,False,,,,,,,,,,,,,
+25,28345162,3,lixisenatide product,lixisenatide,,1,,8,1,,,,,,CHEMICAL,,,
+26,28345162,3,product containing sitagliptin,sitagliptin,,2,,15,2,,,,,,CHEMICAL,,,
+27,28345162,3,insulin glargine human,glargine,False,3,15.308271408081055,32,3,[],,,,,CHEMICAL,,,0.0
+28,28345162,4,,,False,,,,,,,,,,,,,
+29,28345162,5,,,False,,,,,,,,,,,,,
+30,28345162,6,,,False,,,,,,,,,,,,,
+31,28345162,7,,,False,,,,,,,,,,,,,
+32,28345162,8,,,False,,,,,,,,,,,,,
+33,28345162,9,,,False,,,,,,,,,,,,,
+34,28345162,10,lixisenatide product,lixisenatide,,1,,12,1,,,,,,CHEMICAL,,,
+35,28345162,10,product containing sitagliptin,sitagliptin,,2,,21,2,,,,,,CHEMICAL,,,
+36,28345162,10,insulin glargine human,glargine,False,3,7.014267921447754,38,3,[],,,,,CHEMICAL,,,0.0
+37,28345162,11,lixisenatide product,lixisenatide,,1,,43,1,,,,,,CHEMICAL,,,
+38,28345162,11,product containing sitagliptin,sitagliptin,True,2,2.685710906982422,76,2,[16],,,,,CHEMICAL,,,3.0
+39,28345162,12,,,False,,,,,,,,,,,,,
+40,28345162,13,lixisenatide product,lixisenatide,,1,,2,1,,,,,,CHEMICAL,,,
+41,28345162,13,product containing sitagliptin,sitagliptin,,2,,20,2,,,,,,CHEMICAL,,,
+42,28345162,13,lixisenatide product,lixisenatide,,3,,75,3,,,,,,CHEMICAL,,,
+43,28345162,13,product containing sitagliptin,sitagliptin,False,4,36.96842956542969,106,4,[],,,,,CHEMICAL,,,0.0
+44,28345162,14,lixisenatide product,lixisenatide,,1,,0,1,,,,,,CHEMICAL,,,
+45,28345162,14,product containing sitagliptin,sitagliptin,True,2,27.057586669921875,20,2,[14],,,,,CHEMICAL,,,1.0
+46,28345162,15,lixisenatide product,lixisenatide,,1,,34,1,,,,,,CHEMICAL,,,
+47,28345162,15,product containing sitagliptin,sitagliptin,False,2,24.693206787109375,43,2,[],,,,,CHEMICAL,,,0.0
+48,28345162,16,lixisenatide product,lixisenatide,,1,,12,1,,,,,,CHEMICAL,,,
+49,28345162,16,product containing sitagliptin,sitagliptin,False,2,23.750720977783203,26,2,[],,,,,CHEMICAL,,,0.0
+50,28345162,17,lixisenatide product,lixisenatide,,1,,2,1,,,,,,CHEMICAL,,,
+51,28345162,17,product containing sitagliptin,sitagliptin,,2,,14,2,,,,,,CHEMICAL,,,
+52,28345162,17,insulin glargine human,glargine,False,3,10.020715713500977,29,3,[],,,,,CHEMICAL,,,0.0
+53,28345162,19,,,False,,,,,,,,,,,,,
+54,19108786,0,,,False,,,,,,,,,,,,,
+55,19108786,1,,,False,,,,,,,,,,,,,
+56,19108786,2,insulin glargine human,glargine,,1,,34,1,,,,,,CHEMICAL,,,
+57,19108786,2,aspart insulin,aspart,,2,,51,2,,,,,,CHEMICAL,,,
+58,19108786,2,diabetes type 2,diabetes,False,3,7.756130218505859,59,3,[],,,,,DISEASE,,,0.0
+59,19108786,3,,,False,,,,,,,,,,,,,
+60,19108786,4,,,False,,,,,,,,,,,,,
+61,19108786,9,insulina detemir,detemir,,1,,15,1,,,,,,CHEMICAL,,,
+62,19108786,9,glargine insulin,glargine,False,2,6.985211372375488,21,2,[],,,,,CHEMICAL,,,0.0
+63,19108786,10,,,False,,,,,,,,,,,,,
+64,19108786,11,glargine insulin,glargine,False,1,2.22774600982666,49,1,[],,,,,CHEMICAL,,,0.0
+65,19108786,12,insulina detemir,detemir,,1,,6,1,,,,,,CHEMICAL,,,
+66,19108786,12,glargine insulin,glargine,True,2,2.8105831146240234,20,2,[None],,,,,CHEMICAL,,,2.0
+67,19108786,13,aspart insulin,aspart,False,1,0.1637844294309616,1,1,[],,,,,CHEMICAL,,,0.0
+68,19108786,14,,,False,,,,,,,,,,,,,
+69,19108786,15,insulina detemir,detemir,,1,,2,1,,,,,,CHEMICAL,,,
+70,19108786,15,glargine insulin,glargine,True,2,10.71082878112793,8,2,"[20, 18]",,,,,CHEMICAL,,,2.0
+71,19108786,16,glucose levels plasma,glucose,,1,,4,1,,,,,,CHEMICAL,,,
+72,19108786,16,glucose levels plasma,glucose,True,2,8.632756233215332,43,2,[20],,,,,CHEMICAL,,,0.0
+73,19108786,17,,,False,,,,,,,,,,,,,
+74,19108786,18,,,False,,,,,,,,,,,,,
+75,19108786,19,,,False,,,,,,,,,,,,,
+76,19108786,20,,,False,,,,,,,,,,,,,
+77,19108786,21,insulina detemir,detemir,,1,,10,1,,,,,,CHEMICAL,,,
+78,19108786,21,glargine insulin,glargine,True,2,3.484712839126587,16,2,[23],,,,,CHEMICAL,,,2.0
+79,19108786,32,,,False,,,,,,,,,,,,,
+80,19108786,22,insulina detemir,detemir,False,1,11.335695266723633,15,1,[],,,,,CHEMICAL,,,0.0
+81,19108786,23,,,False,,,,,,,,,,,,,
+82,19108786,25,gains weight,weight gain,,1,,1,1,,,,,,DISEASE,,,
+83,19108786,25,insulina detemir,detemir,,2,,10,2,,,,,,CHEMICAL,,,
+84,19108786,25,glargine insulin,glargine,True,3,9.582988739013672,17,3,[28],,,,,CHEMICAL,,,4.0
+85,19108786,26,,,False,,,,,,,,,,,,,
+86,19108786,27,hypoglycaemic,hypoglycemic,True,1,4.5710248947143555,1,1,[30],,,,,DISEASE,,,1.0
+87,19108786,28,,,False,,,,,,,,,,,,,
+88,19108786,29,,,False,,,,,,,,,,,,,
+89,19108786,30,insulina detemir,detemir,,1,,36,1,,,,,,CHEMICAL,,,
+90,19108786,30,glargine insulin,glargine,False,2,2.055896043777466,47,2,[],,,,,CHEMICAL,,,0.0
+91,19108786,31,,,False,,,,,,,,,,,,,
+92,19108786,33,,,False,,,,,,,,,,,,,
+93,27650977,0,,,False,,,,,,,,,,,,,
+94,27650977,1,,,False,,,,,,,,,,,,,
+95,27650977,3,lixisenatide product,lixisenatide,,1,,23,1,,,,,,CHEMICAL,,,
+96,27650977,3,diabetes type 2,diabetes,,2,,32,2,,,,,,DISEASE,,,
+97,27650977,3,metformine,metformin,True,3,9.88569450378418,40,3,[4],,,,,CHEMICAL,,,2.0
+98,27650977,4,,,False,,,,,,,,,,,,,
+99,27650977,6,,,False,,,,,,,,,,,,,
+100,27650977,7,,,False,,,,,,,,,,,,,
+101,27650977,8,,,False,,,,,,,,,,,,,
+102,27650977,9,,,False,,,,,,,,,,,,,
+103,27650977,10,,,False,,,,,,,,,,,,,
+104,27650977,11,,,False,,,,,,,,,,,,,
+105,27650977,12,,,False,,,,,,,,,,,,,
+106,27650977,13,,,False,,,,,,,,,,,,,
+107,27650977,14,,,False,,,,,,,,,,,,,
+108,27650977,15,,,False,,,,,,,,,,,,,
+109,27650977,18,insulin glargine human,glargine,,1,,37,1,,,,,,CHEMICAL,,,
+110,27650977,18,lixisenatide product,lixisenatide,False,2,14.760786056518555,52,2,[],,,,,CHEMICAL,,,0.0
+111,27650977,19,metformine,metformin,False,1,0.008749730885028839,36,1,[],,,,,CHEMICAL,,,0.0
+112,27650977,20,,,False,,,,,,,,,,,,,
+113,27650977,21,,,False,,,,,,,,,,,,,
+114,27650977,22,,,False,,,,,,,,,,,,,
+115,27650977,23,,,False,,,,,,,,,,,,,
+116,27650977,24,,,False,,,,,,,,,,,,,
+117,27650977,25,,,False,,,,,,,,,,,,,
+118,27650977,26,,,False,,,,,,,,,,,,,
+119,27650977,27,diabetes type 2,diabetes,False,1,0.19458886981010437,71,1,[],,,,,DISEASE,,,0.0
+120,27650977,29,,,False,,,,,,,,,,,,,
+121,14706058,0,,,False,,,,,,,,,,,,,
+122,14706058,1,,,False,,,,,,,,,,,,,
+123,14706058,2,diazoxide product,diazoxide,,1,,5,1,,,,,,CHEMICAL,,,
+124,14706058,2,diabetes type 2,diabetes,False,2,26.5916748046875,22,2,[],,,,,DISEASE,,,0.0
+125,14706058,3,,,False,,,,,,,,,,,,,
+126,14706058,6,diazoxide product,diazoxide,,1,,10,1,,,,,,CHEMICAL,,,
+127,14706058,6,diabetes type 2,diabetes,True,2,23.728179931640625,27,2,[8],,,,,DISEASE,,,2.0
+128,14706058,7,metformine,metformin,False,1,0.02443401888012886,34,1,[],,,,,CHEMICAL,,,0.0
+129,14706058,8,diazoxide product,diazoxide,False,1,18.795166015625,5,1,[],,,,,CHEMICAL,,,0.0
+130,14706058,10,diazoxide product,diazoxide,False,1,16.48139762878418,7,1,[],,,,,CHEMICAL,,,0.0
+131,14706058,11,diazoxide product,diazoxide,False,1,15.59219741821289,2,1,[],,,,,CHEMICAL,,,0.0
+132,14706058,12,,,False,,,,,,,,,,,,,
+133,14706058,13,diazoxide product,diazoxide,False,1,8.99152660369873,19,1,[],,,,,CHEMICAL,,,0.0
+134,14706058,14,diazoxide product,diazoxide,False,1,6.923831939697266,2,1,[],,,,,CHEMICAL,,,0.0
+135,14706058,15,diazoxide product,diazoxide,False,1,3.0175576210021973,29,1,[],,,,,CHEMICAL,,,0.0
+136,14706058,16,diazoxide product,diazoxide,,1,,6,1,,,,,,CHEMICAL,,,
+137,14706058,16,metformine,metformin,False,2,10.896345138549805,21,2,[],,,,,CHEMICAL,,,0.0
+138,14706058,17,,,False,,,,,,,,,,,,,
+139,27321385,0,,,False,,,,,,,,,,,,,
+140,27321385,1,,,False,,,,,,,,,,,,,
+141,27321385,3,vildagliptin product,vildagliptin,,1,,3,1,,,,,,CHEMICAL,,,
+142,27321385,3,product containing sitagliptin,sitagliptin,,2,,10,2,,,,,,CHEMICAL,,,
+143,27321385,3,t2dm - diabetes mellitus type 2,diabetes mellitus,True,3,25.69948959350586,26,3,[4],,,,,DISEASE,,,3.0
+144,27321385,4,,,False,,,,,,,,,,,,,
+145,27321385,5,vildagliptin product,vildagliptin,,1,,12,1,,,,,,CHEMICAL,,,
+146,27321385,5,product containing sitagliptin,sitagliptin,,2,,19,2,,,,,,CHEMICAL,,,
+147,27321385,5,t2dm - diabetes mellitus type 2,diabetes mellitus,False,3,16.192150115966797,33,3,[],,,,,DISEASE,,,0.0
+148,27321385,6,product containing sitagliptin,sitagliptin,,1,,5,1,,,,,,CHEMICAL,,,
+149,27321385,6,product containing sitagliptin,sitagliptin,,2,,18,2,,,,,,CHEMICAL,,,
+150,27321385,6,vildagliptin product,vildagliptin,,3,,27,3,,,,,,CHEMICAL,,,
+151,27321385,6,glucose blood,glucose,False,4,13.83645248413086,36,4,[],,,,,CHEMICAL,,,0.0
+152,27321385,7,product containing sitagliptin,sitagliptin,,1,,7,1,,,,,,CHEMICAL,,,
+153,27321385,7,vildagliptin product,vildagliptin,,2,,16,2,,,,,,CHEMICAL,,,
+154,27321385,7,diabetes type 2,diabetes,,3,,25,3,,,,,,DISEASE,,,
+155,27321385,7,product containing sitagliptin,sitagliptin,False,4,11.858322143554688,31,4,[],,,,,CHEMICAL,,,0.0
+156,27321385,8,product containing sitagliptin,sitagliptin,True,1,6.762331008911133,20,1,[9],,,,,CHEMICAL,,,1.0
+157,27321385,9,vildagliptin product,vildagliptin,,1,,8,1,,,,,,CHEMICAL,,,
+158,27321385,9,product containing sitagliptin,sitagliptin,True,2,4.664737701416016,22,2,[10],,,,,CHEMICAL,,,2.0
+159,27321385,10,,,False,,,,,,,,,,,,,
+160,27321385,11,vildagliptin product,vildagliptin,,1,,7,1,,,,,,CHEMICAL,,,
+161,27321385,11,product containing sitagliptin,sitagliptin,False,2,22.309511184692383,27,2,[],,,,,CHEMICAL,,,0.0
+162,27321385,12,glucose blood,glucose,False,1,0.07999198138713837,9,1,[],,,,,CHEMICAL,,,0.0
+163,27321385,13,vildagliptin product,vildagliptin,False,1,11.050668716430664,13,1,[],,,,,CHEMICAL,,,0.0
+164,27321385,14,product containing sitagliptin,sitagliptin,,1,,1,1,,,,,,CHEMICAL,,,
+165,27321385,14,vildagliptin product,vildagliptin,,2,,11,2,,,,,,CHEMICAL,,,
+166,27321385,14,product containing sitagliptin,sitagliptin,False,3,9.953933715820312,35,3,[],,,,,CHEMICAL,,,0.0
+167,27321385,15,,,False,,,,,,,,,,,,,
+168,24650952,0,,,False,,,,,,,,,,,,,
+169,24650952,1,,,False,,,,,,,,,,,,,
+170,24650952,3,lixisenatide product,lixisenatide,,1,,6,1,,,,,,CHEMICAL,,,
+171,24650952,3,sulphonylurea,sulfonylurea,,2,,43,2,,,,,,CHEMICAL,,,
+172,24650952,3,metformine,metformin,False,3,7.259396076202393,51,3,[],,,,,CHEMICAL,,,0.0
+173,24650952,4,,,False,,,,,,,,,,,,,
+174,24650952,5,,,False,,,,,,,,,,,,,
+175,24650952,7,,,False,,,,,,,,,,,,,
+176,24650952,8,,,False,,,,,,,,,,,,,
+177,24650952,9,,,False,,,,,,,,,,,,,
+178,24650952,10,,,False,,,,,,,,,,,,,
+179,24650952,11,,,False,,,,,,,,,,,,,
+180,24650952,12,,,False,,,,,,,,,,,,,
+181,24650952,13,,,False,,,,,,,,,,,,,
+182,24650952,14,,,False,,,,,,,,,,,,,
+183,24650952,15,lixisenatide product,lixisenatide,,1,,8,1,,,,,,CHEMICAL,,,
+184,24650952,15,sulphonylurea,sulfonylurea,False,2,0.851304292678833,37,2,[],,,,,CHEMICAL,,,0.0
+185,24650952,16,lixisenatide product,lixisenatide,False,1,16.843965530395508,26,1,[],,,,,CHEMICAL,,,0.0
+186,24650952,17,,,False,,,,,,,,,,,,,
+187,24650952,18,lixisenatide product,lixisenatide,False,1,15.032970428466797,2,1,[],,,,,CHEMICAL,,,0.0
+188,24650952,19,lixisenatide product,lixisenatide,True,1,9.84798812866211,0,1,[20],,,,,CHEMICAL,,,1.0
+189,24650952,20,lixisenatide product,lixisenatide,False,1,8.416594505310059,6,1,[],,,,,CHEMICAL,,,0.0
+190,24650952,21,lixisenatide product,lixisenatide,False,1,3.7457966804504395,11,1,[],,,,,CHEMICAL,,,0.0
+191,24650952,22,lixisenatide product,lixisenatide,,1,,0,1,,,,,,CHEMICAL,,,
+192,24650952,22,lixisenatide product,lixisenatide,False,2,2.549072027206421,51,2,[],,,,,CHEMICAL,,,0.0
+193,24650952,26,,,False,,,,,,,,,,,,,
+194,24650952,23,lixisenatide product,lixisenatide,,1,,5,1,,,,,,CHEMICAL,,,
+195,24650952,23,loss weight,weight loss,False,2,5.781013011932373,47,2,[],,,,,DISEASE,,,0.0
+196,15842521,0,,,False,,,,,,,,,,,,,
+197,15842521,1,,,False,,,,,,,,,,,,,
+198,15842521,2,metformine,metformin,,1,,1,1,,,,,,CHEMICAL,,,
+199,15842521,2,diabetes type 2,diabetes,False,2,0.08393288403749466,12,2,[],,,,,DISEASE,,,0.0
+200,15842521,3,metformine,metformin,False,1,0.03742753714323044,23,1,[],,,,,CHEMICAL,,,0.0
+201,15842521,4,,,False,,,,,,,,,,,,,
+202,15842521,5,metformine,metformin,,1,,8,1,,,,,,CHEMICAL,,,
+203,15842521,5,gains weight,weight gain,,2,,12,2,,,,,,DISEASE,,,
+204,15842521,5,diabetes type 2,diabetes,True,3,11.427743911743164,29,3,[5],,,,,DISEASE,,,2.0
+205,15842521,6,diabetes type 2,diabetes,False,1,0.29374098777770996,6,1,[],,,,,DISEASE,,,0.0
+206,15842521,7,metformine,metformin,False,1,0.05690334737300873,4,1,[],,,,,CHEMICAL,,,0.0
+207,15842521,8,,,False,,,,,,,,,,,,,
+208,15842521,9,metformine,metformin,,1,,6,1,,,,,,CHEMICAL,,,
+209,15842521,9,gains weight,weight gain,False,2,24.84452247619629,13,2,[],,,,,DISEASE,,,0.0
+210,15842521,10,metformine,metformin,False,1,0.047391101717948914,7,1,[],,,,,CHEMICAL,,,0.0
+211,15842521,11,metformine,metformin,,1,,2,1,,,,,,CHEMICAL,,,
+212,15842521,11,gains weight,weight gain,,2,,6,2,,,,,,DISEASE,,,
+213,15842521,11,diabetes type 2,diabetes,False,3,3.2332143783569336,32,3,[],,,,,DISEASE,,,0.0
+214,15842521,12,,,False,,,,,,,,,,,,,
+215,28035868,0,,,False,,,,,,,,,,,,,
+216,28035868,1,,,False,,,,,,,,,,,,,
+217,28035868,3,product containing sitagliptin,sitagliptin,,1,,11,1,,,,,,CHEMICAL,,,
+218,28035868,3,acarbose product,acarbose,False,2,14.29178524017334,30,2,[],,,,,CHEMICAL,,,0.0
+219,28035868,4,,,False,,,,,,,,,,,,,
+220,28035868,5,,,False,,,,,,,,,,,,,
+221,28035868,6,,,False,,,,,,,,,,,,,
+222,28035868,7,,,False,,,,,,,,,,,,,
+223,28035868,8,,,False,,,,,,,,,,,,,
+224,28035868,9,,,False,,,,,,,,,,,,,
+225,28035868,10,,,False,,,,,,,,,,,,,
+226,28035868,11,,,False,,,,,,,,,,,,,
+227,28035868,12,product containing sitagliptin,sitagliptin,,1,,9,1,,,,,,CHEMICAL,,,
+228,28035868,12,acarbose product,acarbose,False,2,2.97186279296875,42,2,[],,,,,CHEMICAL,,,0.0
+229,28035868,13,,,False,,,,,,,,,,,,,
+230,28035868,14,acarbose product,acarbose,,1,,44,1,,,,,,CHEMICAL,,,
+231,28035868,14,product containing sitagliptin,sitagliptin,False,2,19.500080108642578,74,2,[],,,,,CHEMICAL,,,0.0
+232,28035868,15,,,False,,,,,,,,,,,,,
+233,28035868,16,,,False,,,,,,,,,,,,,
+234,28035868,17,product containing sitagliptin,sitagliptin,False,1,9.187500953674316,32,1,[],,,,,CHEMICAL,,,0.0
+235,28035868,18,product containing sitagliptin,sitagliptin,False,1,5.6681318283081055,12,1,[],,,,,CHEMICAL,,,0.0
+236,28035868,19,product containing sitagliptin,sitagliptin,,1,,0,1,,,,,,CHEMICAL,,,
+237,28035868,19,symptoms diarrhea,diarrhea,,2,,39,2,,,,,,DISEASE,,,
+238,28035868,19,abdomen pain,abdominal pain,,3,,44,3,,,,,,DISEASE,,,
+239,28035868,19,nauseas,nausea,,4,,47,4,,,,,,DISEASE,,,
+240,28035868,19,symptoms vomiting,vomiting,True,5,5.387724876403809,50,5,[19],,,,,DISEASE,,,1.0
+241,28035868,20,product containing sitagliptin,sitagliptin,,1,,11,1,,,,,,CHEMICAL,,,
+242,28035868,20,product containing sitagliptin,sitagliptin,False,2,2.6477432250976562,41,2,[],,,,,CHEMICAL,,,0.0
+243,28035868,21,product containing sitagliptin,sitagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+244,28035868,21,acarbose product,acarbose,False,2,6.385082244873047,51,2,[],,,,,CHEMICAL,,,2.0
+245,28035868,23,,,False,,,,,,,,,,,,,
+246,18204830,0,,,False,,,,,,,,,,,,,
+247,18204830,1,,,False,,,,,,,,,,,,,
+248,18204830,3,insulin glargine human,glargine,,1,,21,1,,,,,,CHEMICAL,,,
+249,18204830,3,diabetes type 2,diabetes,True,2,10.622806549072266,45,2,[4],,,,,DISEASE,,,1.0
+250,18204830,4,,,False,,,,,,,,,,,,,
+251,18204830,7,insulina detemir,detemir,,1,,43,1,,,,,,CHEMICAL,,,
+252,18204830,7,glargine insulin,glargine,False,2,6.791449546813965,49,2,[],,,,,CHEMICAL,,,0.0
+253,18204830,8,glargine insulin,glargine,True,1,2.5401480197906494,55,1,[None],,,,,CHEMICAL,,,1.0
+254,18204830,9,glucose levels plasma,glucose,False,1,1.2956557273864746,15,1,[],,,,,CHEMICAL,,,0.0
+255,18204830,10,glargine insulin,glargine,False,1,0.3826579749584198,8,1,[],,,,,CHEMICAL,,,0.0
+256,18204830,11,insulina detemir,detemir,,1,,27,1,,,,,,CHEMICAL,,,
+257,18204830,11,glargine insulin,glargine,True,2,19.43628692626953,33,2,[13],,,,,CHEMICAL,,,4.0
+258,18204830,12,,,False,,,,,,,,,,,,,
+259,18204830,13,insulina detemir,detemir,False,1,15.271927833557129,1,1,[],,,,,CHEMICAL,,,0.0
+260,18204830,14,glargine insulin,glargine,False,1,10.79970932006836,32,1,[],,,,,CHEMICAL,,,0.0
+261,18204830,15,nocturnal hypoglycemia,nocturnal hypoglycaemia,False,1,0.030943579971790314,30,1,[],,,,,DISEASE,,,0.0
+262,18204830,16,gains weight,weight gain,,1,,3,1,,,,,,DISEASE,,,
+263,18204830,16,insulina detemir,detemir,,2,,8,2,,,,,,CHEMICAL,,,
+264,18204830,16,glargine insulin,glargine,True,3,11.083047866821289,14,3,[18],,,,,CHEMICAL,,,2.0
+265,18204830,17,glargine insulin,glargine,False,1,3.096024751663208,39,1,[],,,,,CHEMICAL,,,0.0
+266,18204830,18,insulina detemir,detemir,False,1,2.940408229827881,7,1,[],,,,,CHEMICAL,,,0.0
+267,18204830,19,glargine insulin,glargine,False,1,0.6186724901199341,14,1,[],,,,,CHEMICAL,,,0.0
+268,18204830,20,gains weight,weight gain,True,1,0.19533410668373108,24,1,[21],,,,,DISEASE,,,1.0
+269,18204830,21,,,False,,,,,,,,,,,,,
+270,18761646,0,,,False,,,,,,,,,,,,,
+271,18761646,1,,,False,,,,,,,,,,,,,
+272,18761646,2,,,False,,,,,,,,,,,,,
+273,18761646,3,metformine,metformin,False,1,0.013224732130765915,8,1,[],,,,,CHEMICAL,,,0.0
+274,18761646,4,,,False,,,,,,,,,,,,,
+275,18761646,5,t2dm - diabetes mellitus type 2,diabetes mellitus,True,1,13.222320556640625,44,1,[5],,,,,DISEASE,,,2.0
+276,18761646,6,,,False,,,,,,,,,,,,,
+277,18761646,7,,,False,,,,,,,,,,,,,
+278,18761646,8,,,False,,,,,,,,,,,,,
+279,18761646,9,,,False,,,,,,,,,,,,,
+280,18761646,10,,,False,,,,,,,,,,,,,
+281,18761646,11,,,False,,,,,,,,,,,,,
+282,18761646,12,,,False,,,,,,,,,,,,,
+283,18761646,13,,,False,,,,,,,,,,,,,
+284,18761646,14,,,False,,,,,,,,,,,,,
+285,21114605,0,,,False,,,,,,,,,,,,,
+286,21114605,1,,,False,,,,,,,,,,,,,
+287,21114605,2,linagliptin product,linagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+288,21114605,2,metformine,metformin,,2,,15,2,,,,,,CHEMICAL,,,
+289,21114605,2,diabetes type 2,diabetes,True,3,17.616455078125,23,3,[2],,,,,DISEASE,,,2.0
+290,21114605,3,,,False,,,,,,,,,,,,,
+291,21114605,4,,,False,,,,,,,,,,,,,
+292,21114605,7,linagliptin product,linagliptin,,1,,30,1,,,,,,CHEMICAL,,,
+293,21114605,7,metformine,metformin,False,2,11.39461898803711,42,2,[],,,,,CHEMICAL,,,0.0
+294,21114605,8,,,False,,,,,,,,,,,,,
+295,21114605,9,metformine,metformin,,1,,17,1,,,,,,CHEMICAL,,,
+296,21114605,9,linagliptin product,linagliptin,False,2,5.992856025695801,69,2,[],,,,,CHEMICAL,,,0.0
+297,21114605,10,,,False,,,,,,,,,,,,,
+298,21114605,11,,,False,,,,,,,,,,,,,
+299,21114605,12,linagliptin product,linagliptin,False,1,20.153301239013672,0,1,[],,,,,CHEMICAL,,,0.0
+300,21114605,13,linagliptin product,linagliptin,False,1,12.173378944396973,21,1,[],,,,,CHEMICAL,,,0.0
+301,21114605,14,linagliptin product,linagliptin,False,1,7.137682914733887,25,1,[],,,,,CHEMICAL,,,0.0
+302,21114605,15,linagliptin product,linagliptin,,1,,5,1,,,,,,CHEMICAL,,,
+303,21114605,15,metformine,metformin,,2,,24,2,,,,,,CHEMICAL,,,
+304,21114605,15,gains weight,weight gain,False,3,7.380969524383545,44,3,[],,,,,DISEASE,,,0.0
+305,21114605,16,,,False,,,,,,,,,,,,,
+306,22313154,0,,,False,,,,,,,,,,,,,
+307,22313154,1,,,False,,,,,,,,,,,,,
+308,22313154,3,saxagliptin product,saxagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+309,22313154,3,diabetes type 2,diabetes,,2,,19,2,,,,,,DISEASE,,,
+310,22313154,3,metformine,metformin,True,3,9.516653060913086,27,3,[4],,,,,CHEMICAL,,,3.0
+311,22313154,4,,,False,,,,,,,,,,,,,
+312,22313154,5,saxagliptin product,saxagliptin,,1,,20,1,,,,,,CHEMICAL,,,
+313,22313154,5,metformine,metformin,False,2,5.901885032653809,54,2,[],,,,,CHEMICAL,,,0.0
+314,22313154,6,metformine,metformin,,1,,48,1,,,,,,CHEMICAL,,,
+315,22313154,6,saxagliptin product,saxagliptin,False,2,2.8208656311035156,60,2,[],,,,,CHEMICAL,,,0.0
+316,22313154,7,,,False,,,,,,,,,,,,,
+317,22313154,8,,,False,,,,,,,,,,,,,
+318,22313154,9,metformine,metformin,False,1,0.020996134728193283,0,1,[],,,,,CHEMICAL,,,0.0
+319,22313154,10,,,False,,,,,,,,,,,,,
+320,22313154,11,saxagliptin product,saxagliptin,False,1,16.49222755432129,5,1,[],,,,,CHEMICAL,,,0.0
+321,22313154,12,saxagliptin product,saxagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+322,22313154,12,metformine,metformin,False,2,12.285038948059082,28,2,[],,,,,CHEMICAL,,,0.0
+323,22313154,13,saxagliptin product,saxagliptin,,1,,13,1,,,,,,CHEMICAL,,,
+324,22313154,13,saxagliptin product,saxagliptin,False,2,11.157974243164062,51,2,[],,,,,CHEMICAL,,,0.0
+325,22313154,14,saxagliptin product,saxagliptin,False,1,5.907876968383789,16,1,[],,,,,CHEMICAL,,,0.0
+326,22313154,15,saxagliptin product,saxagliptin,False,1,4.508779048919678,22,1,[],,,,,CHEMICAL,,,0.0
+327,22313154,16,infection of urinary tract,urinary tract infection,,1,,12,1,,,,,,DISEASE,,,
+328,22313154,16,saxagliptin product,saxagliptin,,2,,19,2,,,,,,CHEMICAL,,,
+329,22313154,16,pain extremity,pain,True,3,3.085671901702881,53,3,[17],,,,,DISEASE,,,1.0
+330,22313154,17,metformine,metformin,False,1,0.04493848979473114,33,1,[],,,,,CHEMICAL,,,0.0
+331,22313154,19,,,False,,,,,,,,,,,,,
+332,25753488,0,,,False,,,,,,,,,,,,,
+333,25753488,1,,,False,,,,,,,,,,,,,
+334,25753488,3,linagliptin product,linagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+335,25753488,3,t2dm - diabetes mellitus type 2,diabetes mellitus,,2,,15,2,,,,,,DISEASE,,,
+336,25753488,3,metformine,metformin,True,3,13.213539123535156,27,3,[4],,,,,CHEMICAL,,,4.0
+337,25753488,4,,,False,,,,,,,,,,,,,
+338,25753488,5,,,False,,,,,,,,,,,,,
+339,25753488,6,,,False,,,,,,,,,,,,,
+340,25753488,7,,,False,,,,,,,,,,,,,
+341,25753488,8,,,False,,,,,,,,,,,,,
+342,25753488,9,,,False,,,,,,,,,,,,,
+343,25753488,10,,,False,,,,,,,,,,,,,
+344,25753488,11,,,False,,,,,,,,,,,,,
+345,25753488,12,t2dm - diabetes mellitus type 2,type 2 diabetes mellitus,False,1,3.4140520095825195,7,1,[],,,,,DISEASE,,,0.0
+346,25753488,13,linagliptin product,linagliptin,,1,,36,1,,,,,,CHEMICAL,,,
+347,25753488,13,metformine,metformin,False,2,0.48098307847976685,43,2,[],,,,,CHEMICAL,,,0.0
+348,25753488,14,metformine,metformin,,1,,47,1,,,,,,CHEMICAL,,,
+349,25753488,14,linagliptin product,linagliptin,,2,,61,2,,,,,,CHEMICAL,,,
+350,25753488,14,metformine,metformin,False,3,14.177824020385742,74,3,[],,,,,CHEMICAL,,,0.0
+351,25753488,15,metformine,metformin,False,1,0.005476587917655706,7,1,[],,,,,CHEMICAL,,,0.0
+352,25753488,16,,,False,,,,,,,,,,,,,
+353,25753488,17,,,False,,,,,,,,,,,,,
+354,25753488,18,linagliptin product,linagliptin,False,1,10.536222457885742,13,1,[],,,,,CHEMICAL,,,0.0
+355,25753488,19,,,False,,,,,,,,,,,,,
+356,25753488,20,linagliptin product,linagliptin,False,1,4.797242164611816,8,1,[],,,,,CHEMICAL,,,0.0
+357,25753488,21,,,False,,,,,,,,,,,,,
+358,25753488,22,linagliptin product,linagliptin,False,1,1.484687089920044,0,1,[],,,,,CHEMICAL,,,0.0
+359,25753488,23,linagliptin product,linagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+360,25753488,23,metformine,metformin,False,2,0.681647777557373,31,2,[],,,,,CHEMICAL,,,0.0
+361,25753488,24,,,False,,,,,,,,,,,,,
+362,23706759,0,,,False,,,,,,,,,,,,,
+363,23706759,1,,,False,,,,,,,,,,,,,
+364,23706759,3,vildagliptin product,vildagliptin,False,1,15.003923416137695,12,1,[],,,,,CHEMICAL,,,0.0
+365,23706759,4,,,False,,,,,,,,,,,,,
+366,23706759,5,,,False,,,,,,,,,,,,,
+367,23706759,7,,,False,,,,,,,,,,,,,
+368,23706759,8,,,False,,,,,,,,,,,,,
+369,23706759,13,,,False,,,,,,,,,,,,,
+370,23706759,14,vildagliptin product,vildagliptin,False,1,6.499098777770996,25,1,[],,,,,CHEMICAL,,,0.0
+371,23706759,15,diabetes type 2,diabetes,False,1,0.105934277176857,58,1,[],,,,,DISEASE,,,0.0
+372,23706759,16,vildagliptin product,vildagliptin,False,1,1.515319585800171,42,1,[],,,,,CHEMICAL,,,0.0
+373,23706759,17,,,False,,,,,,,,,,,,,
+374,23706759,19,vildagliptin product,vildagliptin,False,1,17.063350677490234,22,1,[],,,,,CHEMICAL,,,0.0
+375,23706759,20,vildagliptin product,vildagliptin,False,1,12.788431167602539,43,1,[],,,,,CHEMICAL,,,0.0
+376,23706759,21,vildagliptin product,vildagliptin,False,1,7.500851631164551,28,1,[],,,,,CHEMICAL,,,0.0
+377,23706759,22,vildagliptin product,vildagliptin,False,1,4.414401531219482,11,1,[],,,,,CHEMICAL,,,0.0
+378,23706759,23,diabetes type 2,diabetes,False,1,0.03988160192966461,30,1,[],,,,,DISEASE,,,0.0
+379,23706759,24,vildagliptin product,vildagliptin,,1,,15,1,,,,,,CHEMICAL,,,
+380,23706759,24,diabetes type 2,diabetes,False,2,2.5264499187469482,32,2,[],,,,,DISEASE,,,1.0
+381,23706759,27,,,False,,,,,,,,,,,,,
+382,21819517,0,,,False,,,,,,,,,,,,,
+383,21819517,1,,,False,,,,,,,,,,,,,
+384,21819517,2,insulin glargine human,glargine,,1,,12,1,,,,,,CHEMICAL,,,
+385,21819517,2,diabetes type 2,diabetes,True,2,13.4362154006958,35,2,[2],,,,,DISEASE,,,2.0
+386,21819517,3,,,False,,,,,,,,,,,,,
+387,21819517,4,insulin glargine human,glargine,,1,,34,1,,,,,,CHEMICAL,,,
+388,21819517,4,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,10.762187957763672,52,2,[],,,,,DISEASE,,,0.0
+389,21819517,5,insulina lispro,lispro,,1,,19,1,,,,,,CHEMICAL,,,
+390,21819517,5,glargine insulin,glargine,,2,,25,2,,,,,,CHEMICAL,,,
+391,21819517,5,insulina lispro,lispro,True,3,7.545437812805176,31,3,[5],,,,,CHEMICAL,,,1.0
+392,21819517,6,,,False,,,,,,,,,,,,,
+393,21819517,7,glargine insulin,glargine,False,1,2.885408401489258,8,1,[],,,,,CHEMICAL,,,0.0
+394,21819517,8,,,False,,,,,,,,,,,,,
+395,21819517,9,glargine insulin,glargine,False,1,20.566490173339844,10,1,[],,,,,CHEMICAL,,,0.0
+396,21819517,10,glargine insulin,glargine,False,1,16.40606689453125,22,1,[],,,,,CHEMICAL,,,0.0
+397,21819517,11,,,False,,,,,,,,,,,,,
+398,21819517,12,glargine insulin,glargine,False,1,10.831161499023438,39,1,[],,,,,CHEMICAL,,,0.0
+399,21819517,13,nocturnal hypoglycemia,nocturnal hypoglycaemia,False,1,0.009928162209689617,26,1,[],,,,,DISEASE,,,0.0
+400,21819517,15,glargine insulin,glargine,False,1,4.763570785522461,32,1,[],,,,,CHEMICAL,,,0.0
+401,21819517,16,glargine insulin,glargine,False,1,3.6821646690368652,19,1,[],,,,,CHEMICAL,,,0.0
+402,21819517,17,,,False,,,,,,,,,,,,,
+403,21802161,0,,,False,,,,,,,,,,,,,
+404,21802161,1,,,False,,,,,,,,,,,,,
+405,21802161,3,diabetes type 2,diabetes,True,1,0.19060856103897095,21,1,[4],,,,,DISEASE,,,2.0
+406,21802161,4,,,False,,,,,,,,,,,,,
+407,21802161,5,,,False,,,,,,,,,,,,,
+408,21802161,6,folates,folate,,1,,18,1,,,,,,CHEMICAL,,,
+409,21802161,6,diabetes type 2,diabetes,,2,,48,2,,,,,,DISEASE,,,
+410,21802161,6,metformine,metformin,False,3,15.04659652709961,50,3,[],,,,,CHEMICAL,,,0.0
+411,21802161,7,,,False,,,,,,,,,,,,,
+412,21802161,8,diabetes type 2,diabetes,False,1,0.09267447888851166,40,1,[],,,,,DISEASE,,,0.0
+413,21802161,9,test folic acid,folic acid,False,1,9.763572692871094,8,1,[],,,,,CHEMICAL,,,0.0
+414,21802161,10,,,False,,,,,,,,,,,,,
+415,21802161,11,test folic acid,folic acid,,1,,5,1,,,,,,CHEMICAL,,,
+416,21802161,11,blood fasting glucose,glucose,True,2,7.8474836349487305,36,2,[16],,,,,CHEMICAL,,,2.0
+417,21802161,16,,,False,,,,,,,,,,,,,
+418,21802161,12,folate serum,folate,,1,,5,1,,,,,,CHEMICAL,,,
+419,21802161,12,test folic acid,folic acid,False,2,9.687848091125488,32,2,[],,,,,CHEMICAL,,,0.0
+420,21802161,13,test folic acid,folic acid,False,1,8.771856307983398,4,1,[],,,,,CHEMICAL,,,0.0
+421,21802161,14,test folic acid,folic acid,,1,,2,1,,,,,,CHEMICAL,,,
+422,21802161,14,diabetes type 2,diabetes,False,2,7.331547260284424,31,2,[],,,,,DISEASE,,,1.0
+423,23906445,0,,,False,,,,,,,,,,,,,
+424,23906445,1,,,False,,,,,,,,,,,,,
+425,23906445,3,dapagliflozin product,dapagliflozin,,1,,0,1,,,,,,CHEMICAL,,,
+426,23906445,3,metformine,metformin,False,2,14.721539497375488,37,2,[],,,,,CHEMICAL,,,0.0
+427,23906445,4,,,False,,,,,,,,,,,,,
+428,23906445,5,dapagliflozin product,dapagliflozin,,1,,2,1,,,,,,CHEMICAL,,,
+429,23906445,5,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,13.158431053161621,41,2,[],,,,,DISEASE,,,0.0
+430,23906445,6,dapagliflozin product,dapagliflozin,False,1,7.08045768737793,27,1,[],,,,,CHEMICAL,,,0.0
+431,23906445,7,metformine,metformin,False,1,0.020715201273560524,75,1,[],,,,,CHEMICAL,,,0.0
+432,23906445,8,metformine,metformin,False,1,0.02803100273013115,32,1,[],,,,,CHEMICAL,,,0.0
+433,23906445,9,,,False,,,,,,,,,,,,,
+434,23906445,10,,,False,,,,,,,,,,,,,
+435,23906445,11,dapagliflozin product,dapagliflozin,False,1,13.49301528930664,4,1,[],,,,,CHEMICAL,,,0.0
+436,23906445,12,,,False,,,,,,,,,,,,,
+437,23906445,13,bone fracture,fracture,False,1,5.866692543029785,1,1,[],,,,,DISEASE,,,0.0
+438,23906445,14,infection of urinary tract,urinary tract infection,,1,,3,1,,,,,,DISEASE,,,
+439,23906445,14,genital infections,genital infection,False,2,5.150818824768066,14,2,[],,,,,DISEASE,,,0.0
+440,23906445,15,metformine,metformin,False,1,0.026362337172031403,46,1,[],,,,,CHEMICAL,,,0.0
+441,23906445,16,,,False,,,,,,,,,,,,,
+442,17929538,0,,,False,,,,,,,,,,,,,
+443,17929538,1,,,False,,,,,,,,,,,,,
+444,17929538,2,metformine,metformin,False,1,0.010588501580059528,4,1,[],,,,,CHEMICAL,,,0.0
+445,17929538,3,,,False,,,,,,,,,,,,,
+446,17929538,4,metformine,metformin,False,1,0.019725743681192398,10,1,[],,,,,CHEMICAL,,,0.0
+447,17929538,5,metformine,metformin,False,1,0.04214701056480408,13,1,[],,,,,CHEMICAL,,,0.0
+448,17929538,6,,,False,,,,,,,,,,,,,
+449,17929538,7,metformine,metformin,False,1,0.03383089229464531,4,1,[],,,,,CHEMICAL,,,0.0
+450,17929538,8,,,False,,,,,,,,,,,,,
+451,17929538,9,cholesterol level,cholesterol,,1,,54,1,,,,,,CHEMICAL,,,
+452,17929538,9,trig,triglycerides,,2,,60,2,,,,,,CHEMICAL,,,
+453,17929538,9,cholesterol hdl,cholesterol,,3,,65,3,,,,,,CHEMICAL,,,
+454,17929538,9,cholesterol ldl,cholesterol,False,4,2.1479454040527344,72,4,[],,,,,CHEMICAL,,,0.0
+455,17929538,10,,,False,,,,,,,,,,,,,
+456,17929538,11,,,False,,,,,,,,,,,,,
+457,17929538,12,,,False,,,,,,,,,,,,,
+458,17929538,13,metformine,metformin,False,1,0.01744365692138672,6,1,[],,,,,CHEMICAL,,,0.0
+459,17929538,14,,,False,,,,,,,,,,,,,
+460,17929538,15,,,False,,,,,,,,,,,,,
+461,17929538,16,metformine,metformin,False,1,0.016537010669708252,24,1,[],,,,,CHEMICAL,,,0.0
+462,17929538,17,metformine,metformin,False,1,0.015836302191019058,15,1,[],,,,,CHEMICAL,,,0.0
+463,17929538,18,metformine,metformin,,1,,9,1,,,,,,CHEMICAL,,,
+464,17929538,18,metformine,metformin,False,2,0.02320435643196106,22,2,[],,,,,CHEMICAL,,,0.0
+465,17929538,19,,,False,,,,,,,,,,,,,
+466,23404788,0,,,False,,,,,,,,,,,,,
+467,23404788,1,,,False,,,,,,,,,,,,,
+468,23404788,2,diabetes type 2,diabetes,True,1,0.131456658244133,24,1,[2],,,,,DISEASE,,,2.0
+469,23404788,3,,,False,,,,,,,,,,,,,
+470,23404788,4,glucose blood,glucose,,1,,19,1,,,,,,CHEMICAL,,,
+471,23404788,4,loss weight,weight loss,,2,,22,2,,,,,,DISEASE,,,
+472,23404788,4,t2dm - diabetes mellitus type 2,diabetes mellitus,False,3,15.898982048034668,36,3,[],,,,,DISEASE,,,0.0
+473,23404788,5,metformine,metformin,False,1,0.012048477306962013,36,1,[],,,,,CHEMICAL,,,0.0
+474,23404788,6,,,False,,,,,,,,,,,,,
+475,23404788,7,,,False,,,,,,,,,,,,,
+476,23404788,8,,,False,,,,,,,,,,,,,
+477,23404788,9,,,False,,,,,,,,,,,,,
+478,23404788,10,,,False,,,,,,,,,,,,,
+479,23404788,11,loss weight,weight loss,False,1,18.84564208984375,0,1,[],,,,,DISEASE,,,0.0
+480,23404788,12,,,False,,,,,,,,,,,,,
+481,23404788,13,,,False,,,,,,,,,,,,,
+482,23404788,14,nauseas,nausea,,1,,0,1,,,,,,DISEASE,,,
+483,23404788,14,symptoms vomiting,vomiting,False,2,5.784379482269287,3,2,[],,,,,DISEASE,,,0.0
+484,23404788,15,loss weight,weight loss,False,1,2.7293272018432617,31,1,[],,,,,DISEASE,,,0.0
+485,23404788,17,,,False,,,,,,,,,,,,,
+486,18194595,0,,,False,,,,,,,,,,,,,
+487,18194595,1,,,False,,,,,,,,,,,,,
+488,18194595,2,product containing sitagliptin,sitagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+489,18194595,2,metformine,metformin,,2,,13,2,,,,,,CHEMICAL,,,
+490,18194595,2,diabetes type 2,diabetes,False,3,18.61479949951172,22,3,[],,,,,DISEASE,,,0.0
+491,18194595,3,,,False,,,,,,,,,,,,,
+492,18194595,4,product containing sitagliptin,sitagliptin,,1,,15,1,,,,,,CHEMICAL,,,
+493,18194595,4,metformine,metformin,,2,,27,2,,,,,,CHEMICAL,,,
+494,18194595,4,t2dm - diabetes mellitus type 2,diabetes mellitus,True,3,15.058088302612305,64,3,[4],,,,,DISEASE,,,3.0
+495,18194595,5,,,False,,,,,,,,,,,,,
+496,18194595,6,metformine,metformin,,1,,8,1,,,,,,CHEMICAL,,,
+497,18194595,6,product containing sitagliptin,sitagliptin,,2,,32,2,,,,,,CHEMICAL,,,
+498,18194595,6,metformine,metformin,False,3,5.558555603027344,47,3,[],,,,,CHEMICAL,,,0.0
+499,18194595,7,product containing sitagliptin,sitagliptin,False,1,2.891777753829956,34,1,[],,,,,CHEMICAL,,,0.0
+500,18194595,8,,,False,,,,,,,,,,,,,
+501,18194595,9,,,False,,,,,,,,,,,,,
+502,18194595,10,product containing sitagliptin,sitagliptin,False,1,19.41927146911621,2,1,[],,,,,CHEMICAL,,,0.0
+503,18194595,11,product containing sitagliptin,sitagliptin,False,1,15.538763999938965,32,1,[],,,,,CHEMICAL,,,0.0
+504,18194595,12,product containing sitagliptin,sitagliptin,False,1,9.605395317077637,0,1,[],,,,,CHEMICAL,,,0.0
+505,18194595,13,product containing sitagliptin,sitagliptin,False,1,7.995273590087891,5,1,[],,,,,CHEMICAL,,,0.0
+506,18194595,14,product containing sitagliptin,sitagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+507,18194595,14,metformine,metformin,False,2,5.107874870300293,16,2,[],,,,,CHEMICAL,,,0.0
+508,18194595,15,,,False,,,,,,,,,,,,,
+509,17115351,0,,,False,,,,,,,,,,,,,
+510,17115351,1,,,False,,,,,,,,,,,,,
+511,17115351,2,diabetes type 2,diabetes,,1,,6,1,,,,,,DISEASE,,,
+512,17115351,2,metformine,metformin,,2,,20,2,,,,,,CHEMICAL,,,
+513,17115351,2,insulin glargine human,glargine,,3,,28,3,,,,,,CHEMICAL,,,
+514,17115351,2,product containing glimepiride,glimepiride,False,4,16.973583221435547,34,4,[],,,,,CHEMICAL,,,0.0
+515,17115351,3,,,False,,,,,,,,,,,,,
+516,17115351,4,diabetes type 2,diabetes,False,1,0.08595798909664154,37,1,[],,,,,DISEASE,,,0.0
+517,17115351,5,aspart insulin,aspart,,1,,35,1,,,,,,CHEMICAL,,,
+518,17115351,5,metformine,metformin,,2,,44,2,,,,,,CHEMICAL,,,
+519,17115351,5,insulin glargine human,glargine,,3,,57,3,,,,,,CHEMICAL,,,
+520,17115351,5,product containing glimepiride,glimepiride,True,4,7.503139495849609,68,4,[5],,,,,CHEMICAL,,,5.0
+521,17115351,6,,,False,,,,,,,,,,,,,
+522,17115351,7,,,False,,,,,,,,,,,,,
+523,17115351,8,,,False,,,,,,,,,,,,,
+524,17115351,9,,,False,,,,,,,,,,,,,
+525,17115351,10,,,False,,,,,,,,,,,,,
+526,17115351,11,,,False,,,,,,,,,,,,,
+527,17115351,12,gains weight,weight gain,False,1,5.208752632141113,11,1,[],,,,,DISEASE,,,0.0
+528,17115351,13,,,False,,,,,,,,,,,,,
+529,17115351,14,,,False,,,,,,,,,,,,,
+530,17115351,15,,,False,,,,,,,,,,,,,
+531,20920045,0,,,False,,,,,,,,,,,,,
+532,20920045,1,,,False,,,,,,,,,,,,,
+533,20920045,2,insulin glargine human,glargine,False,1,17.449792861938477,12,1,[],,,,,CHEMICAL,,,0.0
+534,20920045,3,,,False,,,,,,,,,,,,,
+535,20920045,4,,,False,,,,,,,,,,,,,
+536,20920045,5,diabetes type 2,diabetes,False,1,0.08210093528032303,17,1,[],,,,,DISEASE,,,0.0
+537,20920045,6,insulin glargine human,glargine,False,1,11.152631759643555,22,1,[],,,,,CHEMICAL,,,0.0
+538,20920045,7,,,False,,,,,,,,,,,,,
+539,20920045,8,glargine insulin,glargine,False,1,4.873424530029297,10,1,[],,,,,CHEMICAL,,,0.0
+540,20920045,9,,,False,,,,,,,,,,,,,
+541,20920045,10,glargine insulin,glargine,False,1,0.42418330907821655,34,1,[],,,,,CHEMICAL,,,0.0
+542,20920045,11,,,False,,,,,,,,,,,,,
+543,20920045,12,glargine insulin,glargine,False,1,16.44715118408203,26,1,[],,,,,CHEMICAL,,,0.0
+544,20920045,13,gains weight,weight gain,,1,,24,1,,,,,,DISEASE,,,
+545,20920045,13,glargine insulin,glargine,False,2,15.0048828125,42,2,[],,,,,CHEMICAL,,,0.0
+546,20920045,14,glargine insulin,glargine,False,1,11.067288398742676,20,1,[],,,,,CHEMICAL,,,0.0
+547,20920045,15,glargine insulin,glargine,False,1,5.190539360046387,14,1,[],,,,,CHEMICAL,,,0.0
+548,20920045,16,glargine insulin,glargine,False,1,3.434225082397461,13,1,[],,,,,CHEMICAL,,,0.0
+549,20920045,18,,,False,,,,,,,,,,,,,
+550,22672081,0,,,False,,,,,,,,,,,,,
+551,22672081,1,,,False,,,,,,,,,,,,,
+552,22672081,3,glargine insulin,glargine,,1,,10,1,,,,,,CHEMICAL,,,
+553,22672081,3,insulina lispro,lispro,False,2,23.933380126953125,16,2,[],,,,,CHEMICAL,,,0.0
+554,22672081,4,,,False,,,,,,,,,,,,,
+555,22672081,5,,,False,,,,,,,,,,,,,
+556,22672081,9,glargine insulin,glargine,,1,,47,1,,,,,,CHEMICAL,,,
+557,22672081,9,lispro insulin,lispro,False,2,9.863210678100586,54,2,[],,,,,CHEMICAL,,,0.0
+558,22672081,10,diabetes type 2,diabetes,,1,,47,1,,,,,,DISEASE,,,
+559,22672081,10,glargine insulin,glargine,,2,,103,2,,,,,,CHEMICAL,,,
+560,22672081,10,lispro insulin,lispro,True,3,2.4466500282287598,116,3,[13],,,,,CHEMICAL,,,3.0
+561,22672081,11,glargine insulin,glargine,,1,,14,1,,,,,,CHEMICAL,,,
+562,22672081,11,lispro insulin,lispro,,2,,21,2,,,,,,CHEMICAL,,,
+563,22672081,11,glargine insulin,glargine,,3,,65,3,,,,,,CHEMICAL,,,
+564,22672081,11,lispro insulin,lispro,False,4,14.439336776733398,72,4,[],,,,,CHEMICAL,,,0.0
+565,22672081,12,,,False,,,,,,,,,,,,,
+566,22672081,13,,,False,,,,,,,,,,,,,
+567,22672081,14,,,False,,,,,,,,,,,,,
+568,22672081,15,glargine insulin,glargine,,1,,49,1,,,,,,CHEMICAL,,,
+569,22672081,15,lispro insulin,lispro,False,2,2.2716877460479736,56,2,[],,,,,CHEMICAL,,,0.0
+570,22672081,18,,,False,,,,,,,,,,,,,
+571,22742523,0,,,False,,,,,,,,,,,,,
+572,22742523,1,,,False,,,,,,,,,,,,,
+573,22742523,2,product containing sitagliptin,sitagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+574,22742523,2,metformine,metformin,,2,,13,2,,,,,,CHEMICAL,,,
+575,22742523,2,diabetes type 2,diabetes,True,3,18.850540161132812,41,3,[2],,,,,DISEASE,,,2.0
+576,22742523,3,,,False,,,,,,,,,,,,,
+577,22742523,4,,,False,,,,,,,,,,,,,
+578,22742523,5,diabetes type 2,diabetes,False,1,0.2460206001996994,19,1,[],,,,,DISEASE,,,0.0
+579,22742523,6,product containing sitagliptin,sitagliptin,,1,,9,1,,,,,,CHEMICAL,,,
+580,22742523,6,metformine,metformin,False,2,11.086362838745117,21,2,[],,,,,CHEMICAL,,,0.0
+581,22742523,7,metformine,metformin,False,1,0.02412170171737671,63,1,[],,,,,CHEMICAL,,,0.0
+582,22742523,8,product containing sitagliptin,sitagliptin,False,1,3.925436496734619,11,1,[],,,,,CHEMICAL,,,0.0
+583,22742523,9,,,False,,,,,,,,,,,,,
+584,22742523,10,,,False,,,,,,,,,,,,,
+585,22742523,11,product containing sitagliptin,sitagliptin,False,1,25.380157470703125,15,1,[],,,,,CHEMICAL,,,0.0
+586,22742523,12,,,False,,,,,,,,,,,,,
+587,22742523,13,product containing sitagliptin,sitagliptin,False,1,18.54339599609375,4,1,[],,,,,CHEMICAL,,,0.0
+588,22742523,14,product containing sitagliptin,sitagliptin,False,1,7.316143035888672,30,1,[],,,,,CHEMICAL,,,0.0
+589,22742523,15,product containing sitagliptin,sitagliptin,,1,,12,1,,,,,,CHEMICAL,,,
+590,22742523,15,metformine,metformin,False,2,5.913228988647461,25,2,[],,,,,CHEMICAL,,,0.0
+591,22742523,16,,,False,,,,,,,,,,,,,
+592,23949898,0,,,False,,,,,,,,,,,,,
+593,23949898,1,,,False,,,,,,,,,,,,,
+594,23949898,2,saxagliptin product,saxagliptin,,1,,0,1,,,,,,CHEMICAL,,,
+595,23949898,2,metformine,metformin,,2,,14,2,,,,,,CHEMICAL,,,
+596,23949898,2,t2dm - diabetes mellitus type 2,diabetes mellitus,True,3,14.262062072753906,20,3,[2],,,,,DISEASE,,,2.0
+597,23949898,3,,,False,,,,,,,,,,,,,
+598,23949898,4,t2dm - diabetes mellitus type 2,diabetes mellitus,False,1,9.802165985107422,19,1,[],,,,,DISEASE,,,0.0
+599,23949898,5,saxagliptin product,saxagliptin,,1,,27,1,,,,,,CHEMICAL,,,
+600,23949898,5,metformine,metformin,False,2,6.515933036804199,55,2,[],,,,,CHEMICAL,,,0.0
+601,23949898,6,saxagliptin product,saxagliptin,,1,,37,1,,,,,,CHEMICAL,,,
+602,23949898,6,metformine,metformin,False,2,4.360180854797363,62,2,[],,,,,CHEMICAL,,,0.0
+603,23949898,7,,,False,,,,,,,,,,,,,
+604,23949898,9,metformine,metformin,False,1,0.016743233427405357,46,1,[],,,,,CHEMICAL,,,0.0
+605,23949898,10,metformine,metformin,,1,,6,1,,,,,,CHEMICAL,,,
+606,23949898,10,saxagliptin product,saxagliptin,False,2,14.612881660461426,18,2,[],,,,,CHEMICAL,,,0.0
+607,23949898,11,,,False,,,,,,,,,,,,,
+608,23949898,12,,,False,,,,,,,,,,,,,
+609,23949898,13,,,False,,,,,,,,,,,,,
+610,23949898,14,saxagliptin product,saxagliptin,,1,,15,1,,,,,,CHEMICAL,,,
+611,23949898,14,metformine,metformin,False,2,11.006771087646484,75,2,[],,,,,CHEMICAL,,,0.0
+612,23949898,15,saxagliptin product,saxagliptin,False,1,5.332624912261963,10,1,[],,,,,CHEMICAL,,,0.0
+613,23949898,16,saxagliptin product,saxagliptin,False,1,2.1996912956237793,18,1,[],,,,,CHEMICAL,,,0.0
+614,23949898,17,saxagliptin product,saxagliptin,False,1,10.095895767211914,26,1,[],,,,,CHEMICAL,,,0.0
+615,23949898,18,saxagliptin product,saxagliptin,,1,,10,1,,,,,,CHEMICAL,,,
+616,23949898,18,infection of urinary tract,urinary tract infection,,2,,20,2,,,,,,DISEASE,,,
+617,23949898,18,upper respiratory infection,upper respiratory tract infection,,3,,34,3,,,,,,DISEASE,,,
+618,23949898,18,"headache , cephalalgia",headache,,4,,38,4,,,,,,DISEASE,,,
+619,23949898,18,pain extremity,pain,True,5,13.7462739944458,48,5,[17],,,,,DISEASE,,,1.0
+620,23949898,19,saxagliptin product,saxagliptin,False,1,7.945082664489746,2,1,[],,,,,CHEMICAL,,,0.0
+621,23949898,20,saxagliptin product,saxagliptin,False,1,2.6908411979675293,14,1,[],,,,,CHEMICAL,,,0.0
+622,23949898,21,saxagliptin product,saxagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+623,23949898,21,metformine,metformin,False,2,1.939687967300415,25,2,[],,,,,CHEMICAL,,,0.0
+624,23949898,22,,,False,,,,,,,,,,,,,
+625,28923291,0,,,False,,,,,,,,,,,,,
+626,28923291,1,,,False,,,,,,,,,,,,,
+627,28923291,3,,,False,,,,,,,,,,,,,
+628,28923291,4,,,False,,,,,,,,,,,,,
+629,28923291,5,,,False,,,,,,,,,,,,,
+630,28923291,8,,,False,,,,,,,,,,,,,
+631,28923291,9,,,False,,,,,,,,,,,,,
+632,28923291,10,t2dm - diabetes mellitus type 2,diabetes mellitus,False,1,6.594176292419434,29,1,[],,,,,DISEASE,,,3.0
+633,28923291,12,,,False,,,,,,,,,,,,,
+634,28923291,13,,,False,,,,,,,,,,,,,
+635,28923291,14,metformine,metformin,False,1,0.012481563724577427,17,1,[],,,,,CHEMICAL,,,0.0
+636,28923291,15,diabetes mellitus,diabetes,False,1,12.576406478881836,36,1,[],,,,,DISEASE,,,0.0
+637,28923291,16,,,False,,,,,,,,,,,,,
+638,28923291,17,,,False,,,,,,,,,,,,,
+639,28923291,18,,,False,,,,,,,,,,,,,
+640,28923291,20,metformine,metformin,False,1,0.01369314081966877,36,1,[],,,,,CHEMICAL,,,0.0
+641,28923291,21,metformine,metformin,False,1,0.05039818957448006,0,1,[],,,,,CHEMICAL,,,0.0
+642,28923291,22,metformine,metformin,False,1,0.03218776360154152,6,1,[],,,,,CHEMICAL,,,0.0
+643,28923291,23,glucose blood,glucose,False,1,0.06152033805847168,18,1,[],,,,,CHEMICAL,,,0.0
+644,28923291,24,,,False,,,,,,,,,,,,,
+645,28923291,28,,,False,,,,,,,,,,,,,
+646,29862619,0,,,False,,,,,,,,,,,,,
+647,29862619,1,,,False,,,,,,,,,,,,,
+648,29862619,3,product containing sitagliptin,sitagliptin,,1,,17,1,,,,,,CHEMICAL,,,
+649,29862619,3,metformine,metformin,,2,,24,2,,,,,,CHEMICAL,,,
+650,29862619,3,t2dm - diabetes mellitus type 2,diabetes mellitus,True,3,10.854846954345703,36,3,[4],,,,,DISEASE,,,4.0
+651,29862619,4,,,False,,,,,,,,,,,,,
+652,29862619,5,,,False,,,,,,,,,,,,,
+653,29862619,6,,,False,,,,,,,,,,,,,
+654,29862619,7,,,False,,,,,,,,,,,,,
+655,29862619,8,,,False,,,,,,,,,,,,,
+656,29862619,9,,,False,,,,,,,,,,,,,
+657,29862619,10,,,False,,,,,,,,,,,,,
+658,29862619,11,,,False,,,,,,,,,,,,,
+659,29862619,12,,,False,,,,,,,,,,,,,
+660,29862619,13,,,False,,,,,,,,,,,,,
+661,29862619,14,,,False,,,,,,,,,,,,,
+662,29862619,15,,,False,,,,,,,,,,,,,
+663,29862619,16,,,False,,,,,,,,,,,,,
+664,29862619,17,,,False,,,,,,,,,,,,,
+665,29862619,18,,,False,,,,,,,,,,,,,
+666,29862619,19,,,False,,,,,,,,,,,,,
+667,29862619,20,metformine,metformin,,1,,24,1,,,,,,CHEMICAL,,,
+668,29862619,20,product containing sitagliptin,sitagliptin,,2,,28,2,,,,,,CHEMICAL,,,
+669,29862619,20,t2dm - diabetes mellitus type 2,diabetes mellitus,False,3,12.083908081054688,40,3,[],,,,,DISEASE,,,0.0
+670,29862619,21,,,False,,,,,,,,,,,,,
+671,29862619,22,metformine,metformin,,1,,28,1,,,,,,CHEMICAL,,,
+672,29862619,22,product containing sitagliptin,sitagliptin,False,2,5.151336669921875,32,2,[],,,,,CHEMICAL,,,0.0
+673,29862619,23,,,False,,,,,,,,,,,,,
+674,29862619,24,,,False,,,,,,,,,,,,,
+675,29862619,25,,,False,,,,,,,,,,,,,
+676,29862619,33,,,False,,,,,,,,,,,,,
+677,29862619,26,,,False,,,,,,,,,,,,,
+678,29862619,27,,,False,,,,,,,,,,,,,
+679,29862619,28,,,False,,,,,,,,,,,,,
+680,29862619,29,,,False,,,,,,,,,,,,,
+681,29862619,31,metformine,metformin,,1,,13,1,,,,,,CHEMICAL,,,
+682,29862619,31,product containing sitagliptin,sitagliptin,False,2,3.1576740741729736,17,2,[],,,,,CHEMICAL,,,0.0
+683,17404349,0,,,False,,,,,,,,,,,,,
+684,17404349,1,,,False,,,,,,,,,,,,,
+685,17404349,2,exenatide synthetic,exenatide,,1,,4,1,,,,,,CHEMICAL,,,
+686,17404349,2,thiazolidinedione product,thiazolidinedione,,2,,11,2,,,,,,CHEMICAL,,,
+687,17404349,2,diabetes type 2,diabetes,False,3,13.063228607177734,28,3,[],,,,,DISEASE,,,0.0
+688,17404349,3,,,False,,,,,,,,,,,,,
+689,17404349,4,,,False,,,,,,,,,,,,,
+690,17404349,11,exenatide synthetic,exenatide,,1,,2,1,,,,,,CHEMICAL,,,
+691,17404349,11,metformine,metformin,,2,,13,2,,,,,,CHEMICAL,,,
+692,17404349,11,sulfonylurea,sulfonylureas,,3,,17,3,,,,,,CHEMICAL,,,
+693,17404349,11,diabetes type 2,diabetes,False,4,0.6163797974586487,26,4,[],,,,,DISEASE,,,0.0
+694,17404349,12,glitazones,thiazolidinediones,,1,,0,1,,,,,,CHEMICAL,,,
+695,17404349,12,exenatide synthetic,exenatide,True,2,9.002890586853027,18,2,[18],,,,,CHEMICAL,,,2.0
+696,17404349,13,exenatide synthetic,exenatide,False,1,6.479662895202637,7,1,[],,,,,CHEMICAL,,,0.0
+697,17404349,14,,,False,,,,,,,,,,,,,
+698,17404349,15,,,False,,,,,,,,,,,,,
+699,17404349,16,exenatide synthetic,exenatide,,1,,4,1,,,,,,CHEMICAL,,,
+700,17404349,16,metformine,metformin,False,2,3.91545033454895,44,2,[],,,,,CHEMICAL,,,0.0
+701,17404349,17,,,False,,,,,,,,,,,,,
+702,17404349,18,exenatide synthetic,exenatide,,1,,13,1,,,,,,CHEMICAL,,,
+703,17404349,18,metformine,metformin,True,2,1.1849181652069092,33,2,[23],,,,,CHEMICAL,,,1.0
+704,17404349,19,,,False,,,,,,,,,,,,,
+705,17404349,20,,,False,,,,,,,,,,,,,
+706,17404349,21,exenatide synthetic,exenatide,False,1,12.593731880187988,2,1,[],,,,,CHEMICAL,,,0.0
+707,17404349,22,exenatide synthetic,exenatide,False,1,7.738293647766113,6,1,[],,,,,CHEMICAL,,,0.0
+708,17404349,23,exenatide synthetic,exenatide,,1,,2,1,,,,,,CHEMICAL,,,
+709,17404349,23,nauseas,nausea,,2,,19,2,,,,,,DISEASE,,,
+710,17404349,23,symptoms vomiting,vomiting,True,3,7.898111820220947,41,3,[30],,,,,DISEASE,,,1.0
+711,17404349,24,nauseas,nausea,,1,,11,1,,,,,,DISEASE,,,
+712,17404349,24,symptoms vomiting,vomiting,False,2,4.212314605712891,17,2,[],,,,,DISEASE,,,0.0
+713,17404349,25,sulfonylurea,sulfonylureas,False,1,2.8695554733276367,8,1,[],,,,,CHEMICAL,,,0.0
+714,17404349,27,exenatide synthetic,exenatide,False,1,2.4253625869750977,10,1,[],,,,,CHEMICAL,,,0.0
+715,17404349,28,exenatide synthetic,exenatide,,1,,2,1,,,,,,CHEMICAL,,,
+716,17404349,28,symptoms gastrointestinal,gastrointestinal symptoms,,2,,21,2,,,,,,DISEASE,,,
+717,17404349,28,diabetes type 2,diabetes,False,3,1.9507460594177246,35,3,[],,,,,DISEASE,,,1.0
+718,17404349,30,exenatide synthetic,exenatide,False,1,0.4907605051994324,4,1,[],,,,,CHEMICAL,,,0.0
+719,17404349,31,,,False,,,,,,,,,,,,,
+720,12734781,0,,,False,,,,,,,,,,,,,
+721,12734781,1,,,False,,,,,,,,,,,,,
+722,12734781,2,insulin glargine human,glargine,,1,,14,1,,,,,,CHEMICAL,,,
+723,12734781,2,diabetes type 2,diabetes,False,2,20.685779571533203,33,2,[],,,,,DISEASE,,,0.0
+724,12734781,3,,,False,,,,,,,,,,,,,
+725,12734781,4,insulin glargine human,glargine,,1,,33,1,,,,,,CHEMICAL,,,
+726,12734781,4,diabetes type 2,diabetes,True,2,16.84493637084961,71,2,[4],,,,,DISEASE,,,2.0
+727,12734781,5,diabetes type 2,diabetes,,1,,19,1,,,,,,DISEASE,,,
+728,12734781,5,insulin glargine human,glargine,True,2,11.913361549377441,34,2,[5],,,,,CHEMICAL,,,1.0
+729,12734781,6,,,False,,,,,,,,,,,,,
+730,12734781,7,insulin glargine human,glargine,,1,,36,1,,,,,,CHEMICAL,,,
+731,12734781,7,insulin glargine human,glargine,False,2,48.102813720703125,91,2,[],,,,,CHEMICAL,,,0.0
+732,12734781,8,insulin glargine human,glargine,False,1,1.9378294944763184,18,1,[],,,,,CHEMICAL,,,0.0
+733,12734781,9,insulin glargine human,glargine,False,1,14.073097229003906,37,1,[],,,,,CHEMICAL,,,0.0
+734,12734781,10,,,False,,,,,,,,,,,,,
+735,12734781,12,diabetes type 2,diabetes,False,1,0.2313603013753891,31,1,[],,,,,DISEASE,,,0.0
+736,12734781,13,,,False,,,,,,,,,,,,,
+737,28547998,0,,,False,,,,,,,,,,,,,
+738,28547998,1,,,False,,,,,,,,,,,,,
+739,28547998,3,metformine,metformin,False,1,0.014586199074983597,40,1,[],,,,,CHEMICAL,,,0.0
+740,28547998,4,,,False,,,,,,,,,,,,,
+741,28547998,5,,,False,,,,,,,,,,,,,
+742,28547998,6,,,False,,,,,,,,,,,,,
+743,28547998,7,,,False,,,,,,,,,,,,,
+744,28547998,8,metformine,metformin,False,1,0.022804487496614456,36,1,[],,,,,CHEMICAL,,,0.0
+745,28547998,9,metformine,metformin,False,1,0.009118654765188694,22,1,[],,,,,CHEMICAL,,,0.0
+746,28547998,10,,,False,,,,,,,,,,,,,
+747,28547998,11,,,False,,,,,,,,,,,,,
+748,28547998,12,,,False,,,,,,,,,,,,,
+749,28547998,13,,,False,,,,,,,,,,,,,
+750,28547998,14,,,False,,,,,,,,,,,,,
+751,28547998,15,,,False,,,,,,,,,,,,,
+752,28547998,16,metformine,metformin,False,1,0.011536855250597,1,1,[],,,,,CHEMICAL,,,0.0
+753,28547998,17,,,False,,,,,,,,,,,,,
+754,23039321,0,,,False,,,,,,,,,,,,,
+755,23039321,1,,,False,,,,,,,,,,,,,
+756,23039321,3,vildagliptin product,vildagliptin,,1,,8,1,,,,,,CHEMICAL,,,
+757,23039321,3,metformine,metformin,,2,,21,2,,,,,,CHEMICAL,,,
+758,23039321,3,t2dm - diabetes mellitus type 2,diabetes mellitus,True,3,28.349504470825195,30,3,[4],,,,,DISEASE,,,3.0
+759,23039321,4,,,False,,,,,,,,,,,,,
+760,23039321,5,vildagliptin product,vildagliptin,,1,,26,1,,,,,,CHEMICAL,,,
+761,23039321,5,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,22.146053314208984,45,2,[],,,,,DISEASE,,,0.0
+762,23039321,6,metformine,metformin,False,1,0.015170096419751644,39,1,[],,,,,CHEMICAL,,,0.0
+763,23039321,7,vildagliptin product,vildagliptin,False,1,11.58673095703125,4,1,[],,,,,CHEMICAL,,,0.0
+764,23039321,8,vildagliptin product,vildagliptin,False,1,9.855169296264648,12,1,[],,,,,CHEMICAL,,,0.0
+765,23039321,9,vildagliptin product,vildagliptin,,1,,25,1,,,,,,CHEMICAL,,,
+766,23039321,9,metformine,metformin,,2,,78,2,,,,,,CHEMICAL,,,
+767,23039321,9,metformine,metformin,False,3,7.516643524169922,102,3,[],,,,,CHEMICAL,,,0.0
+768,23039321,10,vildagliptin product,vildagliptin,,1,,0,1,,,,,,CHEMICAL,,,
+769,23039321,10,gains weight,weight gain,False,2,19.542301177978516,60,2,[],,,,,DISEASE,,,0.0
+770,23039321,11,,,False,,,,,,,,,,,,,
+771,23039321,12,vildagliptin product,vildagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+772,23039321,12,metformine,metformin,False,2,9.76063346862793,35,2,[],,,,,CHEMICAL,,,0.0
+773,23039321,13,vildagliptin product,vildagliptin,False,1,8.611621856689453,0,1,[],,,,,CHEMICAL,,,0.0
+774,23039321,14,,,False,,,,,,,,,,,,,
+775,23039321,15,,,False,,,,,,,,,,,,,
+776,17157112,0,,,False,,,,,,,,,,,,,
+777,17157112,1,,,False,,,,,,,,,,,,,
+778,17157112,2,product containing sitagliptin,sitagliptin,,1,,16,1,,,,,,CHEMICAL,,,
+779,17157112,2,pioglitazone product,pioglitazone,,2,,25,2,,,,,,CHEMICAL,,,
+780,17157112,2,diabetes type 2,diabetes,False,3,13.363210678100586,36,3,[],,,,,DISEASE,,,0.0
+781,17157112,3,,,False,,,,,,,,,,,,,
+782,17157112,4,,,False,,,,,,,,,,,,,
+783,17157112,5,product containing sitagliptin,sitagliptin,,1,,21,1,,,,,,CHEMICAL,,,
+784,17157112,5,pioglitazone product,pioglitazone,,2,,30,2,,,,,,CHEMICAL,,,
+785,17157112,5,pioglitazone product,pioglitazone,True,3,8.904518127441406,87,3,[5],,,,,CHEMICAL,,,2.0
+786,17157112,6,,,False,,,,,,,,,,,,,
+787,17157112,9,pioglitazone product,pioglitazone,,1,,11,1,,,,,,CHEMICAL,,,
+788,17157112,9,pioglitazone product,pioglitazone,False,2,3.5132603645324707,35,2,[],,,,,CHEMICAL,,,0.0
+789,17157112,10,,,False,,,,,,,,,,,,,
+790,17157112,11,pioglitazone product,pioglitazone,False,1,10.298299789428711,5,1,[],,,,,CHEMICAL,,,0.0
+791,17157112,12,pioglitazone product,pioglitazone,False,1,9.383811950683594,14,1,[],,,,,CHEMICAL,,,0.0
+792,17157112,13,product containing sitagliptin,sitagliptin,False,1,10.74068832397461,12,1,[],,,,,CHEMICAL,,,0.0
+793,17157112,14,,,False,,,,,,,,,,,,,
+794,17157112,15,metformine,metformin,False,1,0.008699856698513031,98,1,[],,,,,CHEMICAL,,,0.0
+795,17157112,16,product containing sitagliptin,sitagliptin,False,1,5.942201614379883,13,1,[],,,,,CHEMICAL,,,0.0
+796,17157112,17,product containing sitagliptin,sitagliptin,False,1,3.9080071449279785,22,1,[],,,,,CHEMICAL,,,0.0
+797,17157112,18,product containing sitagliptin,sitagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+798,17157112,18,pioglitazone product,pioglitazone,True,2,2.694490432739258,12,2,[23],,,,,CHEMICAL,,,1.0
+799,17157112,19,,,False,,,,,,,,,,,,,
+800,17157112,20,,,False,,,,,,,,,,,,,
+801,17157112,21,product containing sitagliptin,sitagliptin,False,1,7.1681318283081055,21,1,[],,,,,CHEMICAL,,,0.0
+802,17157112,22,product containing sitagliptin,sitagliptin,True,1,5.4385528564453125,0,1,[22],,,,,CHEMICAL,,,1.0
+803,17157112,23,,,False,,,,,,,,,,,,,
+804,28483786,0,,,False,,,,,,,,,,,,,
+805,28483786,1,,,False,,,,,,,,,,,,,
+806,28483786,3,aspart insulin,aspart,False,1,0.08151999115943909,6,1,[],,,,,CHEMICAL,,,0.0
+807,28483786,4,,,False,,,,,,,,,,,,,
+808,28483786,5,,,False,,,,,,,,,,,,,
+809,28483786,6,,,False,,,,,,,,,,,,,
+810,28483786,7,,,False,,,,,,,,,,,,,
+811,28483786,8,,,False,,,,,,,,,,,,,
+812,28483786,9,,,False,,,,,,,,,,,,,
+813,28483786,10,,,False,,,,,,,,,,,,,
+814,28483786,15,aspart insulin,aspart,False,1,0.08180929720401764,41,1,[],,,,,CHEMICAL,,,0.0
+815,28483786,16,,,False,,,,,,,,,,,,,
+816,28483786,17,insulin glargine human,glargine,,1,,59,1,,,,,,CHEMICAL,,,
+817,28483786,17,metformine,metformin,False,2,14.920494079589844,67,2,[],,,,,CHEMICAL,,,0.0
+818,28483786,18,,,False,,,,,,,,,,,,,
+819,28483786,19,,,False,,,,,,,,,,,,,
+820,28483786,20,glucose blood,glucose,True,1,0.1544402688741684,121,1,[None],,,,,CHEMICAL,,,2.0
+821,28483786,21,,,False,,,,,,,,,,,,,
+822,28483786,24,,,False,,,,,,,,,,,,,
+823,28483786,26,,,False,,,,,,,,,,,,,
+824,28483786,22,,,False,,,,,,,,,,,,,
+825,28483786,23,,,False,,,,,,,,,,,,,
+826,16505498,0,,,False,,,,,,,,,,,,,
+827,16505498,1,,,False,,,,,,,,,,,,,
+828,16505498,2,sulphonylurea,sulfonylurea,False,1,0.06394705176353455,10,1,[],,,,,CHEMICAL,,,0.0
+829,16505498,3,,,False,,,,,,,,,,,,,
+830,16505498,4,diabetes mellitus,diabetes,,1,,46,1,,,,,,DISEASE,,,
+831,16505498,4,sulphonylurea,sulfonylurea,,2,,55,2,,,,,,CHEMICAL,,,
+832,16505498,4,metformine,metformin,True,3,13.368319511413574,71,3,[4],,,,,CHEMICAL,,,1.0
+833,16505498,5,sulphonylurea,sulfonylurea,,1,,34,1,,,,,,CHEMICAL,,,
+834,16505498,5,metformine,metformin,False,2,0.08923705667257309,51,2,[],,,,,CHEMICAL,,,0.0
+835,16505498,6,,,False,,,,,,,,,,,,,
+836,16505498,7,,,False,,,,,,,,,,,,,
+837,16505498,8,,,False,,,,,,,,,,,,,
+838,16505498,9,,,False,,,,,,,,,,,,,
+839,16505498,10,,,False,,,,,,,,,,,,,
+840,16505498,11,,,False,,,,,,,,,,,,,
+841,16505498,13,,,False,,,,,,,,,,,,,
+842,16505498,14,sulphonylurea,sulfonylurea,,1,,45,1,,,,,,CHEMICAL,,,
+843,16505498,14,metformine,metformin,False,2,0.08525323867797852,54,2,[],,,,,CHEMICAL,,,0.0
+844,16505498,15,,,False,,,,,,,,,,,,,
+845,19565569,0,,,False,,,,,,,,,,,,,
+846,19565569,1,,,False,,,,,,,,,,,,,
+847,19565569,2,insulin glargine human,glargine,,1,,8,1,,,,,,CHEMICAL,,,
+848,19565569,2,diabetes type 2,diabetes,False,2,10.818611145019531,34,2,[],,,,,DISEASE,,,0.0
+849,19565569,3,,,False,,,,,,,,,,,,,
+850,19565569,4,insulina detemir,detemir,,1,,29,1,,,,,,CHEMICAL,,,
+851,19565569,4,insulin glargine human,glargine,,2,,39,2,,,,,,CHEMICAL,,,
+852,19565569,4,aspart insulin,aspart,,3,,57,3,,,,,,CHEMICAL,,,
+853,19565569,4,diabetes type 2,diabetes,True,4,8.165925025939941,66,4,[4],,,,,DISEASE,,,4.0
+854,19565569,5,,,False,,,,,,,,,,,,,
+855,19565569,6,,,False,,,,,,,,,,,,,
+856,19565569,7,,,False,,,,,,,,,,,,,
+857,19565569,8,,,False,,,,,,,,,,,,,
+858,19565569,9,,,False,,,,,,,,,,,,,
+859,19565569,10,,,False,,,,,,,,,,,,,
+860,19565569,11,,,False,,,,,,,,,,,,,
+861,19565569,12,,,False,,,,,,,,,,,,,
+862,19565569,13,gains weight,weight gain,False,1,5.645353317260742,4,1,[],,,,,DISEASE,,,0.0
+863,19565569,14,,,False,,,,,,,,,,,,,
+864,19565569,15,,,False,,,,,,,,,,,,,
+865,19565569,16,diabetes type 2,diabetes,False,1,0.04214049503207207,31,1,[],,,,,DISEASE,,,0.0
+866,19565569,17,gains weight,weight gain,False,1,0.6348516345024109,21,1,[],,,,,DISEASE,,,0.0
+867,19565569,18,,,False,,,,,,,,,,,,,
+868,20092585,0,,,False,,,,,,,,,,,,,
+869,20092585,1,,,False,,,,,,,,,,,,,
+870,20092585,2,product containing sitagliptin,sitagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+871,20092585,2,diabetes type 2,diabetes,False,2,13.639442443847656,20,2,[],,,,,DISEASE,,,0.0
+872,20092585,3,,,False,,,,,,,,,,,,,
+873,20092585,4,product containing sitagliptin,sitagliptin,,1,,11,1,,,,,,CHEMICAL,,,
+874,20092585,4,metformine,metformin,,2,,27,2,,,,,,CHEMICAL,,,
+875,20092585,4,diabetes type 2,diabetes,True,3,7.68646240234375,35,3,[4],,,,,DISEASE,,,2.0
+876,20092585,5,product containing sitagliptin,sitagliptin,False,1,4.5470404624938965,64,1,[],,,,,CHEMICAL,,,0.0
+877,20092585,6,metformine,metformin,False,1,0.03969419375061989,12,1,[],,,,,CHEMICAL,,,0.0
+878,20092585,7,,,False,,,,,,,,,,,,,
+879,20092585,8,metformine,metformin,False,1,0.03892724961042404,1,1,[],,,,,CHEMICAL,,,0.0
+880,20092585,9,,,False,,,,,,,,,,,,,
+881,20092585,10,product containing sitagliptin,sitagliptin,False,1,31.356735229492188,9,1,[],,,,,CHEMICAL,,,0.0
+882,20092585,11,product containing sitagliptin,sitagliptin,False,1,26.567733764648438,7,1,[],,,,,CHEMICAL,,,0.0
+883,20092585,12,product containing sitagliptin,sitagliptin,False,1,24.011085510253906,19,1,[],,,,,CHEMICAL,,,0.0
+884,20092585,13,metformine,metformin,False,1,0.019221000373363495,36,1,[],,,,,CHEMICAL,,,0.0
+885,20092585,14,product containing sitagliptin,sitagliptin,False,1,20.62468147277832,3,1,[],,,,,CHEMICAL,,,0.0
+886,20092585,15,product containing sitagliptin,sitagliptin,,1,,9,1,,,,,,CHEMICAL,,,
+887,20092585,15,product containing sitagliptin,sitagliptin,False,2,17.67877960205078,42,2,[],,,,,CHEMICAL,,,0.0
+888,20092585,16,product containing sitagliptin,sitagliptin,False,1,14.711568832397461,22,1,[],,,,,CHEMICAL,,,0.0
+889,20092585,17,,,False,,,,,,,,,,,,,
+890,20092585,18,product containing sitagliptin,sitagliptin,,1,,12,1,,,,,,CHEMICAL,,,
+891,20092585,18,metformine,metformin,,2,,33,2,,,,,,CHEMICAL,,,
+892,20092585,18,diabetes type 2,diabetes,False,3,6.105224132537842,53,3,[],,,,,DISEASE,,,0.0
+893,20092585,19,,,False,,,,,,,,,,,,,
+894,24205943,0,,,False,,,,,,,,,,,,,
+895,24205943,1,,,False,,,,,,,,,,,,,
+896,24205943,3,saxagliptin product,saxagliptin,,1,,11,1,,,,,,CHEMICAL,,,
+897,24205943,3,metformine,metformin,,2,,36,2,,,,,,CHEMICAL,,,
+898,24205943,3,sulfonylurea,sulphonylurea,True,3,59.01884078979492,41,3,[4],,,,,CHEMICAL,,,1.0
+899,24205943,4,,,False,,,,,,,,,,,,,
+900,24205943,5,,,False,,,,,,,,,,,,,
+901,24205943,6,saxagliptin product,saxagliptin,,1,,9,1,,,,,,CHEMICAL,,,
+902,24205943,6,metformine,metformin,,2,,34,2,,,,,,CHEMICAL,,,
+903,24205943,6,sulfonylurea,sulphonylurea,True,3,53.56903076171875,39,3,[7],,,,,CHEMICAL,,,1.0
+904,24205943,7,diabetes type 2,diabetes,,1,,34,1,,,,,,DISEASE,,,
+905,24205943,7,saxagliptin product,saxagliptin,,2,,57,2,,,,,,CHEMICAL,,,
+906,24205943,7,metformine,metformin,,3,,82,3,,,,,,CHEMICAL,,,
+907,24205943,7,sulfonylurea,sulphonylurea,True,4,49.44921875,87,4,[8],,,,,CHEMICAL,,,1.0
+908,24205943,8,,,False,,,,,,,,,,,,,
+909,24205943,9,,,False,,,,,,,,,,,,,
+910,24205943,10,saxagliptin product,saxagliptin,,1,,19,1,,,,,,CHEMICAL,,,
+911,24205943,10,saxagliptin product,saxagliptin,False,2,47.256500244140625,45,2,[],,,,,CHEMICAL,,,0.0
+912,24205943,11,saxagliptin product,saxagliptin,False,1,17.67314338684082,8,1,[],,,,,CHEMICAL,,,0.0
+913,24205943,12,saxagliptin product,saxagliptin,False,1,14.018075942993164,14,1,[],,,,,CHEMICAL,,,0.0
+914,24205943,13,saxagliptin product,saxagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+915,24205943,13,glucose level,glucose,False,2,14.510668754577637,46,2,[],,,,,CHEMICAL,,,0.0
+916,24205943,14,saxagliptin product,saxagliptin,False,1,6.819996356964111,11,1,[],,,,,CHEMICAL,,,0.0
+917,24205943,15,saxagliptin product,saxagliptin,,1,,4,1,,,,,,CHEMICAL,,,
+918,24205943,15,metformine,metformin,,2,,19,2,,,,,,CHEMICAL,,,
+919,24205943,15,sulfonylurea,sulphonylurea,True,3,4.256190776824951,23,3,[15],,,,,CHEMICAL,,,1.0
+920,24205943,16,,,False,,,,,,,,,,,,,
+921,17593236,0,,,False,,,,,,,,,,,,,
+922,17593236,1,,,False,,,,,,,,,,,,,
+923,17593236,2,,,False,,,,,,,,,,,,,
+924,17593236,3,product containing sitagliptin,sitagliptin,,1,,17,1,,,,,,CHEMICAL,,,
+925,17593236,3,product containing glimepiride,glimepiride,,2,,37,2,,,,,,CHEMICAL,,,
+926,17593236,3,product containing glimepiride,glimepiride,,3,,47,3,,,,,,CHEMICAL,,,
+927,17593236,3,metformine,metformin,True,4,16.34065055847168,55,4,[3],,,,,CHEMICAL,,,1.0
+928,17593236,4,product containing sitagliptin,sitagliptin,False,1,9.547677040100098,29,1,[],,,,,CHEMICAL,,,0.0
+929,17593236,5,,,False,,,,,,,,,,,,,
+930,17593236,6,product containing sitagliptin,sitagliptin,,1,,15,1,,,,,,CHEMICAL,,,
+931,17593236,6,product containing glimepiride,glimepiride,,2,,99,2,,,,,,CHEMICAL,,,
+932,17593236,6,metformine,metformin,False,3,7.895256996154785,111,3,[],,,,,CHEMICAL,,,0.0
+933,17593236,7,product containing glimepiride,glimepiride,,1,,20,1,,,,,,CHEMICAL,,,
+934,17593236,7,product containing sitagliptin,sitagliptin,False,2,4.26515007019043,73,2,[],,,,,CHEMICAL,,,0.0
+935,17593236,8,product containing glimepiride,glimepiride,,1,,7,1,,,,,,CHEMICAL,,,
+936,17593236,8,product containing glimepiride,glimepiride,,2,,29,2,,,,,,CHEMICAL,,,
+937,17593236,8,metformine,metformin,False,3,17.696941375732422,46,3,[],,,,,CHEMICAL,,,0.0
+938,17593236,9,pioglitazone product,pioglitazone,True,1,9.903520584106445,27,1,[8],,,,,CHEMICAL,,,1.0
+939,17593236,10,,,False,,,,,,,,,,,,,
+940,17593236,11,,,False,,,,,,,,,,,,,
+941,17593236,12,product containing sitagliptin,sitagliptin,False,1,9.124385833740234,17,1,[],,,,,CHEMICAL,,,0.0
+942,17593236,13,product containing sitagliptin,sitagliptin,False,1,8.575868606567383,4,1,[],,,,,CHEMICAL,,,0.0
+943,17593236,14,product containing glimepiride,glimepiride,,1,,6,1,,,,,,CHEMICAL,,,
+944,17593236,14,metformine,metformin,,2,,14,2,,,,,,CHEMICAL,,,
+945,17593236,14,product containing sitagliptin,sitagliptin,,3,,18,3,,,,,,CHEMICAL,,,
+946,17593236,14,product containing glimepiride,glimepiride,False,4,8.483219146728516,56,4,[],,,,,CHEMICAL,,,0.0
+947,17593236,15,product containing sitagliptin,sitagliptin,False,1,5.716336250305176,3,1,[],,,,,CHEMICAL,,,0.0
+948,17593236,16,product containing sitagliptin,sitagliptin,False,1,2.4312264919281006,14,1,[],,,,,CHEMICAL,,,0.0
+949,17593236,17,product containing sitagliptin,sitagliptin,,1,,3,1,,,,,,CHEMICAL,,,
+950,17593236,17,product containing sitagliptin,sitagliptin,False,2,11.73769760131836,48,2,[],,,,,CHEMICAL,,,0.0
+951,17593236,18,product containing sitagliptin,sitagliptin,False,1,7.838155746459961,28,1,[],,,,,CHEMICAL,,,0.0
+952,17593236,19,product containing sitagliptin,sitagliptin,False,1,7.118350505828857,6,1,[],,,,,CHEMICAL,,,0.0
+953,17593236,20,product containing sitagliptin,sitagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+954,17593236,20,diabetes type 2,diabetes,,2,,30,2,,,,,,DISEASE,,,
+955,17593236,20,product containing glimepiride,glimepiride,,3,,41,3,,,,,,CHEMICAL,,,
+956,17593236,20,product containing glimepiride,glimepiride,,4,,49,4,,,,,,CHEMICAL,,,
+957,17593236,20,metformine,metformin,True,5,5.755434036254883,57,5,[18],,,,,CHEMICAL,,,2.0
+958,17593236,21,product containing sitagliptin,sitagliptin,,1,,3,1,,,,,,CHEMICAL,,,
+959,17593236,21,product containing glimepiride,glimepiride,False,2,3.5009613037109375,31,2,[],,,,,CHEMICAL,,,0.0
+960,17593236,22,,,False,,,,,,,,,,,,,
+961,24639432,0,,,False,,,,,,,,,,,,,
+962,24639432,1,,,False,,,,,,,,,,,,,
+963,24639432,2,lixisenatide product,lixisenatide,,1,,0,1,,,,,,CHEMICAL,,,
+964,24639432,2,t2dm - diabetes mellitus type 2,diabetes mellitus,,2,,20,2,,,,,,DISEASE,,,
+965,24639432,2,metformine,metformin,,3,,32,3,,,,,,CHEMICAL,,,
+966,24639432,2,sulphonylurea,sulfonylurea,True,4,29.035079956054688,38,4,[2],,,,,CHEMICAL,,,3.0
+967,24639432,3,,,False,,,,,,,,,,,,,
+968,24639432,4,lixisenatide product,lixisenatide,True,1,11.308238983154297,27,1,[4],,,,,CHEMICAL,,,1.0
+969,24639432,5,lixisenatide product,lixisenatide,True,1,8.872268676757812,25,1,[5],,,,,CHEMICAL,,,2.0
+970,24639432,6,,,False,,,,,,,,,,,,,
+971,24639432,7,,,False,,,,,,,,,,,,,
+972,24639432,8,lixisenatide product,lixisenatide,False,1,6.490882873535156,0,1,[],,,,,CHEMICAL,,,0.0
+973,24639432,9,lixisenatide product,lixisenatide,False,1,2.9842348098754883,5,1,[],,,,,CHEMICAL,,,0.0
+974,24639432,10,lixisenatide product,lixisenatide,False,1,19.444690704345703,0,1,[],,,,,CHEMICAL,,,0.0
+975,24639432,11,loss weight,weight loss,,1,,5,1,,,,,,DISEASE,,,
+976,24639432,11,lixisenatide product,lixisenatide,False,2,17.764976501464844,24,2,[],,,,,CHEMICAL,,,0.0
+977,24639432,12,lixisenatide product,lixisenatide,False,1,10.471632957458496,19,1,[],,,,,CHEMICAL,,,0.0
+978,24639432,13,lixisenatide product,lixisenatide,,1,,7,1,,,,,,CHEMICAL,,,
+979,24639432,13,nauseas,nausea,True,2,9.96096420288086,15,2,[12],,,,,DISEASE,,,2.0
+980,24639432,14,lixisenatide product,lixisenatide,False,1,5.9687371253967285,19,1,[],,,,,CHEMICAL,,,0.0
+981,24639432,15,t2dm - diabetes mellitus type 2,diabetes mellitus,,1,,8,1,,,,,,DISEASE,,,
+982,24639432,15,lixisenatide product,lixisenatide,False,2,6.007631301879883,30,2,[],,,,,CHEMICAL,,,0.0
+983,24639432,17,,,False,,,,,,,,,,,,,
+984,23082447,0,,,False,,,,,,,,,,,,,
+985,23082447,1,,,False,,,,,,,,,,,,,
+986,23082447,2,cabergoline product,cabergoline,False,1,22.128013610839844,0,1,[],,,,,CHEMICAL,,,0.0
+987,23082447,3,,,False,,,,,,,,,,,,,
+988,23082447,4,bromocriptin,bromocriptine,,1,,44,1,,,,,,CHEMICAL,,,
+989,23082447,4,diabetes type 2,diabetes,False,2,0.12778854370117188,57,2,[],,,,,DISEASE,,,0.0
+990,23082447,5,cabergoline product,cabergoline,,1,,14,1,,,,,,CHEMICAL,,,
+991,23082447,5,diabetics,diabetic,,2,,22,2,,,,,,DISEASE,,,
+992,23082447,5,diabetes type 2,diabetes,,3,,51,3,,,,,,DISEASE,,,
+993,23082447,5,sulphonylurea,sulfonylurea,,4,,66,4,,,,,,CHEMICAL,,,
+994,23082447,5,metformine,metformin,,5,,72,5,,,,,,CHEMICAL,,,
+995,23082447,5,pioglitazone product,pioglitazone,True,6,18.578725814819336,76,6,[5],,,,,CHEMICAL,,,1.0
+996,23082447,6,cabergoline product,cabergoline,False,1,11.924029350280762,12,1,[],,,,,CHEMICAL,,,0.0
+997,23082447,7,,,False,,,,,,,,,,,,,
+998,23082447,8,cabergoline product,cabergoline,False,1,6.513306617736816,29,1,[],,,,,CHEMICAL,,,0.0
+999,23082447,9,cabergoline product,cabergoline,False,1,1.452545166015625,32,1,[],,,,,CHEMICAL,,,0.0
+1000,23082447,10,cabergoline product,cabergoline,False,1,17.498760223388672,6,1,[],,,,,CHEMICAL,,,0.0
+1001,23082447,11,cabergoline product,cabergoline,False,1,11.326376914978027,2,1,[],,,,,CHEMICAL,,,0.0
+1002,23082447,12,,,False,,,,,,,,,,,,,
+1003,23082447,13,,,False,,,,,,,,,,,,,
+1004,28345792,0,,,False,,,,,,,,,,,,,
+1005,28345792,1,,,False,,,,,,,,,,,,,
+1006,28345792,3,diabetes type 2,diabetes,False,1,0.044467758387327194,24,1,[],,,,,DISEASE,,,0.0
+1007,28345792,4,,,False,,,,,,,,,,,,,
+1008,28345792,5,,,False,,,,,,,,,,,,,
+1009,28345792,6,,,False,,,,,,,,,,,,,
+1010,28345792,7,,,False,,,,,,,,,,,,,
+1011,28345792,8,,,False,,,,,,,,,,,,,
+1012,28345792,9,,,False,,,,,,,,,,,,,
+1013,28345792,10,,,False,,,,,,,,,,,,,
+1014,28345792,11,,,False,,,,,,,,,,,,,
+1015,28345792,12,diabetes type 2,diabetes,,1,,37,1,,,,,,DISEASE,,,
+1016,28345792,12,metformine,metformin,True,2,0.11595615744590759,148,2,[12],,,,,CHEMICAL,,,2.0
+1017,28345792,13,,,False,,,,,,,,,,,,,
+1018,28345792,14,,,False,,,,,,,,,,,,,
+1019,28345792,15,,,False,,,,,,,,,,,,,
+1020,28345792,16,,,False,,,,,,,,,,,,,
+1021,28345792,17,gains weight,weight gain,False,1,6.824892997741699,45,1,[],,,,,DISEASE,,,0.0
+1022,28345792,18,gains weight,weight gain,False,1,0.34691518545150757,48,1,[],,,,,DISEASE,,,0.0
+1023,28345792,20,,,False,,,,,,,,,,,,,
+1024,19307526,0,,,False,,,,,,,,,,,,,
+1025,19307526,1,,,False,,,,,,,,,,,,,
+1026,19307526,2,metformine,metformin,,1,,5,1,,,,,,CHEMICAL,,,
+1027,19307526,2,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,21.758468627929688,24,2,[],,,,,DISEASE,,,0.0
+1028,19307526,3,,,False,,,,,,,,,,,,,
+1029,19307526,4,,,False,,,,,,,,,,,,,
+1030,19307526,11,t2dm - diabetes mellitus type 2,diabetes mellitus,True,1,12.584753036499023,28,1,[None],,,,,DISEASE,,,2.0
+1031,19307526,12,,,False,,,,,,,,,,,,,
+1032,19307526,13,metformin hcl,metformin hydrochloride,True,1,5.361903667449951,1,1,[None],,,,,CHEMICAL,,,1.0
+1033,19307526,14,,,False,,,,,,,,,,,,,
+1034,19307526,15,,,False,,,,,,,,,,,,,
+1035,19307526,16,,,False,,,,,,,,,,,,,
+1036,19307526,17,metformine,metformin,,1,,2,1,,,,,,CHEMICAL,,,
+1037,19307526,17,gains weight,weight gain,,2,,7,2,,,,,,DISEASE,,,
+1038,19307526,17,gains weight,weight gain,True,3,0.26892536878585815,11,3,[22],,,,,DISEASE,,,3.0
+1039,19307526,18,metformine,metformin,False,1,0.021475952118635178,0,1,[],,,,,CHEMICAL,,,0.0
+1040,19307526,19,,,False,,,,,,,,,,,,,
+1041,19307526,20,,,False,,,,,,,,,,,,,
+1042,19307526,21,metformine,metformin,False,1,0.005704364273697138,2,1,[],,,,,CHEMICAL,,,0.0
+1043,19307526,22,metformine,metformin,False,1,0.025379911065101624,0,1,[],,,,,CHEMICAL,,,0.0
+1044,19307526,23,metformine,metformin,False,1,0.016896024346351624,9,1,[],,,,,CHEMICAL,,,0.0
+1045,19307526,25,,,False,,,,,,,,,,,,,
+1046,29017497,0,,,False,,,,,,,,,,,,,
+1047,29017497,1,,,False,,,,,,,,,,,,,
+1048,29017497,2,vildagliptin product,vildagliptin,,1,,3,1,,,,,,CHEMICAL,,,
+1049,29017497,2,metformine,metformin,False,2,8.386507034301758,11,2,[],,,,,CHEMICAL,,,0.0
+1050,29017497,3,,,False,,,,,,,,,,,,,
+1051,29017497,4,,,False,,,,,,,,,,,,,
+1052,29017497,5,,,False,,,,,,,,,,,,,
+1053,29017497,7,,,False,,,,,,,,,,,,,
+1054,29017497,8,,,False,,,,,,,,,,,,,
+1055,29017497,9,,,False,,,,,,,,,,,,,
+1056,29017497,10,,,False,,,,,,,,,,,,,
+1057,29017497,11,,,False,,,,,,,,,,,,,
+1058,29017497,12,,,False,,,,,,,,,,,,,
+1059,29017497,13,,,False,,,,,,,,,,,,,
+1060,29017497,14,diabetes type 2,diabetes,,1,,38,1,,,,,,DISEASE,,,
+1061,29017497,14,atherosclerotic cardiovascular disease,atherosclerosis,True,2,5.628019332885742,45,2,[14],,,,,DISEASE,,,2.0
+1062,29017497,15,metformine,metformin,False,1,0.006606901530176401,28,1,[],,,,,CHEMICAL,,,0.0
+1063,29017497,16,metformine,metformin,,1,,33,1,,,,,,CHEMICAL,,,
+1064,29017497,16,vildagliptin product,vildagliptin,,2,,51,2,,,,,,CHEMICAL,,,
+1065,29017497,16,metformine,metformin,False,3,1.6535731554031372,78,3,[],,,,,CHEMICAL,,,0.0
+1066,29017497,17,,,False,,,,,,,,,,,,,
+1067,29017497,19,,,False,,,,,,,,,,,,,
+1068,29017497,20,,,False,,,,,,,,,,,,,
+1069,29017497,21,,,False,,,,,,,,,,,,,
+1070,29017497,22,,,False,,,,,,,,,,,,,
+1071,29017497,23,,,False,,,,,,,,,,,,,
+1072,29017497,24,,,False,,,,,,,,,,,,,
+1073,29017497,25,,,False,,,,,,,,,,,,,
+1074,29017497,26,vildagliptin product,vildagliptin,,1,,13,1,,,,,,CHEMICAL,,,
+1075,29017497,26,metformine,metformin,False,2,0.9729304313659668,20,2,[],,,,,CHEMICAL,,,0.0
+1076,29017497,27,,,False,,,,,,,,,,,,,
+1077,23230096,0,,,False,,,,,,,,,,,,,
+1078,23230096,1,,,False,,,,,,,,,,,,,
+1079,23230096,3,metformine,metformin,,1,,2,1,,,,,,CHEMICAL,,,
+1080,23230096,3,glipizide product,glipizide,False,2,21.073266983032227,6,2,[],,,,,CHEMICAL,,,0.0
+1081,23230096,4,,,False,,,,,,,,,,,,,
+1082,23230096,6,,,False,,,,,,,,,,,,,
+1083,23230096,13,sulfonylurea,sulfonylureas,,1,,13,1,,,,,,CHEMICAL,,,
+1084,23230096,13,metformine,metformin,False,2,10.073063850402832,19,2,[],,,,,CHEMICAL,,,0.0
+1085,23230096,14,glipizide product,glipizide,,1,,8,1,,,,,,CHEMICAL,,,
+1086,23230096,14,metformine,metformin,False,2,9.286396026611328,14,2,[],,,,,CHEMICAL,,,0.0
+1087,23230096,15,,,False,,,,,,,,,,,,,
+1088,23230096,16,,,False,,,,,,,,,,,,,
+1089,23230096,17,glipizide product,glipizide,,1,,7,1,,,,,,CHEMICAL,,,
+1090,23230096,17,metformine,metformin,True,2,3.461489677429199,18,2,[None],,,,,CHEMICAL,,,1.0
+1091,23230096,18,,,False,,,,,,,,,,,,,
+1092,23230096,19,glipizide product,glipizide,,1,,34,1,,,,,,CHEMICAL,,,
+1093,23230096,19,metformine,metformin,False,2,14.81162166595459,47,2,[],,,,,CHEMICAL,,,0.0
+1094,23230096,20,,,False,,,,,,,,,,,,,
+1095,23230096,21,metformine,metformin,,1,,49,1,,,,,,CHEMICAL,,,
+1096,23230096,21,glipizide product,glipizide,False,2,6.63686466217041,55,2,[],,,,,CHEMICAL,,,0.0
+1097,23230096,22,,,False,,,,,,,,,,,,,
+1098,23230096,23,metformine,metformin,,1,,4,1,,,,,,CHEMICAL,,,
+1099,23230096,23,glipizide product,glipizide,False,2,3.9900639057159424,28,2,[],,,,,CHEMICAL,,,0.0
+1100,23230096,24,metformine,metformin,False,1,0.01979709044098854,7,1,[],,,,,CHEMICAL,,,0.0
+1101,23230096,25,,,False,,,,,,,,,,,,,
+1102,24237386,0,,,False,,,,,,,,,,,,,
+1103,24237386,1,,,False,,,,,,,,,,,,,
+1104,24237386,3,,,False,,,,,,,,,,,,,
+1105,24237386,4,,,False,,,,,,,,,,,,,
+1106,24237386,5,,,False,,,,,,,,,,,,,
+1107,24237386,6,dapagliflozin product,dapagliflozin,,1,,31,1,,,,,,CHEMICAL,,,
+1108,24237386,6,metformine,metformin,False,2,10.885688781738281,68,2,[],,,,,CHEMICAL,,,0.0
+1109,24237386,7,dapagliflozin product,dapagliflozin,False,1,7.73062801361084,13,1,[],,,,,CHEMICAL,,,0.0
+1110,24237386,9,,,False,,,,,,,,,,,,,
+1111,24237386,10,,,False,,,,,,,,,,,,,
+1112,24237386,11,,,False,,,,,,,,,,,,,
+1113,24237386,12,dapagliflozin product,dapagliflozin,False,1,1.865323781967163,25,1,[],,,,,CHEMICAL,,,0.0
+1114,24237386,13,,,False,,,,,,,,,,,,,
+1115,24237386,14,dapagliflozin product,dapagliflozin,False,1,18.692935943603516,20,1,[],,,,,CHEMICAL,,,0.0
+1116,24237386,15,dapagliflozin product,dapagliflozin,False,1,12.341670036315918,36,1,[],,,,,CHEMICAL,,,0.0
+1117,24237386,16,dapagliflozin product,dapagliflozin,False,1,3.418497085571289,16,1,[],,,,,CHEMICAL,,,0.0
+1118,24237386,17,,,False,,,,,,,,,,,,,
+1119,15205563,0,,,False,,,,,,,,,,,,,
+1120,15205563,1,,,False,,,,,,,,,,,,,
+1121,15205563,3,bromocriptin,bromocriptine,False,1,0.014578104950487614,1,1,[],,,,,CHEMICAL,,,0.0
+1122,15205563,4,,,False,,,,,,,,,,,,,
+1123,15205563,5,oral hypoglycemic agent,hypoglycemic,,1,,16,1,,,,,,DISEASE,,,
+1124,15205563,5,glucose levels plasma,glucose,False,2,10.165407180786133,40,2,[],,,,,CHEMICAL,,,0.0
+1125,15205563,6,bromocriptin,bromocriptine,False,1,0.026487071067094803,4,1,[],,,,,CHEMICAL,,,0.0
+1126,15205563,7,bromocriptin,bromocriptine,False,1,0.022828619927167892,7,1,[],,,,,CHEMICAL,,,0.0
+1127,15205563,8,,,False,,,,,,,,,,,,,
+1128,15205563,9,bromocriptin,bromocriptine,False,1,0.027363300323486328,4,1,[],,,,,CHEMICAL,,,0.0
+1129,15205563,10,,,False,,,,,,,,,,,,,
+1130,15205563,11,glyburide,glibenclamide,,1,,11,1,,,,,,CHEMICAL,,,
+1131,15205563,11,metformine,metformin,True,2,2.5865869522094727,19,2,[12],,,,,CHEMICAL,,,1.0
+1132,15205563,12,,,False,,,,,,,,,,,,,
+1133,15205563,13,bromocriptin,bromocriptine,False,1,0.019938651472330093,9,1,[],,,,,CHEMICAL,,,0.0
+1134,15205563,14,bromocriptin,bromocriptine,False,1,0.012217376381158829,9,1,[],,,,,CHEMICAL,,,0.0
+1135,15205563,15,bromocriptin,bromocriptine,False,1,0.014088200405240059,39,1,[],,,,,CHEMICAL,,,0.0
+1136,15205563,16,bromocriptin,bromocriptine,False,1,0.007894713431596756,18,1,[],,,,,CHEMICAL,,,0.0
+1137,15205563,17,bromocriptin,bromocriptine,False,1,0.013679426163434982,9,1,[],,,,,CHEMICAL,,,0.0
+1138,15205563,18,,,False,,,,,,,,,,,,,
+1139,29362626,0,,,False,,,,,,,,,,,,,
+1140,29362626,1,,,False,,,,,,,,,,,,,
+1141,29362626,3,pioglitazone product,pioglitazone,,1,,4,1,,,,,,CHEMICAL,,,
+1142,29362626,3,product containing sitagliptin,sitagliptin,,2,,10,2,,,,,,CHEMICAL,,,
+1143,29362626,3,metformine,metformin,False,3,22.657215118408203,29,3,[],,,,,CHEMICAL,,,0.0
+1144,29362626,4,,,False,,,,,,,,,,,,,
+1145,29362626,5,,,False,,,,,,,,,,,,,
+1146,29362626,6,,,False,,,,,,,,,,,,,
+1147,29362626,7,diabetes,diabetes mellitus,False,1,14.523592948913574,2,1,[],,,,,DISEASE,,,0.0
+1148,29362626,8,product containing sitagliptin,sitagliptin,,1,,13,1,,,,,,CHEMICAL,,,
+1149,29362626,8,pioglitazone product,pioglitazone,,2,,20,2,,,,,,CHEMICAL,,,
+1150,29362626,8,metformine,metformin,False,3,13.295160293579102,35,3,[],,,,,CHEMICAL,,,0.0
+1151,29362626,9,product containing sitagliptin,sitagliptin,,1,,18,1,,,,,,CHEMICAL,,,
+1152,29362626,9,pioglitazone product,pioglitazone,,2,,34,2,,,,,,CHEMICAL,,,
+1153,29362626,9,metformine,metformin,False,3,10.491189956665039,62,3,[],,,,,CHEMICAL,,,0.0
+1154,29362626,10,product containing sitagliptin,sitagliptin,,1,,22,1,,,,,,CHEMICAL,,,
+1155,29362626,10,pioglitazone product,pioglitazone,False,2,3.5529277324676514,38,2,[],,,,,CHEMICAL,,,0.0
+1156,29362626,11,product containing sitagliptin,sitagliptin,,1,,25,1,,,,,,CHEMICAL,,,
+1157,29362626,11,pioglitazone product,pioglitazone,False,2,22.371906280517578,44,2,[],,,,,CHEMICAL,,,0.0
+1158,29362626,12,product containing sitagliptin,sitagliptin,,1,,0,1,,,,,,CHEMICAL,,,
+1159,29362626,12,pioglitazone product,pioglitazone,False,2,18.91814613342285,20,2,[],,,,,CHEMICAL,,,0.0
+1160,29362626,13,product containing sitagliptin,sitagliptin,,1,,6,1,,,,,,CHEMICAL,,,
+1161,29362626,13,pioglitazone product,pioglitazone,False,2,9.571800231933594,23,2,[],,,,,CHEMICAL,,,0.0
+1162,29362626,14,product containing sitagliptin,sitagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+1163,29362626,14,pioglitazone product,pioglitazone,,2,,9,2,,,,,,CHEMICAL,,,
+1164,29362626,14,t2dm - diabetes mellitus type 2,diabetes mellitus,,3,,26,3,,,,,,DISEASE,,,
+1165,29362626,14,metformine,metformin,True,4,9.426212310791016,43,4,[14],,,,,CHEMICAL,,,2.0
+1166,29362626,15,product containing sitagliptin,sitagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+1167,29362626,15,pioglitazone product,pioglitazone,False,2,5.802969455718994,12,2,[],,,,,CHEMICAL,,,0.0
+1168,29362626,16,,,False,,,,,,,,,,,,,
+1169,11315821,0,,,False,,,,,,,,,,,,,
+1170,11315821,1,,,False,,,,,,,,,,,,,
+1171,11315821,2,diabetes type 2,diabetes,,1,,6,1,,,,,,DISEASE,,,
+1172,11315821,2,insulin glargine human,glargine,True,2,19.295490264892578,14,2,[2],,,,,CHEMICAL,,,3.0
+1173,11315821,3,,,False,,,,,,,,,,,,,
+1174,11315821,4,,,False,,,,,,,,,,,,,
+1175,11315821,5,insulin glargine human,glargine,False,1,14.358465194702148,26,1,[],,,,,CHEMICAL,,,0.0
+1176,11315821,6,insulin glargine human,glargine,True,1,12.042015075683594,38,1,[6],,,,,CHEMICAL,,,2.0
+1177,11315821,7,,,False,,,,,,,,,,,,,
+1178,11315821,8,,,False,,,,,,,,,,,,,
+1179,11315821,9,,,False,,,,,,,,,,,,,
+1180,11315821,10,insulin glargine human,glargine,False,1,4.478728771209717,25,1,[],,,,,CHEMICAL,,,0.0
+1181,11315821,11,,,False,,,,,,,,,,,,,
+1182,11315821,12,insulin glargine human,glargine,,1,,17,1,,,,,,CHEMICAL,,,
+1183,11315821,12,nocturnal hypoglycaemia,nocturnal hypoglycemia,,2,,41,2,,,,,,DISEASE,,,
+1184,11315821,12,insulin glargine human,glargine,False,3,20.637205123901367,51,3,[],,,,,CHEMICAL,,,0.0
+1185,11315821,13,insulin glargine human,glargine,,1,,4,1,,,,,,CHEMICAL,,,
+1186,11315821,13,gains weight,weight gain,True,2,11.571441650390625,12,2,[12],,,,,DISEASE,,,1.0
+1187,11315821,14,insulin glargine human,glargine,False,1,5.584559440612793,15,1,[],,,,,CHEMICAL,,,0.0
+1188,11315821,15,nocturnal hypoglycaemia,nocturnal hypoglycemia,,1,,16,1,,,,,,DISEASE,,,
+1189,11315821,15,gains weight,weight gain,False,2,0.39121684432029724,25,2,[],,,,,DISEASE,,,0.0
+1190,11315821,16,,,False,,,,,,,,,,,,,
+1191,23628617,0,,,False,,,,,,,,,,,,,
+1192,23628617,1,,,False,,,,,,,,,,,,,
+1193,23628617,3,lixisenatide product,lixisenatide,,1,,4,1,,,,,,CHEMICAL,,,
+1194,23628617,3,diabetes type 2,diabetes,True,2,18.250961303710938,13,2,[4],,,,,DISEASE,,,1.0
+1195,23628617,4,,,False,,,,,,,,,,,,,
+1196,23628617,5,,,False,,,,,,,,,,,,,
+1197,23628617,6,lixisenatide product,lixisenatide,,1,,41,1,,,,,,CHEMICAL,,,
+1198,23628617,6,metformine,metformin,False,2,8.610788345336914,56,2,[],,,,,CHEMICAL,,,0.0
+1199,23628617,7,,,False,,,,,,,,,,,,,
+1200,23628617,8,lixisenatide product,lixisenatide,False,1,4.489394187927246,23,1,[],,,,,CHEMICAL,,,0.0
+1201,23628617,9,,,False,,,,,,,,,,,,,
+1202,23628617,10,,,False,,,,,,,,,,,,,
+1203,23628617,11,,,False,,,,,,,,,,,,,
+1204,23628617,12,lixisenatide product,lixisenatide,False,1,21.809547424316406,1,1,[],,,,,CHEMICAL,,,0.0
+1205,23628617,13,lixisenatide product,lixisenatide,False,1,17.12018394470215,21,1,[],,,,,CHEMICAL,,,0.0
+1206,23628617,14,lixisenatide product,lixisenatide,False,1,15.599237442016602,0,1,[],,,,,CHEMICAL,,,0.0
+1207,23628617,15,lixisenatide product,lixisenatide,False,1,8.269197463989258,45,1,[],,,,,CHEMICAL,,,0.0
+1208,23628617,16,lixisenatide product,lixisenatide,False,1,7.711137294769287,8,1,[],,,,,CHEMICAL,,,0.0
+1209,23628617,17,lixisenatide product,lixisenatide,,1,,14,1,,,,,,CHEMICAL,,,
+1210,23628617,17,lixisenatide product,lixisenatide,False,2,7.952890396118164,46,2,[],,,,,CHEMICAL,,,0.0
+1211,23628617,18,"hyperglycemia , postprandial",hyperglycemia,,1,,13,1,,,,,,DISEASE,,,
+1212,23628617,18,gains weight,weight gain,,2,,19,2,,,,,,DISEASE,,,
+1213,23628617,18,diabetes type 2,diabetes,,3,,24,3,,,,,,DISEASE,,,
+1214,23628617,18,lixisenatide product,lixisenatide,False,4,4.9256486892700195,37,4,[],,,,,CHEMICAL,,,0.0
+1215,23628617,19,,,False,,,,,,,,,,,,,
+1216,18158076,0,,,False,,,,,,,,,,,,,
+1217,18158076,1,,,False,,,,,,,,,,,,,
+1218,18158076,2,metformine,metformin,False,1,0.0036695273593068123,21,1,[],,,,,CHEMICAL,,,0.0
+1219,18158076,3,,,False,,,,,,,,,,,,,
+1220,18158076,4,,,False,,,,,,,,,,,,,
+1221,18158076,5,diabetes mellitus,diabetes,False,1,3.5823371410369873,5,1,[],,,,,DISEASE,,,0.0
+1222,18158076,6,diabetes,diabetes mellitus,False,1,2.159175395965576,41,1,[],,,,,DISEASE,,,0.0
+1223,18158076,7,,,False,,,,,,,,,,,,,
+1224,18158076,8,metformine,metformin,,1,,58,1,,,,,,CHEMICAL,,,
+1225,18158076,8,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,0.4438812732696533,70,2,[],,,,,DISEASE,,,0.0
+1226,18158076,9,,,False,,,,,,,,,,,,,
+1227,18158076,10,metformine,metformin,,1,,39,1,,,,,,CHEMICAL,,,
+1228,18158076,10,sulphonylurea,sulfonylurea,False,2,0.08233743906021118,46,2,[],,,,,CHEMICAL,,,0.0
+1229,18158076,11,insulina lispro,lispro,,1,,29,1,,,,,,CHEMICAL,,,
+1230,18158076,11,metformine,metformin,,2,,38,2,,,,,,CHEMICAL,,,
+1231,18158076,11,insulin glargine human,glargine,,3,,68,3,,,,,,CHEMICAL,,,
+1232,18158076,11,metformine,metformin,True,4,7.183608055114746,79,4,[10],,,,,CHEMICAL,,,1.0
+1233,18158076,12,insulina lispro,lispro,False,1,2.1231679916381836,116,1,[],,,,,CHEMICAL,,,0.0
+1234,18158076,13,,,False,,,,,,,,,,,,,
+1235,18158076,16,,,False,,,,,,,,,,,,,
+1236,18158076,17,,,False,,,,,,,,,,,,,
+1237,18158076,14,,,False,,,,,,,,,,,,,
+1238,18158076,15,,,False,,,,,,,,,,,,,
+1239,18158076,18,,,False,,,,,,,,,,,,,
+1240,18158076,19,,,False,,,,,,,,,,,,,
+1241,18158076,20,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,1,0.018500186502933502,12,1,[],,,,,DISEASE,,,0.0
+1242,18158076,21,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,1,0.006763569079339504,9,1,[],,,,,DISEASE,,,0.0
+1243,18158076,22,diabetes type 2,diabetes,,1,,8,1,,,,,,DISEASE,,,
+1244,18158076,22,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,2,0.06719053536653519,53,2,[],,,,,DISEASE,,,0.0
+1245,18158076,23,,,False,,,,,,,,,,,,,
+1246,23627775,0,,,False,,,,,,,,,,,,,
+1247,23627775,1,,,False,,,,,,,,,,,,,
+1248,23627775,3,lixisenatide product,lixisenatide,,1,,4,1,,,,,,CHEMICAL,,,
+1249,23627775,3,diabetes type 2,diabetes,,2,,18,2,,,,,,DISEASE,,,
+1250,23627775,3,pioglitazone product,pioglitazone,True,3,25.95852279663086,23,3,[4],,,,,CHEMICAL,,,2.0
+1251,23627775,4,,,False,,,,,,,,,,,,,
+1252,23627775,5,t2dm - diabetes mellitus type 2,diabetes mellitus,False,1,23.49422836303711,26,1,[],,,,,DISEASE,,,0.0
+1253,23627775,6,,,False,,,,,,,,,,,,,
+1254,23627775,7,lixisenatide product,lixisenatide,False,1,10.925426483154297,9,1,[],,,,,CHEMICAL,,,0.0
+1255,23627775,8,,,False,,,,,,,,,,,,,
+1256,23627775,9,lixisenatide product,lixisenatide,False,1,8.585763931274414,14,1,[],,,,,CHEMICAL,,,0.0
+1257,23627775,10,lixisenatide product,lixisenatide,False,1,7.773885726928711,4,1,[],,,,,CHEMICAL,,,0.0
+1258,23627775,11,lixisenatide product,lixisenatide,False,1,15.043787956237793,9,1,[],,,,,CHEMICAL,,,0.0
+1259,23627775,12,lixisenatide product,lixisenatide,,1,,2,1,,,,,,CHEMICAL,,,
+1260,23627775,12,lixisenatide product,lixisenatide,False,2,16.71499252319336,36,2,[],,,,,CHEMICAL,,,0.0
+1261,23627775,13,lixisenatide product,lixisenatide,False,1,9.131174087524414,19,1,[],,,,,CHEMICAL,,,0.0
+1262,23627775,14,lixisenatide product,lixisenatide,False,1,6.326277256011963,0,1,[],,,,,CHEMICAL,,,0.0
+1263,23627775,15,lixisenatide product,lixisenatide,False,1,5.443906784057617,2,1,[],,,,,CHEMICAL,,,0.0
+1264,23627775,16,,,False,,,,,,,,,,,,,
+1265,20415692,0,,,False,,,,,,,,,,,,,
+1266,20415692,1,,,False,,,,,,,,,,,,,
+1267,20415692,2,metformine,metformin,,1,,12,1,,,,,,CHEMICAL,,,
+1268,20415692,2,diabetes type 2,diabetes,True,2,0.1941407322883606,33,2,[2],,,,,DISEASE,,,2.0
+1269,20415692,3,,,False,,,,,,,,,,,,,
+1270,20415692,4,,,False,,,,,,,,,,,,,
+1271,20415692,5,diabetes type 2,diabetes,False,1,0.16713616251945496,36,1,[],,,,,DISEASE,,,0.0
+1272,20415692,6,insulin glargine human,glargine,,1,,25,1,,,,,,CHEMICAL,,,
+1273,20415692,6,metformine,metformin,False,2,7.911657333374023,41,2,[],,,,,CHEMICAL,,,0.0
+1274,20415692,7,metformine,metformin,,1,,84,1,,,,,,CHEMICAL,,,
+1275,20415692,7,sulphonylurea,sulfonylurea,False,2,0.018123602494597435,88,2,[],,,,,CHEMICAL,,,0.0
+1276,20415692,8,,,False,,,,,,,,,,,,,
+1277,20415692,9,,,False,,,,,,,,,,,,,
+1278,20415692,10,,,False,,,,,,,,,,,,,
+1279,20415692,11,,,False,,,,,,,,,,,,,
+1280,20415692,12,,,False,,,,,,,,,,,,,
+1281,20415692,13,,,False,,,,,,,,,,,,,
+1282,20415692,14,,,False,,,,,,,,,,,,,
+1283,20415692,15,metformine,metformin,False,1,0.04428395628929138,6,1,[],,,,,CHEMICAL,,,0.0
+1284,20415692,16,,,False,,,,,,,,,,,,,
+1285,20415692,17,,,False,,,,,,,,,,,,,
+1286,19336625,0,,,False,,,,,,,,,,,,,
+1287,19336625,1,,,False,,,,,,,,,,,,,
+1288,19336625,3,insulin glargine human,glargine,,1,,38,1,,,,,,CHEMICAL,,,
+1289,19336625,3,diabetes type 2,diabetes,False,2,11.649282455444336,58,2,[],,,,,DISEASE,,,0.0
+1290,19336625,4,,,False,,,,,,,,,,,,,
+1291,19336625,5,,,False,,,,,,,,,,,,,
+1292,19336625,6,diabetes type 2,diabetes,True,1,0.15297821164131165,41,1,[7],,,,,DISEASE,,,2.0
+1293,19336625,7,insulina lispro,lispro,,1,,49,1,,,,,,CHEMICAL,,,
+1294,19336625,7,glargine insulin,glargine,True,2,5.494777679443359,65,2,[8],,,,,CHEMICAL,,,1.0
+1295,19336625,8,,,False,,,,,,,,,,,,,
+1296,19336625,9,,,False,,,,,,,,,,,,,
+1297,19336625,10,gains weight,weight gain,True,1,0.3393714427947998,54,1,[10],,,,,DISEASE,,,2.0
+1298,19336625,11,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,1,0.027353398501873016,65,1,[],,,,,DISEASE,,,0.0
+1299,19336625,12,,,False,,,,,,,,,,,,,
+1300,19336625,16,,,False,,,,,,,,,,,,,
+1301,19336625,13,,,False,,,,,,,,,,,,,
+1302,19336625,14,gains weight,weight gain,,1,,9,1,,,,,,DISEASE,,,
+1303,19336625,14,nocturnal hypoglycaemia,nocturnal hypoglycemia,True,2,0.12370467185974121,26,2,[13],,,,,DISEASE,,,1.0
+1304,19336625,15,,,False,,,,,,,,,,,,,
+1305,14578243,0,,,False,,,,,,,,,,,,,
+1306,14578243,1,,,False,,,,,,,,,,,,,
+1307,14578243,2,glargine insulin,glargine,False,1,18.645999908447266,12,1,[],,,,,CHEMICAL,,,0.0
+1308,14578243,3,,,False,,,,,,,,,,,,,
+1309,14578243,4,,,False,,,,,,,,,,,,,
+1310,14578243,5,insulin glargine human,glargine,,1,,25,1,,,,,,CHEMICAL,,,
+1311,14578243,5,diabetes type 2,type 2 diabetes,True,2,13.52169418334961,40,2,[5],,,,,DISEASE,,,3.0
+1312,14578243,6,glargine insulin,glargine,True,1,7.052923679351807,67,1,[6],,,,,CHEMICAL,,,1.0
+1313,14578243,7,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,1,0.01755073294043541,38,1,[],,,,,DISEASE,,,0.0
+1314,14578243,8,glargine insulin,glargine,False,1,3.747871160507202,11,1,[],,,,,CHEMICAL,,,0.0
+1315,14578243,9,,,False,,,,,,,,,,,,,
+1316,14578243,10,glargine insulin,glargine,False,1,15.843317031860352,37,1,[],,,,,CHEMICAL,,,0.0
+1317,14578243,11,glargine insulin,glargine,False,1,11.095438003540039,24,1,[],,,,,CHEMICAL,,,0.0
+1318,14578243,12,diabetes type 2,diabetes,False,1,0.16845431923866272,35,1,[],,,,,DISEASE,,,0.0
+1319,14578243,13,glargine insulin,glargine,,1,,4,1,,,,,,CHEMICAL,,,
+1320,14578243,13,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,2,5.325984001159668,12,2,[],,,,,DISEASE,,,0.0
+1321,14578243,14,,,False,,,,,,,,,,,,,
+1322,14578243,15,,,False,,,,,,,,,,,,,
+1323,15715892,0,,,False,,,,,,,,,,,,,
+1324,15715892,1,,,False,,,,,,,,,,,,,
+1325,15715892,2,metformine,metformin,,1,,2,1,,,,,,CHEMICAL,,,
+1326,15715892,2,diabetes type 2,diabetes,False,2,0.07501968741416931,17,2,[],,,,,DISEASE,,,0.0
+1327,15715892,3,,,False,,,,,,,,,,,,,
+1328,15715892,4,,,False,,,,,,,,,,,,,
+1329,15715892,5,metformine,metformin,,1,,16,1,,,,,,CHEMICAL,,,
+1330,15715892,5,t2dm - diabetes mellitus type 2,diabetes mellitus,True,2,15.113358497619629,36,2,[5],,,,,DISEASE,,,4.0
+1331,15715892,6,,,False,,,,,,,,,,,,,
+1332,15715892,7,metformine,metformin,False,1,0.057490721344947815,24,1,[],,,,,CHEMICAL,,,0.0
+1333,15715892,8,,,False,,,,,,,,,,,,,
+1334,15715892,9,,,False,,,,,,,,,,,,,
+1335,15715892,10,,,False,,,,,,,,,,,,,
+1336,15715892,11,metformine,metformin,False,1,0.006368144415318966,13,1,[],,,,,CHEMICAL,,,0.0
+1337,15715892,12,metformine,metformin,False,1,0.08790306746959686,2,1,[],,,,,CHEMICAL,,,0.0
+1338,15715892,13,,,False,,,,,,,,,,,,,
+1339,15715892,14,,,False,,,,,,,,,,,,,
+1340,15715892,15,,,False,,,,,,,,,,,,,
+1341,15715892,16,metformine,metformin,False,1,0.0314188115298748,5,1,[],,,,,CHEMICAL,,,0.0
+1342,15715892,17,,,False,,,,,,,,,,,,,
+1343,21138825,0,,,False,,,,,,,,,,,,,
+1344,21138825,1,,,False,,,,,,,,,,,,,
+1345,21138825,3,exenatide synthetic,exenatide,,1,,5,1,,,,,,CHEMICAL,,,
+1346,21138825,3,diabetes type 2,diabetes,True,2,12.018182754516602,19,2,[4],,,,,DISEASE,,,3.0
+1347,21138825,4,,,False,,,,,,,,,,,,,
+1348,21138825,5,,,False,,,,,,,,,,,,,
+1349,21138825,10,,,False,,,,,,,,,,,,,
+1350,21138825,11,exenatide synthetic,exenatide,False,1,6.973413467407227,8,1,[],,,,,CHEMICAL,,,0.0
+1351,21138825,12,,,False,,,,,,,,,,,,,
+1352,21138825,13,,,False,,,,,,,,,,,,,
+1353,21138825,14,,,False,,,,,,,,,,,,,
+1354,21138825,15,insulin glargine human,glargine,,1,,30,1,,,,,,CHEMICAL,,,
+1355,21138825,15,metformine,metformin,,2,,40,2,,,,,,CHEMICAL,,,
+1356,21138825,15,pioglitazone product,pioglitazone,False,3,3.552924394607544,44,3,[],,,,,CHEMICAL,,,0.0
+1357,21138825,16,exenatide synthetic,exenatide,False,1,1.3991954326629639,20,1,[],,,,,CHEMICAL,,,0.0
+1358,21138825,17,,,False,,,,,,,,,,,,,
+1359,21138825,18,,,False,,,,,,,,,,,,,
+1360,21138825,19,exenatide synthetic,exenatide,False,1,12.799851417541504,5,1,[],,,,,CHEMICAL,,,0.0
+1361,21138825,20,exenatide synthetic,exenatide,True,1,11.0863037109375,15,1,[24],,,,,CHEMICAL,,,1.0
+1362,21138825,21,exenatide synthetic,exenatide,False,1,9.081605911254883,8,1,[],,,,,CHEMICAL,,,0.0
+1363,21138825,22,exenatide synthetic,exenatide,False,1,7.570671081542969,7,1,[],,,,,CHEMICAL,,,0.0
+1364,21138825,23,,,False,,,,,,,,,,,,,
+1365,21138825,24,exenatide synthetic,exenatide,,1,,1,1,,,,,,CHEMICAL,,,
+1366,21138825,24,nauseas,nausea,,2,,30,2,,,,,,DISEASE,,,
+1367,21138825,24,symptoms diarrhea,diarrhea,,3,,41,3,,,,,,DISEASE,,,
+1368,21138825,24,symptoms vomiting,vomiting,,4,,54,4,,,,,,DISEASE,,,
+1369,21138825,24,"headache , cephalalgia",headache,,5,,65,5,,,,,,DISEASE,,,
+1370,21138825,24,exenatide synthetic,exenatide,False,6,24.37874984741211,96,6,[],,,,,CHEMICAL,,,2.0
+1371,21138825,26,exenatide synthetic,exenatide,False,1,0.5763406753540039,37,1,[],,,,,CHEMICAL,,,0.0
+1372,21138825,27,exenatide synthetic,exenatide,,1,,6,1,,,,,,CHEMICAL,,,
+1373,21138825,27,gains weight,weight gain,,2,,28,2,,,,,,DISEASE,,,
+1374,21138825,27,diabetes type 2,type 2 diabetes,,3,,38,3,,,,,,DISEASE,,,
+1375,21138825,27,insulin glargine human,glargine,False,4,7.570694923400879,45,4,[],,,,,CHEMICAL,,,0.0
+1376,21138825,28,exenatide synthetic,exenatide,,1,,3,1,,,,,,CHEMICAL,,,
+1377,21138825,28,nauseas,nausea,,2,,9,2,,,,,,DISEASE,,,
+1378,21138825,28,symptoms diarrhea,diarrhea,,3,,12,3,,,,,,DISEASE,,,
+1379,21138825,28,symptoms vomiting,vomiting,,4,,17,4,,,,,,DISEASE,,,
+1380,21138825,28,"headache , cephalalgia",headache,False,5,9.106651306152344,20,5,[],,,,,DISEASE,,,0.0
+1381,21138825,30,,,False,,,,,,,,,,,,,
+1382,26598090,0,,,False,,,,,,,,,,,,,
+1383,26598090,1,,,False,,,,,,,,,,,,,
+1384,26598090,3,acarbose product,acarbose,,1,,2,1,,,,,,CHEMICAL,,,
+1385,26598090,3,t2dm - diabetes mellitus type 2,diabetes mellitus,True,2,11.599145889282227,20,2,[4],,,,,DISEASE,,,3.0
+1386,26598090,4,,,False,,,,,,,,,,,,,
+1387,26598090,5,,,False,,,,,,,,,,,,,
+1388,26598090,6,,,False,,,,,,,,,,,,,
+1389,26598090,7,,,False,,,,,,,,,,,,,
+1390,26598090,8,,,False,,,,,,,,,,,,,
+1391,26598090,9,,,False,,,,,,,,,,,,,
+1392,26598090,10,,,False,,,,,,,,,,,,,
+1393,26598090,11,acarbose product,acarbose,,1,,8,1,,,,,,CHEMICAL,,,
+1394,26598090,11,metformine,metformin,,2,,49,2,,,,,,CHEMICAL,,,
+1395,26598090,11,vildagliptin product,vildagliptin,False,3,3.134830951690674,53,3,[],,,,,CHEMICAL,,,0.0
+1396,26598090,12,,,False,,,,,,,,,,,,,
+1397,26598090,13,,,False,,,,,,,,,,,,,
+1398,26598090,14,diabetes type 2,diabetes,,1,,9,1,,,,,,DISEASE,,,
+1399,26598090,14,metformine,metformin,,2,,17,2,,,,,,CHEMICAL,,,
+1400,26598090,14,vildagliptin product,vildagliptin,False,3,11.557270050048828,27,3,[],,,,,CHEMICAL,,,0.0
+1401,26598090,15,acarbose product,acarbose,,1,,11,1,,,,,,CHEMICAL,,,
+1402,26598090,15,metformine,metformin,,2,,27,2,,,,,,CHEMICAL,,,
+1403,26598090,15,vildagliptin product,vildagliptin,False,3,13.541069984436035,31,3,[],,,,,CHEMICAL,,,0.0
+1404,26598090,16,,,False,,,,,,,,,,,,,
+1405,26598090,17,,,False,,,,,,,,,,,,,
+1406,26598090,18,glucose blood,glucose,False,1,0.0588604137301445,16,1,[],,,,,CHEMICAL,,,0.0
+1407,26598090,19,,,False,,,,,,,,,,,,,
+1408,26598090,20,acarbose product,acarbose,False,1,3.540273666381836,13,1,[],,,,,CHEMICAL,,,0.0
+1409,26598090,21,acarbose product,acarbose,False,1,1.1775832176208496,27,1,[],,,,,CHEMICAL,,,0.0
+1410,26598090,22,acarbose product,acarbose,False,1,10.143638610839844,15,1,[],,,,,CHEMICAL,,,0.0
+1411,26598090,23,,,False,,,,,,,,,,,,,
+1412,26598090,24,,,False,,,,,,,,,,,,,
+1413,26598090,25,acarbose product,acarbose,,1,,22,1,,,,,,CHEMICAL,,,
+1414,26598090,25,acarbose product,acarbose,False,2,8.794837951660156,32,2,[],,,,,CHEMICAL,,,0.0
+1415,26598090,26,acarbose product,acarbose,,1,,5,1,,,,,,CHEMICAL,,,
+1416,26598090,26,metformine,metformin,,2,,11,2,,,,,,CHEMICAL,,,
+1417,26598090,26,vildagliptin product,vildagliptin,,3,,15,3,,,,,,CHEMICAL,,,
+1418,26598090,26,diabetes type 2,diabetes,False,4,6.829785346984863,31,4,[],,,,,DISEASE,,,0.0
+1419,26598090,27,,,False,,,,,,,,,,,,,
+1420,23948125,0,,,False,,,,,,,,,,,,,
+1421,23948125,1,,,False,,,,,,,,,,,,,
+1422,23948125,3,linagliptin product,linagliptin,,1,,0,1,,,,,,CHEMICAL,,,
+1423,23948125,3,diabetes type 2,diabetes,True,2,17.088306427001953,15,2,[4],,,,,DISEASE,,,3.0
+1424,23948125,4,,,False,,,,,,,,,,,,,
+1425,23948125,5,,,False,,,,,,,,,,,,,
+1426,23948125,17,diabetes type 2,diabetes,False,1,0.09471533447504044,10,1,[],,,,,DISEASE,,,0.0
+1427,23948125,18,linagliptin product,linagliptin,False,1,10.070377349853516,7,1,[],,,,,CHEMICAL,,,0.0
+1428,23948125,19,diabetes type 2,diabetes,,1,,29,1,,,,,,DISEASE,,,
+1429,23948125,19,metformine,metformin,,2,,56,2,,,,,,CHEMICAL,,,
+1430,23948125,19,sulfonylurea,sulfonylureas,,3,,60,3,,,,,,CHEMICAL,,,
+1431,23948125,19,linagliptin product,linagliptin,False,4,5.220767021179199,144,4,[],,,,,CHEMICAL,,,0.0
+1432,23948125,20,,,False,,,,,,,,,,,,,
+1433,23948125,32,,,False,,,,,,,,,,,,,
+1434,23948125,33,,,False,,,,,,,,,,,,,
+1435,23948125,35,,,False,,,,,,,,,,,,,
+1436,23948125,21,,,False,,,,,,,,,,,,,
+1437,23948125,23,linagliptin product,linagliptin,False,1,16.86014747619629,14,1,[],,,,,CHEMICAL,,,0.0
+1438,23948125,24,,,False,,,,,,,,,,,,,
+1439,23948125,25,,,False,,,,,,,,,,,,,
+1440,23948125,26,linagliptin product,linagliptin,False,1,14.50229263305664,16,1,[],,,,,CHEMICAL,,,0.0
+1441,23948125,27,linagliptin product,linagliptin,,1,,12,1,,,,,,CHEMICAL,,,
+1442,23948125,27,linagliptin product,linagliptin,False,2,13.352757453918457,36,2,[],,,,,CHEMICAL,,,0.0
+1443,23948125,29,linagliptin product,linagliptin,False,1,9.759568214416504,16,1,[],,,,,CHEMICAL,,,0.0
+1444,23948125,30,linagliptin product,linagliptin,False,1,7.18768310546875,32,1,[],,,,,CHEMICAL,,,0.0
+1445,23948125,31,linagliptin product,linagliptin,False,1,4.92647647857666,9,1,[],,,,,CHEMICAL,,,0.0
+1446,28026912,0,,,False,,,,,,,,,,,,,
+1447,28026912,1,,,False,,,,,,,,,,,,,
+1448,28026912,3,metformine,metformin,,1,,38,1,,,,,,CHEMICAL,,,
+1449,28026912,3,sulfonylurea,sulphonylurea,True,2,0.04372701793909073,42,2,[4],,,,,CHEMICAL,,,1.0
+1450,28026912,4,,,False,,,,,,,,,,,,,
+1451,28026912,5,,,False,,,,,,,,,,,,,
+1452,28026912,6,,,False,,,,,,,,,,,,,
+1453,28026912,7,,,False,,,,,,,,,,,,,
+1454,28026912,8,,,False,,,,,,,,,,,,,
+1455,28026912,9,,,False,,,,,,,,,,,,,
+1456,28026912,10,,,False,,,,,,,,,,,,,
+1457,28026912,11,,,False,,,,,,,,,,,,,
+1458,28026912,12,,,False,,,,,,,,,,,,,
+1459,28026912,13,,,False,,,,,,,,,,,,,
+1460,28026912,14,,,False,,,,,,,,,,,,,
+1461,28026912,15,,,False,,,,,,,,,,,,,
+1462,28026912,16,,,False,,,,,,,,,,,,,
+1463,28026912,17,,,False,,,,,,,,,,,,,
+1464,28026912,18,,,False,,,,,,,,,,,,,
+1465,28026912,19,,,False,,,,,,,,,,,,,
+1466,28026912,20,,,False,,,,,,,,,,,,,
+1467,28026912,21,,,False,,,,,,,,,,,,,
+1468,28026912,22,,,False,,,,,,,,,,,,,
+1469,28026912,23,,,False,,,,,,,,,,,,,
+1470,28026912,24,,,False,,,,,,,,,,,,,
+1471,28026912,25,,,False,,,,,,,,,,,,,
+1472,28026912,26,,,False,,,,,,,,,,,,,
+1473,28026912,27,,,False,,,,,,,,,,,,,
+1474,28026912,32,,,False,,,,,,,,,,,,,
+1475,28026912,33,metformine,metformin,,1,,8,1,,,,,,CHEMICAL,,,
+1476,28026912,33,product containing glimepiride,glimepiride,False,2,5.725162982940674,12,2,[],,,,,CHEMICAL,,,0.0
+1477,28026912,34,,,False,,,,,,,,,,,,,
+1478,28026912,28,metformine,metformin,,1,,29,1,,,,,,CHEMICAL,,,
+1479,28026912,28,sulfonylurea,sulphonylurea,,2,,33,2,,,,,,CHEMICAL,,,
+1480,28026912,28,diabetes type 2,diabetes,True,3,0.1088155210018158,43,3,[34],,,,,DISEASE,,,1.0
+1481,28026912,29,metformine,metformin,,1,,27,1,,,,,,CHEMICAL,,,
+1482,28026912,29,product containing glimepiride,glimepiride,False,2,10.545738220214844,31,2,[],,,,,CHEMICAL,,,0.0
+1483,28026912,30,metformine,metformin,,1,,18,1,,,,,,CHEMICAL,,,
+1484,28026912,30,product containing glimepiride,glimepiride,False,2,9.053328514099121,22,2,[],,,,,CHEMICAL,,,0.0
+1485,28026912,31,,,False,,,,,,,,,,,,,
+1486,28026912,35,cholesterol total,cholesterol,,1,,1,1,,,,,,CHEMICAL,,,
+1487,28026912,35,cholesterol ldl,cholesterol,,2,,7,2,,,,,,CHEMICAL,,,
+1488,28026912,35,cholesterol total,cholesterol,,3,,57,3,,,,,,CHEMICAL,,,
+1489,28026912,35,cholesterol ldl,cholesterol,False,4,0.4330887198448181,89,4,[],,,,,CHEMICAL,,,0.0
+1490,28026912,36,,,False,,,,,,,,,,,,,
+1491,28026912,37,metformine,metformin,,1,,24,1,,,,,,CHEMICAL,,,
+1492,28026912,37,sulfonylurea,sulphonylurea,True,2,0.0700678676366806,28,2,[35],,,,,CHEMICAL,,,1.0
+1493,28026912,38,sulfonylurea,sulphonylurea,True,1,0.04629215598106384,30,1,[36],,,,,CHEMICAL,,,1.0
+1494,28026912,39,,,False,,,,,,,,,,,,,
+1495,28548024,0,,,False,,,,,,,,,,,,,
+1496,28548024,1,,,False,,,,,,,,,,,,,
+1497,28548024,3,product containing glimepiride,glimepiride,,1,,35,1,,,,,,CHEMICAL,,,
+1498,28548024,3,metformine,metformin,False,2,21.81796646118164,52,2,[],,,,,CHEMICAL,,,0.0
+1499,28548024,4,,,False,,,,,,,,,,,,,
+1500,28548024,5,,,False,,,,,,,,,,,,,
+1501,28548024,6,,,False,,,,,,,,,,,,,
+1502,28548024,11,metformine,metformin,False,1,0.025177735835313797,59,1,[],,,,,CHEMICAL,,,0.0
+1503,28548024,12,metformine,metformin,,1,,29,1,,,,,,CHEMICAL,,,
+1504,28548024,12,product containing glimepiride,glimepiride,False,2,4.718163967132568,59,2,[],,,,,CHEMICAL,,,0.0
+1505,28548024,13,product containing glimepiride,glimepiride,False,1,1.5990548133850098,14,1,[],,,,,CHEMICAL,,,0.0
+1506,28548024,14,product containing glimepiride,glimepiride,False,1,19.309165954589844,28,1,[],,,,,CHEMICAL,,,0.0
+1507,28548024,15,product containing glimepiride,glimepiride,False,1,16.62939453125,41,1,[],,,,,CHEMICAL,,,0.0
+1508,28548024,16,product containing glimepiride,glimepiride,False,1,11.010986328125,32,1,[],,,,,CHEMICAL,,,0.0
+1509,28548024,17,,,False,,,,,,,,,,,,,
+1510,28548024,18,loss weight,weight loss,,1,,13,1,,,,,,DISEASE,,,
+1511,28548024,18,product containing glimepiride,glimepiride,,2,,24,2,,,,,,CHEMICAL,,,
+1512,28548024,18,gains weight,weight gain,False,3,8.939760208129883,33,3,[],,,,,DISEASE,,,0.0
+1513,28548024,19,metformine,metformin,,1,,12,1,,,,,,CHEMICAL,,,
+1514,28548024,19,product containing glimepiride,glimepiride,,2,,32,2,,,,,,CHEMICAL,,,
+1515,28548024,19,loss weight,weight loss,,3,,60,3,,,,,,DISEASE,,,
+1516,28548024,19,gains weight,weight gain,True,4,4.134661674499512,63,4,[None],,,,,DISEASE,,,1.0
+1517,28548024,20,,,False,,,,,,,,,,,,,
+1518,27711199,0,,,False,,,,,,,,,,,,,
+1519,27711199,1,,,False,,,,,,,,,,,,,
+1520,27711199,4,product containing sitagliptin,sitagliptin,,1,,9,1,,,,,,CHEMICAL,,,
+1521,27711199,4,product containing glimepiride,glimepiride,False,2,14.477361679077148,16,2,[],,,,,CHEMICAL,,,0.0
+1522,27711199,5,,,False,,,,,,,,,,,,,
+1523,27711199,6,,,False,,,,,,,,,,,,,
+1524,27711199,7,,,False,,,,,,,,,,,,,
+1525,27711199,8,,,False,,,,,,,,,,,,,
+1526,27711199,9,,,False,,,,,,,,,,,,,
+1527,27711199,10,,,False,,,,,,,,,,,,,
+1528,27711199,11,,,False,,,,,,,,,,,,,
+1529,27711199,12,,,False,,,,,,,,,,,,,
+1530,27711199,13,,,False,,,,,,,,,,,,,
+1531,27711199,14,,,False,,,,,,,,,,,,,
+1532,27711199,15,atherosclerotic cardiovascular disease,atherosclerosis,False,1,0.5608786940574646,37,1,[],,,,,DISEASE,,,0.0
+1533,27711199,16,diabetes type 2,diabetes,True,1,0.09535852819681168,30,1,[17],,,,,DISEASE,,,2.0
+1534,27711199,17,product containing sitagliptin,sitagliptin,False,1,15.367130279541016,7,1,[],,,,,CHEMICAL,,,0.0
+1535,27711199,18,diabetes type 2,diabetes,,1,,27,1,,,,,,DISEASE,,,
+1536,27711199,18,metformine,metformin,,2,,62,2,,,,,,CHEMICAL,,,
+1537,27711199,18,product containing sitagliptin,sitagliptin,,3,,73,3,,,,,,CHEMICAL,,,
+1538,27711199,18,product containing glimepiride,glimepiride,False,4,11.484877586364746,80,4,[],,,,,CHEMICAL,,,0.0
+1539,27711199,19,,,False,,,,,,,,,,,,,
+1540,27711199,20,product containing sitagliptin,sitagliptin,,1,,22,1,,,,,,CHEMICAL,,,
+1541,27711199,20,product containing glimepiride,glimepiride,False,2,6.303163528442383,38,2,[],,,,,CHEMICAL,,,0.0
+1542,27711199,21,product containing sitagliptin,sitagliptin,,1,,30,1,,,,,,CHEMICAL,,,
+1543,27711199,21,superoxide dismutases,superoxide,,2,,39,2,,,,,,CHEMICAL,,,
+1544,27711199,21,product containing sitagliptin,sitagliptin,False,3,3.2713913917541504,51,3,[],,,,,CHEMICAL,,,0.0
+1545,27711199,22,,,False,,,,,,,,,,,,,
+1546,27711199,25,,,False,,,,,,,,,,,,,
+1547,27711199,26,,,False,,,,,,,,,,,,,
+1548,27711199,27,,,False,,,,,,,,,,,,,
+1549,27711199,23,product containing sitagliptin,sitagliptin,,1,,11,1,,,,,,CHEMICAL,,,
+1550,27711199,23,diabetes type 2,diabetes,False,2,8.451884269714355,48,2,[],,,,,DISEASE,,,0.0
+1551,23160726,0,,,False,,,,,,,,,,,,,
+1552,23160726,1,,,False,,,,,,,,,,,,,
+1553,23160726,3,metformine,metformin,False,1,0.013630854897201061,24,1,[],,,,,CHEMICAL,,,0.0
+1554,23160726,4,,,False,,,,,,,,,,,,,
+1555,23160726,5,,,False,,,,,,,,,,,,,
+1556,23160726,6,diabetes type 2,diabetes,,1,,50,1,,,,,,DISEASE,,,
+1557,23160726,6,metformine,metformin,True,2,0.3350815176963806,56,2,[7],,,,,CHEMICAL,,,1.0
+1558,23160726,7,metformine,metformin,False,1,0.023490455001592636,40,1,[],,,,,CHEMICAL,,,0.0
+1559,23160726,8,,,False,,,,,,,,,,,,,
+1560,23160726,9,metformine,metformin,False,1,0.04313347116112709,17,1,[],,,,,CHEMICAL,,,0.0
+1561,23160726,10,metformine,metformin,,1,,0,1,,,,,,CHEMICAL,,,
+1562,23160726,10,metformine,metformin,False,2,0.04475376754999161,41,2,[],,,,,CHEMICAL,,,0.0
+1563,23160726,11,metformine,metformin,,1,,0,1,,,,,,CHEMICAL,,,
+1564,23160726,11,metformine,metformin,False,2,0.03438945859670639,20,2,[],,,,,CHEMICAL,,,0.0
+1565,23160726,12,metformine,metformin,,1,,9,1,,,,,,CHEMICAL,,,
+1566,23160726,12,diabetes type 2,diabetes,False,2,0.45143604278564453,28,2,[],,,,,DISEASE,,,0.0
+1567,23160726,13,,,False,,,,,,,,,,,,,
+1568,20200301,0,,,False,,,,,,,,,,,,,
+1569,20200301,1,,,False,,,,,,,,,,,,,
+1570,20200301,3,insulin glargine human,glargine,False,1,17.32948875427246,18,1,[],,,,,CHEMICAL,,,0.0
+1571,20200301,4,,,False,,,,,,,,,,,,,
+1572,20200301,5,glargine insulin,glargine,False,1,7.249031066894531,19,1,[],,,,,CHEMICAL,,,0.0
+1573,20200301,6,glargine insulin,glargine,,1,,45,1,,,,,,CHEMICAL,,,
+1574,20200301,6,insulina detemir,detemir,True,2,4.813626289367676,53,2,[7],,,,,CHEMICAL,,,2.0
+1575,20200301,7,,,False,,,,,,,,,,,,,
+1576,20200301,8,glargine insulin,glargine,,1,,16,1,,,,,,CHEMICAL,,,
+1577,20200301,8,insulina detemir,detemir,,2,,22,2,,,,,,CHEMICAL,,,
+1578,20200301,8,glargine insulin,glargine,False,3,1.540950059890747,38,3,[],,,,,CHEMICAL,,,0.0
+1579,20200301,9,glargine insulin,glargine,,1,,17,1,,,,,,CHEMICAL,,,
+1580,20200301,9,insulina detemir,detemir,False,2,26.178821563720703,66,2,[],,,,,CHEMICAL,,,0.0
+1581,20200301,10,,,False,,,,,,,,,,,,,
+1582,20200301,11,gains weight,weight gain,,1,,0,1,,,,,,DISEASE,,,
+1583,20200301,11,glargine insulin,glargine,True,2,17.111347198486328,6,2,[11],,,,,CHEMICAL,,,1.0
+1584,20200301,12,glargine insulin,glargine,False,1,11.674538612365723,0,1,[],,,,,CHEMICAL,,,0.0
+1585,20200301,13,glargine insulin,glargine,,1,,13,1,,,,,,CHEMICAL,,,
+1586,20200301,13,insulina detemir,detemir,,2,,22,2,,,,,,CHEMICAL,,,
+1587,20200301,13,gains weight,weight gain,False,3,6.92375373840332,30,3,[],,,,,DISEASE,,,0.0
+1588,20200301,14,,,False,,,,,,,,,,,,,
+1589,22134839,0,,,False,,,,,,,,,,,,,
+1590,22134839,1,,,False,,,,,,,,,,,,,
+1591,22134839,3,diabetes type 2,diabetes,True,1,0.09839153289794922,33,1,[4],,,,,DISEASE,,,2.0
+1592,22134839,4,,,False,,,,,,,,,,,,,
+1593,22134839,5,,,False,,,,,,,,,,,,,
+1594,22134839,8,product containing colesevelam,colesevelam,False,1,6.595613479614258,39,1,[],,,,,CHEMICAL,,,0.0
+1595,22134839,9,sulphonylurea,sulfonylurea,,1,,83,1,,,,,,CHEMICAL,,,
+1596,22134839,9,metformine,metformin,,2,,89,2,,,,,,CHEMICAL,,,
+1597,22134839,9,product containing colesevelam,colesevelam,True,3,3.00228214263916,112,3,[None],,,,,CHEMICAL,,,1.0
+1598,22134839,10,product containing colesevelam,colesevelam,False,1,0.5856826305389404,13,1,[],,,,,CHEMICAL,,,0.0
+1599,22134839,11,,,False,,,,,,,,,,,,,
+1600,22134839,12,glucose levels plasma,glucose,False,1,10.440116882324219,1,1,[],,,,,CHEMICAL,,,0.0
+1601,22134839,13,,,False,,,,,,,,,,,,,
+1602,22134839,14,product containing colesevelam,colesevelam,,1,,7,1,,,,,,CHEMICAL,,,
+1603,22134839,14,product containing colesevelam,colesevelam,False,2,12.481958389282227,56,2,[],,,,,CHEMICAL,,,0.0
+1604,22134839,15,product containing colesevelam,colesevelam,False,1,6.418087005615234,0,1,[],,,,,CHEMICAL,,,0.0
+1605,22134839,16,product containing colesevelam,colesevelam,False,1,5.093311309814453,23,1,[],,,,,CHEMICAL,,,0.0
+1606,22134839,17,product containing colesevelam,colesevelam,,1,,5,1,,,,,,CHEMICAL,,,
+1607,22134839,17,glucagons,glucagon,False,2,4.775300025939941,32,2,[],,,,,CHEMICAL,,,0.0
+1608,22134839,18,product containing colesevelam,colesevelam,,1,,0,1,,,,,,CHEMICAL,,,
+1609,22134839,18,cholesterol level,cholesterol,False,2,3.6644301414489746,7,2,[],,,,,CHEMICAL,,,0.0
+1610,22134839,19,,,False,,,,,,,,,,,,,
+1611,22134839,20,product containing colesevelam,colesevelam,False,1,1.9174176454544067,4,1,[],,,,,CHEMICAL,,,1.0
+1612,22134839,22,,,False,,,,,,,,,,,,,
+1613,27589252,0,,,False,,,,,,,,,,,,,
+1614,27589252,1,,,False,,,,,,,,,,,,,
+1615,27589252,3,liraglutide product,liraglutide,,1,,10,1,,,,,,CHEMICAL,,,
+1616,27589252,3,sulfonylurea,sulphonylurea,,2,,24,2,,,,,,CHEMICAL,,,
+1617,27589252,3,sulfonylurea,sulphonylurea,,3,,32,3,,,,,,CHEMICAL,,,
+1618,27589252,3,metformine,metformin,,4,,38,4,,,,,,CHEMICAL,,,
+1619,27589252,3,diabetes type 2,diabetes,True,5,9.778787612915039,51,5,[4],,,,,DISEASE,,,4.0
+1620,27589252,4,liraglutide product,liraglutide,False,1,5.643977165222168,53,1,[],,,,,CHEMICAL,,,0.0
+1621,27589252,5,,,False,,,,,,,,,,,,,
+1622,27589252,6,,,False,,,,,,,,,,,,,
+1623,27589252,7,,,False,,,,,,,,,,,,,
+1624,27589252,8,,,False,,,,,,,,,,,,,
+1625,27589252,9,,,False,,,,,,,,,,,,,
+1626,27589252,10,,,False,,,,,,,,,,,,,
+1627,27589252,11,liraglutide product,liraglutide,,1,,15,1,,,,,,CHEMICAL,,,
+1628,27589252,11,sulfonylurea,sulphonylurea,True,2,0.9974457025527954,49,2,[16],,,,,CHEMICAL,,,1.0
+1629,27589252,12,diabetes type 2,diabetes,False,1,0.03576339781284332,17,1,[],,,,,DISEASE,,,0.0
+1630,27589252,13,liraglutide product,liraglutide,True,1,10.46697998046875,28,1,[13],,,,,CHEMICAL,,,1.0
+1631,27589252,14,,,False,,,,,,,,,,,,,
+1632,27589252,15,,,False,,,,,,,,,,,,,
+1633,27589252,16,,,False,,,,,,,,,,,,,
+1634,27589252,17,,,False,,,,,,,,,,,,,
+1635,27589252,18,,,False,,,,,,,,,,,,,
+1636,27589252,19,,,False,,,,,,,,,,,,,
+1637,27589252,20,,,False,,,,,,,,,,,,,
+1638,27589252,22,,,False,,,,,,,,,,,,,
+1639,26950829,0,,,False,,,,,,,,,,,,,
+1640,26950829,1,,,False,,,,,,,,,,,,,
+1641,26950829,3,vildagliptin product,vildagliptin,,1,,2,1,,,,,,CHEMICAL,,,
+1642,26950829,3,saxagliptin product,saxagliptin,,2,,9,2,,,,,,CHEMICAL,,,
+1643,26950829,3,metformine,metformin,,3,,33,3,,,,,,CHEMICAL,,,
+1644,26950829,3,sulphonylurea,sulfonylurea,False,4,20.51569175720215,37,4,[],,,,,CHEMICAL,,,0.0
+1645,26950829,4,,,False,,,,,,,,,,,,,
+1646,26950829,5,,,False,,,,,,,,,,,,,
+1647,26950829,6,vildagliptin product,vildagliptin,,1,,28,1,,,,,,CHEMICAL,,,
+1648,26950829,6,saxagliptin product,saxagliptin,,2,,35,2,,,,,,CHEMICAL,,,
+1649,26950829,6,metformine,metformin,,3,,68,3,,,,,,CHEMICAL,,,
+1650,26950829,6,sulphonylurea,sulfonylurea,False,4,12.364590644836426,72,4,[],,,,,CHEMICAL,,,0.0
+1651,26950829,7,,,False,,,,,,,,,,,,,
+1652,26950829,8,metformine,metformin,,1,,39,1,,,,,,CHEMICAL,,,
+1653,26950829,8,glyclazide,gliclazide,,2,,43,2,,,,,,CHEMICAL,,,
+1654,26950829,8,vildagliptin product,vildagliptin,,3,,59,3,,,,,,CHEMICAL,,,
+1655,26950829,8,saxagliptin product,saxagliptin,True,4,4.8147077560424805,77,4,[9],,,,,CHEMICAL,,,2.0
+1656,26950829,9,,,False,,,,,,,,,,,,,
+1657,26950829,10,,,False,,,,,,,,,,,,,
+1658,26950829,11,vildagliptin product,vildagliptin,,1,,42,1,,,,,,CHEMICAL,,,
+1659,26950829,11,saxagliptin product,saxagliptin,False,2,18.216064453125,84,2,[],,,,,CHEMICAL,,,0.0
+1660,26950829,12,vildagliptin product,vildagliptin,,1,,7,1,,,,,,CHEMICAL,,,
+1661,26950829,12,saxagliptin product,saxagliptin,False,2,13.646428108215332,21,2,[],,,,,CHEMICAL,,,0.0
+1662,26950829,13,vildagliptin product,vildagliptin,,1,,19,1,,,,,,CHEMICAL,,,
+1663,26950829,13,saxagliptin product,saxagliptin,False,2,9.319921493530273,26,2,[],,,,,CHEMICAL,,,0.0
+1664,26950829,14,vildagliptin product,vildagliptin,,1,,8,1,,,,,,CHEMICAL,,,
+1665,26950829,14,saxagliptin product,saxagliptin,False,2,5.656426906585693,15,2,[],,,,,CHEMICAL,,,0.0
+1666,26950829,15,,,False,,,,,,,,,,,,,
+1667,26950829,16,vildagliptin product,vildagliptin,,1,,1,1,,,,,,CHEMICAL,,,
+1668,26950829,16,saxagliptin product,saxagliptin,,2,,18,2,,,,,,CHEMICAL,,,
+1669,26950829,16,metformine,metformin,,3,,30,3,,,,,,CHEMICAL,,,
+1670,26950829,16,sulphonylurea,sulfonylurea,False,4,4.118560314178467,34,4,[],,,,,CHEMICAL,,,0.0
+1671,26950829,18,,,False,,,,,,,,,,,,,
+1672,20880343,0,,,False,,,,,,,,,,,,,
+1673,20880343,1,,,False,,,,,,,,,,,,,
+1674,20880343,2,diabetes type 2,diabetes,True,1,0.20356789231300354,36,1,[2],,,,,DISEASE,,,2.0
+1675,20880343,3,,,False,,,,,,,,,,,,,
+1676,20880343,4,,,False,,,,,,,,,,,,,
+1677,20880343,5,insulin glargine human,glargine,,1,,12,1,,,,,,CHEMICAL,,,
+1678,20880343,5,insulina lispro,lispro,True,2,17.318683624267578,22,2,[5],,,,,CHEMICAL,,,3.0
+1679,20880343,6,,,False,,,,,,,,,,,,,
+1680,20880343,7,,,False,,,,,,,,,,,,,
+1681,20880343,8,,,False,,,,,,,,,,,,,
+1682,20880343,9,,,False,,,,,,,,,,,,,
+1683,20880343,10,,,False,,,,,,,,,,,,,
+1684,20880343,11,,,False,,,,,,,,,,,,,
+1685,20880343,12,,,False,,,,,,,,,,,,,
+1686,20880343,13,,,False,,,,,,,,,,,,,
+1687,20880343,14,,,False,,,,,,,,,,,,,
+1688,20880343,15,gains weight,weight gain,False,1,2.4747400283813477,22,1,[],,,,,DISEASE,,,0.0
+0,20880343,17,,,False,,,,,,,,,,,,,

@@ -1,0 +1,456 @@
+,abstract_id,sentence_index,synonym_tokens,original_tokens,attack_successful,num_changed,divergence,token_index,num_queries,changed_sentences,num_entities_changed,synonym_prob,semantic_sim,attack_type,type,num_changes_in_pred,comp_mode
+0,27740719,0,,,False,,,,,,,,,,,,
+1,27740719,1,,,False,,,,,,,,,,,,
+2,27740719,3,product containing sitagliptin,sitagliptin,,1,,0,1,,,,,,CHEMICAL,,class_change
+3,27740719,3,metformine,metformin,False,2,0.0023195042740553617,14,2,,,,,,CHEMICAL,0.0,class_change
+4,27740719,4,,,False,,,,,,,,,,,,
+5,27740719,5,,,False,,,,,,,,,,,,
+6,27740719,11,,,False,,,,,,,,,,,,
+7,27740719,12,product containing sitagliptin,sitagliptin,,1,,14,1,,,,,,CHEMICAL,,class_change
+8,27740719,12,metformine,metformin,False,2,0.0011598189594224095,39,2,,,,,,CHEMICAL,0.0,class_change
+9,27740719,13,product containing sitagliptin,sitagliptin,False,1,0.003394803497940302,51,1,,,,,,CHEMICAL,0,class_change
+10,27740719,14,metformine,metformin,,1,,8,1,,,,,,CHEMICAL,,class_change
+11,27740719,14,metformine,metformin,False,2,4.952771632815711e-06,17,2,,,,,,CHEMICAL,0.0,class_change
+12,27740719,15,,,False,,,,,,,,,,,,
+13,27740719,16,product containing sitagliptin,sitagliptin,False,1,0.0008003422990441322,5,1,,,,,,CHEMICAL,0,class_change
+14,27740719,17,product containing sitagliptin,sitagliptin,False,1,0.0010356372222304344,15,1,,,,,,CHEMICAL,0,class_change
+15,27740719,18,product containing sitagliptin,sitagliptin,False,1,0.0005917348898947239,3,1,,,,,,CHEMICAL,0,class_change
+16,27740719,19,product containing sitagliptin,sitagliptin,False,1,0.0007589508313685656,13,1,,,,,,CHEMICAL,0,class_change
+17,27740719,20,product containing sitagliptin,sitagliptin,False,1,0.0006967009394429624,12,1,,,,,,CHEMICAL,0,class_change
+18,27740719,21,,,False,,,,,,,,,,,,
+19,27740719,22,product containing sitagliptin,sitagliptin,,1,,6,1,,,,,,CHEMICAL,,class_change
+20,27740719,22,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,6.35131582384929e-05,40,2,,,,,,DISEASE,0.0,class_change
+21,27740719,23,diabetes mellitus,diabetes,False,1,8.058335879468359e-06,23,1,,,,,,DISEASE,0,class_change
+22,17992639,0,,,False,,,,,,,,,,,,
+23,17992639,1,,,False,,,,,,,,,,,,
+24,17992639,2,vildagliptin product,vildagliptin,,1,,22,1,,,,,,CHEMICAL,,class_change
+25,17992639,2,diabetes type 2,diabetes,False,2,1.5086586245161016e-05,33,2,,,,,,DISEASE,0.0,class_change
+26,17992639,3,,,False,,,,,,,,,,,,
+27,17992639,4,,,False,,,,,,,,,,,,
+28,17992639,5,vildagliptin product,vildagliptin,False,1,8.29989858175395e-06,42,1,,,,,,CHEMICAL,0,class_change
+29,17992639,6,vildagliptin product,vildagliptin,,1,,80,1,,,,,,CHEMICAL,,class_change
+30,17992639,6,metformine,metformin,False,2,2.0746882000821643e-05,98,2,,,,,,CHEMICAL,0.0,class_change
+31,17992639,7,,,False,,,,,,,,,,,,
+32,17992639,8,vildagliptin product,vildagliptin,False,1,4.029987849207828e-06,6,1,,,,,,CHEMICAL,0,class_change
+33,17992639,9,vildagliptin product,vildagliptin,False,1,0.00021046616893727332,10,1,,,,,,CHEMICAL,0,class_change
+34,17992639,10,vildagliptin product,vildagliptin,False,1,7.540841124864528e-06,50,1,,,,,,CHEMICAL,0,class_change
+35,17992639,11,vildagliptin product,vildagliptin,,1,,15,1,,,,,,CHEMICAL,,class_change
+36,17992639,11,diabetes type 2,diabetes,False,2,4.0998758777277544e-05,36,2,,,,,,DISEASE,0.0,class_change
+37,17992639,12,,,False,,,,,,,,,,,,
+38,30019498,0,,,False,,,,,,,,,,,,
+39,30019498,1,,,False,,,,,,,,,,,,
+40,30019498,3,product containing sitagliptin,sitagliptin,,1,,11,1,,,,,,CHEMICAL,,class_change
+41,30019498,3,dapagliflozin product,dapagliflozin,,2,,19,2,,,,,,CHEMICAL,,class_change
+42,30019498,3,t2dm - diabetes mellitus type 2,diabetes mellitus,,3,,31,3,,,,,,DISEASE,,class_change
+43,30019498,3,kidney insufficiency,renal insufficiency,True,4,0.09313702583312988,41,4,,,,,,DISEASE,8.0,class_change
+44,30019498,4,,,False,,,,,,,,,,,,
+45,30019498,5,,,False,,,,,,,,,,,,
+46,30019498,6,,,False,,,,,,,,,,,,
+47,30019498,7,product containing sitagliptin,sitagliptin,,1,,21,1,,,,,,CHEMICAL,,class_change
+48,30019498,7,dapagliflozin product,dapagliflozin,,2,,37,2,,,,,,CHEMICAL,,class_change
+49,30019498,7,kidney insufficiency,renal insufficiency,True,3,0.09086896479129791,52,3,,,,,,DISEASE,8.0,class_change
+50,30019498,8,metformine,metformin,,1,,57,1,,,,,,CHEMICAL,,class_change
+51,30019498,8,sulphonylurea,sulfonylurea,,2,,68,2,,,,,,CHEMICAL,,class_change
+52,30019498,8,product containing sitagliptin,sitagliptin,,3,,77,3,,,,,,CHEMICAL,,class_change
+53,30019498,8,dapagliflozin product,dapagliflozin,True,4,0.09805090725421906,91,4,,,,,,CHEMICAL,11.0,class_change
+54,30019498,9,product containing sitagliptin,sitagliptin,,1,,13,1,,,,,,CHEMICAL,,class_change
+55,30019498,9,dapagliflozin product,dapagliflozin,False,2,0.0004609532770700753,24,2,,,,,,CHEMICAL,0.0,class_change
+56,30019498,11,product containing sitagliptin,sitagliptin,,1,,63,1,,,,,,CHEMICAL,,class_change
+57,30019498,11,dapagliflozin product,dapagliflozin,False,2,1.1406986713409424,70,2,,,,,,CHEMICAL,0.0,class_change
+58,30019498,12,product containing sitagliptin,sitagliptin,,1,,90,1,,,,,,CHEMICAL,,class_change
+59,30019498,12,dapagliflozin product,dapagliflozin,False,2,2.1299347281455994e-05,97,2,,,,,,CHEMICAL,0.0,class_change
+60,30019498,13,product containing sitagliptin,sitagliptin,False,1,3.91357607441023e-05,25,1,,,,,,CHEMICAL,0,class_change
+61,30019498,14,,,False,,,,,,,,,,,,
+62,30019498,15,product containing sitagliptin,sitagliptin,,1,,22,1,,,,,,CHEMICAL,,class_change
+63,30019498,15,dapagliflozin product,dapagliflozin,False,2,4.776116838911548e-06,30,2,,,,,,CHEMICAL,0.0,class_change
+64,30019498,16,kidney insufficiency,renal insufficiency,,1,,10,1,,,,,,DISEASE,,class_change
+65,30019498,16,product containing sitagliptin,sitagliptin,,2,,34,2,,,,,,CHEMICAL,,class_change
+66,30019498,16,dapagliflozin product,dapagliflozin,False,3,0.0,54,3,,,,,,CHEMICAL,0.0,class_change
+67,30019498,18,,,False,,,,,,,,,,,,
+68,19821654,0,,,False,,,,,,,,,,,,
+69,19821654,1,,,False,,,,,,,,,,,,
+70,19821654,2,biasp 30,aspart,,1,,9,1,,,,,,CHEMICAL,,class_change
+71,19821654,2,insulin glargine human,glargine,True,2,0.17046859860420227,10,2,,,,,,CHEMICAL,4.0,class_change
+72,19821654,3,,,False,,,,,,,,,,,,
+73,19821654,4,insulin glargine human,glargine,False,1,0.00018660923524294049,37,1,,,,,,CHEMICAL,0,class_change
+74,19821654,5,insulin glargine human,glargine,,1,,51,1,,,,,,CHEMICAL,,class_change
+75,19821654,5,metformine,metformin,,2,,64,2,,,,,,CHEMICAL,,class_change
+76,19821654,5,product containing glimepiride,glimepiride,True,3,0.1516292691230774,68,3,,,,,,CHEMICAL,3.0,class_change
+77,19821654,7,,,False,,,,,,,,,,,,
+78,19821654,8,insulin glargine human,glargine,,1,,34,1,,,,,,CHEMICAL,,class_change
+79,19821654,8,insulin glargine human,glargine,True,2,0.1515158712863922,45,2,,,,,,CHEMICAL,3.0,class_change
+80,19821654,9,insulin glargine human,glargine,True,1,1.2328009605407715,29,1,,,,,,CHEMICAL,4,class_change
+81,19821654,10,glucose levels plasma,glucose,,1,,3,1,,,,,,CHEMICAL,,class_change
+82,19821654,10,insulin glargine human,glargine,,2,,21,2,,,,,,CHEMICAL,,class_change
+83,19821654,10,insulin glargine human,glargine,True,3,1.3908891677856445,67,3,,,,,,CHEMICAL,6.0,class_change
+84,19821654,11,insulin glargine human,glargine,False,1,0.00011463053670013323,40,1,,,,,,CHEMICAL,0,class_change
+85,19821654,12,,,False,,,,,,,,,,,,
+86,19821654,13,insulin glargine human,glargine,False,1,0.1930789351463318,28,1,,,,,,CHEMICAL,0,class_change
+87,19821654,14,nocturnal hypoglycaemia,nocturnal hypoglycemia,False,1,0.08874794095754623,7,1,,,,,,DISEASE,0,class_change
+88,19821654,15,,,False,,,,,,,,,,,,
+89,19821654,16,,,False,,,,,,,,,,,,
+90,29246950,0,,,False,,,,,,,,,,,,
+91,29246950,1,,,False,,,,,,,,,,,,
+92,29246950,3,diabetes type 2,diabetes,False,1,1.1000374797731638e-06,23,1,,,,,,DISEASE,0,class_change
+93,29246950,4,,,False,,,,,,,,,,,,
+94,29246950,5,,,False,,,,,,,,,,,,
+95,29246950,6,,,False,,,,,,,,,,,,
+96,29246950,7,,,False,,,,,,,,,,,,
+97,29246950,8,,,False,,,,,,,,,,,,
+98,29246950,9,,,False,,,,,,,,,,,,
+99,29246950,10,,,False,,,,,,,,,,,,
+100,29246950,11,,,False,,,,,,,,,,,,
+101,29246950,12,,,False,,,,,,,,,,,,
+102,29246950,13,diabetes type 2,diabetes,False,1,0.0001273925881832838,48,1,,,,,,DISEASE,0,class_change
+103,29246950,14,,,False,,,,,,,,,,,,
+104,29246950,15,,,False,,,,,,,,,,,,
+105,29246950,16,,,False,,,,,,,,,,,,
+106,29246950,17,,,False,,,,,,,,,,,,
+107,29246950,18,,,False,,,,,,,,,,,,
+108,29246950,19,,,False,,,,,,,,,,,,
+109,29246950,20,,,False,,,,,,,,,,,,
+110,29246950,21,diabetes type 2,diabetes,False,1,1.517346390755847e-07,18,1,,,,,,DISEASE,0,class_change
+111,29246950,23,,,False,,,,,,,,,,,,
+112,25125506,0,,,False,,,,,,,,,,,,
+113,25125506,1,,,False,,,,,,,,,,,,
+114,25125506,3,diabetes type 2,diabetes,False,1,3.5450448194751516e-05,15,1,,,,,,DISEASE,0,class_change
+115,25125506,4,,,False,,,,,,,,,,,,
+116,25125506,5,,,False,,,,,,,,,,,,
+117,25125506,6,,,False,,,,,,,,,,,,
+118,25125506,7,,,False,,,,,,,,,,,,
+119,25125506,8,,,False,,,,,,,,,,,,
+120,25125506,9,,,False,,,,,,,,,,,,
+121,25125506,10,,,False,,,,,,,,,,,,
+122,25125506,11,,,False,,,,,,,,,,,,
+123,25125506,12,,,False,,,,,,,,,,,,
+124,25125506,14,diabetes type 2,diabetes,False,1,1.191321098303888e-05,21,1,,,,,,DISEASE,0,class_change
+125,25125506,15,,,False,,,,,,,,,,,,
+126,25125506,16,,,False,,,,,,,,,,,,
+127,25125506,17,,,False,,,,,,,,,,,,
+128,25125506,18,,,False,,,,,,,,,,,,
+129,25125506,19,alat - alanine aminotransferase,alanine,,1,,97,1,,,,,,CHEMICAL,,class_change
+130,25125506,19,loss weight,weight loss,,2,,116,2,,,,,,DISEASE,,class_change
+131,25125506,19,metformine,metformin,True,3,0.8110382556915283,124,3,,,,,,CHEMICAL,6.0,class_change
+132,25125506,20,diabetes type 2,diabetes,False,1,5.380683433031663e-06,19,1,,,,,,DISEASE,0,class_change
+133,25125506,23,,,False,,,,,,,,,,,,
+134,22672586,0,,,False,,,,,,,,,,,,
+135,22672586,1,,,False,,,,,,,,,,,,
+136,22672586,2,product containing sitagliptin,sitagliptin,,1,,3,1,,,,,,CHEMICAL,,class_change
+137,22672586,2,metformine,metformin,,2,,11,2,,,,,,CHEMICAL,,class_change
+138,22672586,2,diabetes type 2,diabetes,False,3,0.0007274256204254925,28,3,,,,,,DISEASE,0.0,class_change
+139,22672586,3,,,False,,,,,,,,,,,,
+140,22672586,4,product containing sitagliptin,sitagliptin,,1,,18,1,,,,,,CHEMICAL,,class_change
+141,22672586,4,metformine,metformin,,2,,27,2,,,,,,CHEMICAL,,class_change
+142,22672586,4,metformine,metformin,False,3,0.0007188503514043987,54,3,,,,,,CHEMICAL,0.0,class_change
+143,22672586,5,metformine,metformin,,1,,4,1,,,,,,CHEMICAL,,class_change
+144,22672586,5,product containing sitagliptin,sitagliptin,False,2,0.0032949878368526697,68,2,,,,,,CHEMICAL,0.0,class_change
+145,22672586,6,metformine,metformin,False,1,3.616392132244073e-05,6,1,,,,,,CHEMICAL,0,class_change
+146,22672586,7,product containing sitagliptin,sitagliptin,False,1,0.0001255664392374456,63,1,,,,,,CHEMICAL,0,class_change
+147,22672586,8,product containing sitagliptin,sitagliptin,False,1,0.00013530071009881794,6,1,,,,,,CHEMICAL,0,class_change
+148,22672586,9,product containing sitagliptin,sitagliptin,False,1,1.5675826944061555e-05,20,1,,,,,,CHEMICAL,0,class_change
+149,22672586,10,product containing sitagliptin,sitagliptin,,1,,5,1,,,,,,CHEMICAL,,class_change
+150,22672586,10,metformine,metformin,,2,,15,2,,,,,,CHEMICAL,,class_change
+151,22672586,10,metformine,metformin,False,3,4.726758925244212e-05,47,3,,,,,,CHEMICAL,0.0,class_change
+152,22672586,11,,,False,,,,,,,,,,,,
+153,23250357,0,diabetes mellitus,diabetes,False,1,1.6874844277481316e-07,0,1,,,,,,DISEASE,0,class_change
+154,23250357,1,,,False,,,,,,,,,,,,
+155,23250357,3,,,False,,,,,,,,,,,,
+156,23250357,4,,,False,,,,,,,,,,,,
+157,23250357,5,,,False,,,,,,,,,,,,
+158,23250357,6,product containing colesevelam,colesevelam,,1,,15,1,,,,,,CHEMICAL,,class_change
+159,23250357,6,diabetes type 2,diabetes,False,2,8.911544568945828e-08,34,2,,,,,,DISEASE,0.0,class_change
+160,23250357,7,product containing colesevelam,colesevelam,False,1,5.6334755527132074e-08,9,1,,,,,,CHEMICAL,0,class_change
+161,23250357,8,metformine,metformin,False,1,6.8663581487271586e-09,5,1,,,,,,CHEMICAL,0,class_change
+162,23250357,9,product containing colesevelam,colesevelam,False,1,6.437215915866545e-08,9,1,,,,,,CHEMICAL,0,class_change
+163,23250357,10,,,False,,,,,,,,,,,,
+164,23250357,11,product containing colesevelam,colesevelam,True,1,0.17924043536186218,2,1,,,,,,CHEMICAL,2,class_change
+165,23250357,12,,,False,,,,,,,,,,,,
+166,23250357,13,product containing colesevelam,colesevelam,False,1,0.0005795580800622702,13,1,,,,,,CHEMICAL,0,class_change
+167,23250357,14,product containing colesevelam,colesevelam,False,1,0.0010726978071033955,14,1,,,,,,CHEMICAL,0,class_change
+168,23250357,15,,,False,,,,,,,,,,,,
+169,24939043,0,,,False,,,,,,,,,,,,
+170,24939043,1,,,False,,,,,,,,,,,,
+171,24939043,3,product containing canagliflozin,canagliflozin,,1,,11,1,,,,,,CHEMICAL,,class_change
+172,24939043,3,t2dm - diabetes mellitus type 2,diabetes mellitus,False,2,0.024653561413288116,27,2,,,,,,DISEASE,0.0,class_change
+173,24939043,4,,,False,,,,,,,,,,,,
+174,24939043,5,product containing canagliflozin,canagliflozin,,1,,7,1,,,,,,CHEMICAL,,class_change
+175,24939043,5,metformine,metformin,False,2,0.01941525749862194,74,2,,,,,,CHEMICAL,0.0,class_change
+176,24939043,6,product containing canagliflozin,canagliflozin,False,1,0.019927291199564934,18,1,,,,,,CHEMICAL,0,class_change
+177,24939043,7,,,False,,,,,,,,,,,,
+178,24939043,8,product containing canagliflozin,canagliflozin,False,1,0.0027691011782735586,12,1,,,,,,CHEMICAL,0,class_change
+179,24939043,9,product containing canagliflozin,canagliflozin,False,1,0.017417017370462418,0,1,,,,,,CHEMICAL,0,class_change
+180,24939043,10,,,False,,,,,,,,,,,,
+181,24939043,11,product containing canagliflozin,canagliflozin,False,1,0.6755587458610535,0,1,,,,,,CHEMICAL,0,class_change
+182,24939043,12,product containing canagliflozin,canagliflozin,False,1,0.6936611533164978,10,1,,,,,,CHEMICAL,0,class_change
+183,24939043,13,blood urea nitrogen measurement,urea,,1,,1,1,,,,,,CHEMICAL,,class_change
+184,24939043,13,creatinine serum,creatinine,,2,,7,2,,,,,,CHEMICAL,,class_change
+185,24939043,13,product containing canagliflozin,canagliflozin,False,3,0.00020438786305021495,23,3,,,,,,CHEMICAL,0.0,class_change
+186,24939043,14,product containing canagliflozin,canagliflozin,False,1,3.05496905639302e-05,2,1,,,,,,CHEMICAL,0,class_change
+187,24939043,15,,,False,,,,,,,,,,,,
+188,21781152,0,,,False,,,,,,,,,,,,
+189,21781152,1,,,False,,,,,,,,,,,,
+190,21781152,2,linagliptin product,linagliptin,,1,,4,1,,,,,,CHEMICAL,,class_change
+191,21781152,2,metformine,metformin,,2,,22,2,,,,,,CHEMICAL,,class_change
+192,21781152,2,sulfonylurea,sulphonylurea,False,3,0.00019818339205812663,26,3,,,,,,CHEMICAL,0.0,class_change
+193,21781152,3,,,False,,,,,,,,,,,,
+194,21781152,4,,,False,,,,,,,,,,,,
+195,21781152,9,linagliptin product,linagliptin,,1,,21,1,,,,,,CHEMICAL,,class_change
+196,21781152,9,metformine,metformin,,2,,65,2,,,,,,CHEMICAL,,class_change
+197,21781152,9,sulfonylurea,sulphonylurea,False,3,0.00024074153043329716,69,3,,,,,,CHEMICAL,0.0,class_change
+198,21781152,10,linagliptin product,linagliptin,,1,,27,1,,,,,,CHEMICAL,,class_change
+199,21781152,10,metformine,metformin,,2,,44,2,,,,,,CHEMICAL,,class_change
+200,21781152,10,sulfonylurea,sulphonylurea,False,3,0.0007841216865926981,48,3,,,,,,CHEMICAL,0.0,class_change
+201,21781152,11,,,False,,,,,,,,,,,,
+202,21781152,12,linagliptin product,linagliptin,False,1,8.360663196071982e-05,7,1,,,,,,CHEMICAL,0,class_change
+203,21781152,13,linagliptin product,linagliptin,True,1,1.1919304132461548,47,1,,,,,,CHEMICAL,2,class_change
+204,21781152,14,linagliptin product,linagliptin,True,1,1.1907521486282349,7,1,,,,,,CHEMICAL,2,class_change
+205,21781152,15,linagliptin product,linagliptin,False,1,1.1767404079437256,15,1,,,,,,CHEMICAL,0,class_change
+206,21781152,16,linagliptin product,linagliptin,False,1,1.161592960357666,16,1,,,,,,CHEMICAL,0,class_change
+207,21781152,17,linagliptin product,linagliptin,False,1,1.1740156412124634,22,1,,,,,,CHEMICAL,0,class_change
+208,21781152,18,linagliptin product,linagliptin,False,1,1.1777493953704834,44,1,,,,,,CHEMICAL,0,class_change
+209,21781152,19,,,False,,,,,,,,,,,,
+210,21781152,20,linagliptin product,linagliptin,,1,,10,1,,,,,,CHEMICAL,,class_change
+211,21781152,20,metformine,metformin,,2,,16,2,,,,,,CHEMICAL,,class_change
+212,21781152,20,sulfonylurea,sulphonylurea,False,3,1.1766282320022583,24,3,,,,,,CHEMICAL,0.0,class_change
+213,21781152,21,linagliptin product,linagliptin,,1,,0,1,,,,,,CHEMICAL,,class_change
+214,21781152,21,metformine,metformin,,2,,26,2,,,,,,CHEMICAL,,class_change
+215,21781152,21,sulfonylurea,sulphonylurea,False,3,1.1776881217956543,31,3,,,,,,CHEMICAL,0.0,class_change
+216,21781152,24,,,False,,,,,,,,,,,,
+217,24199686,0,,,False,,,,,,,,,,,,
+218,24199686,1,,,False,,,,,,,,,,,,
+219,24199686,3,vildagliptin product,vildagliptin,,1,,4,1,,,,,,CHEMICAL,,class_change
+220,24199686,3,metformine,metformin,,2,,26,2,,,,,,CHEMICAL,,class_change
+221,24199686,3,sulfonylurea,sulphonylurea,True,3,0.0004154738853685558,30,3,,,,,,CHEMICAL,1.0,class_change
+222,24199686,4,,,False,,,,,,,,,,,,
+223,24199686,5,metformine,metformin,,1,,7,1,,,,,,CHEMICAL,,class_change
+224,24199686,5,sulfonylurea,sulphonylurea,False,2,1.3299979400471784e-05,11,2,,,,,,CHEMICAL,0.0,class_change
+225,24199686,6,vildagliptin product,vildagliptin,,1,,8,1,,,,,,CHEMICAL,,class_change
+226,24199686,6,metformine,metformin,,2,,20,2,,,,,,CHEMICAL,,class_change
+227,24199686,6,product containing glimepiride,glimepiride,False,3,0.0003573127614799887,24,3,,,,,,CHEMICAL,0.0,class_change
+228,24199686,7,vildagliptin product,vildagliptin,,1,,23,1,,,,,,CHEMICAL,,class_change
+229,24199686,7,bd - twice daily,bid,True,2,0.008375132456421852,31,2,,,,,,CHEMICAL,1.0,class_change
+230,24199686,8,vildagliptin product,vildagliptin,True,1,0.00026154081569984555,31,1,,,,,,CHEMICAL,1,class_change
+231,24199686,9,vildagliptin product,vildagliptin,False,1,0.0002058054378721863,4,1,,,,,,CHEMICAL,0,class_change
+232,24199686,10,vildagliptin product,vildagliptin,True,1,0.0001311726518906653,9,1,,,,,,CHEMICAL,1,class_change
+233,24199686,11,vildagliptin product,vildagliptin,False,1,1.2130460739135742,14,1,,,,,,CHEMICAL,0,class_change
+234,24199686,12,vildagliptin product,vildagliptin,False,1,5.698284803656861e-05,0,1,,,,,,CHEMICAL,0,class_change
+235,24199686,13,vildagliptin product,vildagliptin,,1,,2,1,,,,,,CHEMICAL,,class_change
+236,24199686,13,metformine,metformin,,2,,26,2,,,,,,CHEMICAL,,class_change
+237,24199686,13,product containing glimepiride,glimepiride,False,3,1.4722862033522688e-05,30,3,,,,,,CHEMICAL,0.0,class_change
+238,24199686,14,vildagliptin product,vildagliptin,,1,,3,1,,,,,,CHEMICAL,,class_change
+239,24199686,14,gains weight,weight gain,False,2,2.492329804226756e-05,23,2,,,,,,DISEASE,0.0,class_change
+240,24199686,15,vildagliptin product,vildagliptin,,1,,2,1,,,,,,CHEMICAL,,class_change
+241,24199686,15,metformine,metformin,False,2,5.905710168008227e-06,16,2,,,,,,CHEMICAL,0.0,class_change
+242,24199686,17,,,False,,,,,,,,,,,,
+243,15677776,0,,,False,,,,,,,,,,,,
+244,15677776,1,,,False,,,,,,,,,,,,
+245,15677776,2,diabetes type 2,diabetes,False,1,9.504408922111907e-07,6,1,,,,,,DISEASE,0,class_change
+246,15677776,3,,,False,,,,,,,,,,,,
+247,15677776,4,,,False,,,,,,,,,,,,
+248,15677776,9,insulin glargine human,glargine,True,1,0.007593318819999695,38,1,,,,,,CHEMICAL,10,class_change
+249,15677776,10,metformine,metformin,False,1,8.640745363663882e-07,43,1,,,,,,CHEMICAL,0,class_change
+250,15677776,11,metformine,metformin,,1,,0,1,,,,,,CHEMICAL,,class_change
+251,15677776,11,glargine insulin,glargine,True,2,0.0002834936894942075,35,2,,,,,,CHEMICAL,3.0,class_change
+252,15677776,12,,,False,,,,,,,,,,,,
+253,15677776,13,glargine insulin,glargine,False,1,3.6780184018425643e-05,26,1,,,,,,CHEMICAL,0,class_change
+254,15677776,16,glargine insulin,glargine,False,1,8.080004045041278e-05,25,1,,,,,,CHEMICAL,0,class_change
+255,15677776,17,gains weight,weight gain,,1,,0,1,,,,,,DISEASE,,class_change
+256,15677776,17,glargine insulin,glargine,,2,,23,2,,,,,,CHEMICAL,,class_change
+257,15677776,17,gains weight,weight gain,False,3,0.0009812663774937391,32,3,,,,,,DISEASE,0.0,class_change
+258,15677776,14,glargine insulin,glargine,False,1,0.00014132005162537098,21,1,,,,,,CHEMICAL,0,class_change
+259,15677776,15,glargine insulin,glargine,False,1,6.481837772298604e-05,19,1,,,,,,CHEMICAL,0,class_change
+260,15677776,18,glargine insulin,glargine,False,1,0.0,42,1,,,,,,CHEMICAL,0,class_change
+261,15677776,19,,,False,,,,,,,,,,,,
+262,17130197,0,,,False,,,,,,,,,,,,
+263,17130197,1,,,False,,,,,,,,,,,,
+264,17130197,2,product containing sitagliptin,sitagliptin,,1,,16,1,,,,,,CHEMICAL,,class_change
+265,17130197,2,metformine,metformin,,2,,25,2,,,,,,CHEMICAL,,class_change
+266,17130197,2,metformine,metformin,False,3,0.0005766747635789216,39,3,,,,,,CHEMICAL,0.0,class_change
+267,17130197,3,,,False,,,,,,,,,,,,
+268,17130197,4,,,False,,,,,,,,,,,,
+269,17130197,7,product containing sitagliptin,sitagliptin,,1,,20,1,,,,,,CHEMICAL,,class_change
+270,17130197,7,metformine,metformin,,2,,30,2,,,,,,CHEMICAL,,class_change
+271,17130197,7,metformine,metformin,False,3,0.0006843979354016483,74,3,,,,,,CHEMICAL,0.0,class_change
+272,17130197,8,metformine,metformin,,1,,17,1,,,,,,CHEMICAL,,class_change
+273,17130197,8,metformine,metformin,,2,,74,2,,,,,,CHEMICAL,,class_change
+274,17130197,8,product containing sitagliptin,sitagliptin,False,3,0.006264504045248032,99,3,,,,,,CHEMICAL,0.0,class_change
+275,17130197,9,pioglitazone product,pioglitazone,False,1,0.00012958368461113423,13,1,,,,,,CHEMICAL,0,class_change
+276,17130197,11,product containing sitagliptin,sitagliptin,False,1,0.0008070574258454144,6,1,,,,,,CHEMICAL,0,class_change
+277,17130197,12,product containing sitagliptin,sitagliptin,False,1,2.412238836288452,73,1,,,,,,CHEMICAL,0,class_change
+278,17130197,13,product containing sitagliptin,sitagliptin,False,1,1.2404503650031984e-05,14,1,,,,,,CHEMICAL,0,class_change
+279,17130197,14,product containing sitagliptin,sitagliptin,False,1,2.9913765047240304e-06,20,1,,,,,,CHEMICAL,0,class_change
+280,17130197,15,product containing sitagliptin,sitagliptin,False,1,0.00014807925617787987,5,1,,,,,,CHEMICAL,0,class_change
+281,17130197,16,product containing sitagliptin,sitagliptin,,1,,2,1,,,,,,CHEMICAL,,class_change
+282,17130197,16,metformine,metformin,,2,,16,2,,,,,,CHEMICAL,,class_change
+283,17130197,16,diabetes type 2,diabetes,,3,,33,3,,,,,,DISEASE,,class_change
+284,17130197,16,metformine,metformin,False,4,6.405632007044915e-07,43,4,,,,,,CHEMICAL,0.0,class_change
+285,17130197,17,,,False,,,,,,,,,,,,
+286,23116881,0,,,False,,,,,,,,,,,,
+287,23116881,1,,,False,,,,,,,,,,,,
+288,23116881,3,product containing sitagliptin,sitagliptin,,1,,4,1,,,,,,CHEMICAL,,class_change
+289,23116881,3,metformine,metformin,,2,,13,2,,,,,,CHEMICAL,,class_change
+290,23116881,3,pioglitazone product,pioglitazone,,3,,17,3,,,,,,CHEMICAL,,class_change
+291,23116881,3,diabetes type 2,diabetes,True,4,0.09435603022575378,43,4,,,,,,DISEASE,1.0,class_change
+292,23116881,4,,,False,,,,,,,,,,,,
+293,23116881,5,product containing sitagliptin,sitagliptin,,1,,8,1,,,,,,CHEMICAL,,class_change
+294,23116881,5,metformine,metformin,,2,,32,2,,,,,,CHEMICAL,,class_change
+295,23116881,5,pioglitazone product,pioglitazone,True,3,0.09429983794689178,43,3,,,,,,CHEMICAL,1.0,class_change
+296,23116881,6,product containing sitagliptin,sitagliptin,False,1,0.09416849166154861,34,1,,,,,,CHEMICAL,0,class_change
+297,23116881,7,product containing sitagliptin,sitagliptin,False,1,0.09416382759809494,5,1,,,,,,CHEMICAL,0,class_change
+298,23116881,8,product containing sitagliptin,sitagliptin,False,1,0.00038793819840066135,37,1,,,,,,CHEMICAL,0,class_change
+299,23116881,9,,,False,,,,,,,,,,,,
+300,23116881,10,product containing sitagliptin,sitagliptin,False,1,6.722078251186758e-05,35,1,,,,,,CHEMICAL,0,class_change
+301,23116881,11,,,False,,,,,,,,,,,,
+302,23116881,12,product containing sitagliptin,sitagliptin,,1,,11,1,,,,,,CHEMICAL,,class_change
+303,23116881,12,metformine,metformin,,2,,21,2,,,,,,CHEMICAL,,class_change
+304,23116881,12,pioglitazone product,pioglitazone,False,3,4.1666375182103366e-05,25,3,,,,,,CHEMICAL,0.0,class_change
+305,23116881,14,,,False,,,,,,,,,,,,
+306,29110647,0,,,False,,,,,,,,,,,,
+307,29110647,1,,,False,,,,,,,,,,,,
+308,29110647,2,product containing glimepiride,glimepiride,,1,,42,1,,,,,,CHEMICAL,,class_change
+309,29110647,2,metformine,metformin,False,2,0.0,50,2,,,,,,CHEMICAL,0.0,class_change
+310,29110647,3,,,False,,,,,,,,,,,,
+311,29110647,4,,,False,,,,,,,,,,,,
+312,29110647,5,,,False,,,,,,,,,,,,
+313,29110647,7,,,False,,,,,,,,,,,,
+314,29110647,8,diabetes type 2,diabetes,False,1,0.0,4,1,,,,,,DISEASE,0,class_change
+315,29110647,9,,,False,,,,,,,,,,,,
+316,29110647,10,metformine,metformin,,1,,36,1,,,,,,CHEMICAL,,class_change
+317,29110647,10,product containing glimepiride,glimepiride,False,2,0.0,40,2,,,,,,CHEMICAL,0.0,class_change
+318,29110647,11,metformine,metformin,,1,,25,1,,,,,,CHEMICAL,,class_change
+319,29110647,11,product containing glimepiride,glimepiride,False,2,0.00091641052858904,36,2,,,,,,CHEMICAL,0.0,class_change
+320,29110647,12,,,False,,,,,,,,,,,,
+321,29110647,13,,,False,,,,,,,,,,,,
+322,29110647,14,,,False,,,,,,,,,,,,
+323,29110647,15,,,False,,,,,,,,,,,,
+324,29110647,16,,,False,,,,,,,,,,,,
+325,29110647,17,,,False,,,,,,,,,,,,
+326,29110647,18,,,False,,,,,,,,,,,,
+327,29110647,19,,,False,,,,,,,,,,,,
+328,29110647,20,metformine,metformin,,1,,19,1,,,,,,CHEMICAL,,class_change
+329,29110647,20,product containing glimepiride,glimepiride,False,2,1.4858885151625145e-05,23,2,,,,,,CHEMICAL,0.0,class_change
+330,29110647,23,,,False,,,,,,,,,,,,
+331,20092584,0,,,False,,,,,,,,,,,,
+332,20092584,1,,,False,,,,,,,,,,,,
+333,20092584,2,,,False,,,,,,,,,,,,
+334,20092584,3,,,False,,,,,,,,,,,,
+335,20092584,4,,,False,,,,,,,,,,,,
+336,20092584,9,insulin glargine human,glargine,,1,,17,1,,,,,,CHEMICAL,,class_change
+337,20092584,9,glargine insulin,glargine,,2,,23,2,,,,,,CHEMICAL,,class_change
+338,20092584,9,glulisine insulin,glulisine,False,3,0.012215969152748585,36,3,,,,,,CHEMICAL,0.0,class_change
+339,20092584,10,metformine,metformin,,1,,39,1,,,,,,CHEMICAL,,class_change
+340,20092584,10,glargine insulin,glargine,False,2,1.666625394136645e-05,56,2,,,,,,CHEMICAL,0.0,class_change
+341,20092584,11,,,False,,,,,,,,,,,,
+342,20092584,12,,,False,,,,,,,,,,,,
+343,20092584,13,,,False,,,,,,,,,,,,
+344,20092584,14,,,False,,,,,,,,,,,,
+345,20092584,15,,,False,,,,,,,,,,,,
+346,20092584,16,gains weight,weight gain,True,1,0.011911782436072826,38,1,,,,,,DISEASE,3,class_change
+347,20092584,17,,,False,,,,,,,,,,,,
+348,20092584,18,glargine insulin,glargine,False,1,1.192951367556816e-05,11,1,,,,,,CHEMICAL,0,class_change
+349,20092584,19,,,False,,,,,,,,,,,,
+350,25208756,0,,,False,,,,,,,,,,,,
+351,25208756,1,,,False,,,,,,,,,,,,
+352,25208756,3,product containing albiglutide,albiglutide,,1,,11,1,,,,,,CHEMICAL,,class_change
+353,25208756,3,insulin glargine human,glargine,,2,,20,2,,,,,,CHEMICAL,,class_change
+354,25208756,3,metformine,metformin,,3,,35,3,,,,,,CHEMICAL,,class_change
+355,25208756,3,sulphonylurea,sulfonylurea,False,4,0.0050094411708414555,41,4,,,,,,CHEMICAL,0.0,class_change
+356,25208756,4,,,False,,,,,,,,,,,,
+357,25208756,5,product containing albiglutide,albiglutide,,1,,20,1,,,,,,CHEMICAL,,class_change
+358,25208756,5,insulin glargine human,glargine,,2,,32,2,,,,,,CHEMICAL,,class_change
+359,25208756,5,metformine,metformin,,3,,64,3,,,,,,CHEMICAL,,class_change
+360,25208756,5,sulphonylurea,sulfonylurea,False,4,0.005486652720719576,70,4,,,,,,CHEMICAL,0.0,class_change
+361,25208756,6,,,False,,,,,,,,,,,,
+362,25208756,8,diabetes type 2,diabetes,,1,,8,1,,,,,,DISEASE,,class_change
+363,25208756,8,metformine,metformin,,2,,11,2,,,,,,CHEMICAL,,class_change
+364,25208756,8,product containing albiglutide,albiglutide,,3,,79,3,,,,,,CHEMICAL,,class_change
+365,25208756,8,insulin glargine human,glargine,True,4,0.004313534125685692,100,4,,,,,,CHEMICAL,2.0,class_change
+366,25208756,9,,,False,,,,,,,,,,,,
+367,25208756,10,,,False,,,,,,,,,,,,
+368,25208756,11,,,False,,,,,,,,,,,,
+369,25208756,12,product containing albiglutide,albiglutide,True,1,0.5833707451820374,4,1,,,,,,CHEMICAL,27,class_change
+370,25208756,13,insulin glargine human,glargine,True,1,0.04325740411877632,7,1,,,,,,CHEMICAL,5,class_change
+371,25208756,14,product containing albiglutide,albiglutide,,1,,60,1,,,,,,CHEMICAL,,class_change
+372,25208756,14,insulin glargine human,glargine,True,2,0.04324181377887726,69,2,,,,,,CHEMICAL,6.0,class_change
+373,25208756,15,insulin glargine human,glargine,,1,,6,1,,,,,,CHEMICAL,,class_change
+374,25208756,15,product containing albiglutide,albiglutide,True,2,0.03725427761673927,16,2,,,,,,CHEMICAL,3.0,class_change
+375,25208756,16,insulin glargine human,glargine,,1,,21,1,,,,,,CHEMICAL,,class_change
+376,25208756,16,product containing albiglutide,albiglutide,False,2,1.1429758160375059e-05,30,2,,,,,,CHEMICAL,0.0,class_change
+377,25208756,17,product containing albiglutide,albiglutide,,1,,4,1,,,,,,CHEMICAL,,class_change
+378,25208756,17,insulin glargine human,glargine,,2,,17,2,,,,,,CHEMICAL,,class_change
+379,25208756,17,loss weight,weight loss,False,3,0.0,34,3,,,,,,DISEASE,0.0,class_change
+380,25208756,18,,,False,,,,,,,,,,,,
+381,25208756,19,product containing albiglutide,albiglutide,,1,,0,1,,,,,,CHEMICAL,,class_change
+382,25208756,19,insulin glargine human,glargine,False,2,0.0,14,2,,,,,,CHEMICAL,0.0,class_change
+383,25208756,20,,,False,,,,,,,,,,,,
+384,25208756,21,,,False,,,,,,,,,,,,
+385,25036533,0,,,False,,,,,,,,,,,,
+386,25036533,1,,,False,,,,,,,,,,,,
+387,25036533,3,liraglutide product,liraglutide,,1,,0,1,,,,,,CHEMICAL,,class_change
+388,25036533,3,diabetes type 2,diabetes,False,2,1.1754837032640353e-06,32,2,,,,,,DISEASE,0.0,class_change
+389,25036533,4,,,False,,,,,,,,,,,,
+390,25036533,5,,,False,,,,,,,,,,,,
+391,25036533,6,diabetes type 2,type 2 diabetes,False,1,1.3609337656816933e-08,5,1,,,,,,DISEASE,0,class_change
+392,25036533,7,metformine,metformin,False,1,1.0801329608511878e-08,3,1,,,,,,CHEMICAL,0,class_change
+393,25036533,8,liraglutide product,liraglutide,False,1,2.4357595975743607e-06,22,1,,,,,,CHEMICAL,0,class_change
+394,25036533,9,metformine,metformin,,1,,13,1,,,,,,CHEMICAL,,class_change
+395,25036533,9,liraglutide product,liraglutide,False,2,2.778750058496371e-06,43,2,,,,,,CHEMICAL,0.0,class_change
+396,25036533,10,,,False,,,,,,,,,,,,
+397,25036533,11,,,False,,,,,,,,,,,,
+398,25036533,12,,,False,,,,,,,,,,,,
+399,25036533,13,,,False,,,,,,,,,,,,
+400,25036533,14,liraglutide product,liraglutide,False,1,0.0004347723152022809,12,1,,,,,,CHEMICAL,0,class_change
+401,25036533,16,calcitonins,calcitonin,False,1,1.2685807178058894e-06,21,1,,,,,,CHEMICAL,0,class_change
+402,25036533,17,liraglutide product,liraglutide,False,1,0.0005716194282285869,1,1,,,,,,CHEMICAL,0,class_change
+403,25036533,18,liraglutide product,liraglutide,False,1,0.00039459732943214476,15,1,,,,,,CHEMICAL,0,class_change
+404,25036533,19,liraglutide product,liraglutide,True,1,0.012264790944755077,2,1,,,,,,CHEMICAL,5,class_change
+405,25036533,20,,,False,,,,,,,,,,,,
+406,24356792,0,,,False,,,,,,,,,,,,
+407,24356792,1,,,False,,,,,,,,,,,,
+408,24356792,3,product containing colesevelam,colesevelam,,1,,7,1,,,,,,CHEMICAL,,class_change
+409,24356792,3,diabetes type 2,diabetes,False,2,8.387355774175376e-05,24,2,,,,,,DISEASE,0.0,class_change
+410,24356792,4,,,False,,,,,,,,,,,,
+411,24356792,5,,,False,,,,,,,,,,,,
+412,24356792,6,,,False,,,,,,,,,,,,
+413,24356792,7,,,False,,,,,,,,,,,,
+414,24356792,8,product containing colesevelam,colesevelam,,1,,0,1,,,,,,CHEMICAL,,class_change
+415,24356792,8,t2dm - diabetes mellitus type 2,diabetes mellitus,,2,,14,2,,,,,,DISEASE,,class_change
+416,24356792,8,metformine,metformin,,3,,30,3,,,,,,CHEMICAL,,class_change
+417,24356792,8,sulphonylurea,sulfonylurea,False,4,7.781579188304022e-05,35,4,,,,,,CHEMICAL,0.0,class_change
+418,24356792,9,product containing colesevelam,colesevelam,False,1,0.0003247695858590305,6,1,,,,,,CHEMICAL,0,class_change
+419,24356792,10,product containing colesevelam,colesevelam,False,1,0.0029823044314980507,59,1,,,,,,CHEMICAL,0,class_change
+420,24356792,11,,,False,,,,,,,,,,,,
+421,24356792,12,product containing colesevelam,colesevelam,False,1,0.20690318942070007,0,1,,,,,,CHEMICAL,0,class_change
+422,24356792,13,product containing colesevelam,colesevelam,,1,,0,1,,,,,,CHEMICAL,,class_change
+423,24356792,13,cholesterol total,cholesterol,False,2,0.02702685259282589,35,2,,,,,,CHEMICAL,0.0,class_change
+424,24356792,14,product containing colesevelam,colesevelam,,1,,0,1,,,,,,CHEMICAL,,class_change
+425,24356792,14,diabetes type 2,diabetes,False,2,0.006298352964222431,29,2,,,,,,DISEASE,0.0,class_change
+426,24356792,15,product containing colesevelam,colesevelam,False,1,0.006231906358152628,20,1,,,,,,CHEMICAL,0,class_change
+427,24356792,17,,,False,,,,,,,,,,,,
+428,24824197,0,,,False,,,,,,,,,,,,
+429,24824197,1,,,False,,,,,,,,,,,,
+430,24824197,3,linagliptin product,linagliptin,,1,,0,1,,,,,,CHEMICAL,,class_change
+431,24824197,3,gains weight,weight gain,,2,,13,2,,,,,,DISEASE,,class_change
+432,24824197,3,metformine,metformin,,3,,35,3,,,,,,CHEMICAL,,class_change
+433,24824197,3,pioglitazone product,pioglitazone,False,4,0.007970016449689865,39,4,,,,,,CHEMICAL,0.0,class_change
+434,24824197,4,,,False,,,,,,,,,,,,
+435,24824197,5,,,False,,,,,,,,,,,,
+436,24824197,6,linagliptin product,linagliptin,,1,,21,1,,,,,,CHEMICAL,,class_change
+437,24824197,6,metformine,metformin,,2,,42,2,,,,,,CHEMICAL,,class_change
+438,24824197,6,pioglitazone product,pioglitazone,False,3,0.007351204752922058,46,3,,,,,,CHEMICAL,0.0,class_change
+439,24824197,7,linagliptin product,linagliptin,,1,,25,1,,,,,,CHEMICAL,,class_change
+440,24824197,7,metformine,metformin,,2,,52,2,,,,,,CHEMICAL,,class_change
+441,24824197,7,pioglitazone product,pioglitazone,False,3,0.007976701483130455,56,3,,,,,,CHEMICAL,0.0,class_change
+442,24824197,8,,,False,,,,,,,,,,,,
+443,24824197,9,,,False,,,,,,,,,,,,
+444,24824197,10,linagliptin product,linagliptin,False,1,0.0004195225774310529,30,1,,,,,,CHEMICAL,0,class_change
+445,24824197,11,,,False,,,,,,,,,,,,
+446,24824197,12,linagliptin product,linagliptin,False,1,0.0002515384112484753,12,1,,,,,,CHEMICAL,0,class_change
+447,24824197,13,linagliptin product,linagliptin,False,1,5.606561899185181e-05,17,1,,,,,,CHEMICAL,0,class_change
+448,24824197,14,,,False,,,,,,,,,,,,
+449,24824197,15,linagliptin product,linagliptin,,1,,2,1,,,,,,CHEMICAL,,class_change
+450,24824197,15,metformine,metformin,,2,,13,2,,,,,,CHEMICAL,,class_change
+451,24824197,15,pioglitazone product,pioglitazone,,3,,17,3,,,,,,CHEMICAL,,class_change
+452,24824197,15,gains weight,weight gain,False,4,0.0003020740405190736,49,4,,,,,,DISEASE,0.0,class_change
+453,24824197,17,,,False,,,,,,,,,,,,
+0,24824197,18,,,False,,,,,,,,,,,,

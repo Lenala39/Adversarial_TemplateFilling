@@ -1,0 +1,79 @@
+\section{Baseline Diabetes - Slot Filling}
+\begin{longtable}{ l c c c c}
+& random & intra comp & intra comp & \#num occurences\\
+\hline
+\multicolumn{4}{c}{Publication} \\
+hasPublicationYear & $\mathbf{1.0000} \pm \mathbf{0.0000}$ & $1.0000 \pm 0.0000$ & $1.0000 \pm 0.0000$ & 27\\
+hasTitle & $\mathbf{0.8000} \pm \mathbf{0.0000}$ & $0.8000 \pm 0.0000$ & $0.8000 \pm 0.0000$ & 17\\
+hasPMID & $\mathbf{1.0000} \pm \mathbf{0.0000}$ & $1.0000 \pm 0.0000$ & $1.0000 \pm 0.0000$ & 27\\
+hasAuthor & $\mathbf{0.9275} \pm \mathbf{0.0000}$ & $0.9275 \pm 0.0000$ & $0.9275 \pm 0.0000$ & 192\\
+hasJournal & $\mathbf{1.0000} \pm \mathbf{0.0000}$ & $1.0000 \pm 0.0000$ & $1.0000 \pm 0.0000$ & 27\\
+\hline
+\multicolumn{4}{c}{Population} \\
+hasPrecondition & $\mathbf{0.3462} \pm \mathbf{0.0000}$ & $0.3462 \pm 0.0000$ & $0.3462 \pm 0.0000$ & 35\\
+hasAvgAge & $\mathbf{0.6667} \pm \mathbf{0.0000}$ & $0.6667 \pm 0.0000$ & $0.6667 \pm 0.0000$ & 4\\
+hasMinAge & $\mathbf{1.0000} \pm \mathbf{0.0000}$ & $1.0000 \pm 0.0000$ & $1.0000 \pm 0.0000$ & 6\\
+hasMaxAge & $\mathbf{1.0000} \pm \mathbf{0.0000}$ & $1.0000 \pm 0.0000$ & $1.0000 \pm 0.0000$ & 4\\
+hasCountry & $\mathbf{0.6286} \pm \mathbf{0.0000}$ & $0.6286 \pm 0.0000$ & $0.6286 \pm 0.0000$ & 22\\
+\hline
+\multicolumn{4}{c}{ClinicalTrial} \\
+hasNumberPatientsCT & $\mathbf{0.9474} \pm \mathbf{0.0000}$ & $0.9474 \pm 0.0000$ & $0.9474 \pm 0.0000$ & 18\\
+hasCTduration & $\mathbf{0.7451} \pm \mathbf{0.0000}$ & $0.7451 \pm 0.0000$ & $0.7451 \pm 0.0000$ & 26\\
+hasObjectiveDescription & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 23\\
+analysesHealthCondition & $\mathbf{0.5200} \pm \mathbf{0.0000}$ & $0.5200 \pm 0.0000$ & $0.5200 \pm 0.0000$ & 26\\
+hasFinalNumberPatientsCT & $\mathbf{0.6667} \pm \mathbf{0.0000}$ & $0.6667 \pm 0.0000$ & $0.6667 \pm 0.0000$ & 6\\
+hasConclusionComment & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 26\\
+hasCTDesign & $\mathbf{0.8437} \pm \mathbf{0.0000}$ & $0.8437 \pm 0.0000$ & $0.8437 \pm 0.0000$ & 65\\
+\hline
+\multicolumn{4}{c}{DiffBetweenGroups} \\
+hasPvalueDiff & $0.7612 \pm 0.0000$ & $\mathbf{0.7883} \pm \mathbf{0.0000}$ & $0.7883 \pm 0.0000$ & 71\\
+hasConfIntervalDiff & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 10\\
+hasDiffGroupAbsValue & $0.4337 \pm 0.0000$ & $\mathbf{0.4819} \pm \mathbf{0.0000}$ & $0.4819 \pm 0.0000$ & 41\\
+hasDiffGroupRelValue & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 1\\
+hasStandardErrorDiff & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 2\\
+hasStandardDevDiff & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 1\\
+\hline
+\multicolumn{4}{c}{Arm} \\
+hasFinalNumPatientsArm & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 0\\
+hasNumberPatientsArm & $\mathbf{0.8475} \pm \mathbf{0.0000}$ & $0.8475 \pm 0.0000$ & $0.8475 \pm 0.0000$ & 31\\
+\hline
+\multicolumn{4}{c}{Intervention} \\
+hasInterval & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 1\\
+hasRelativeFreqTime & $\mathbf{0.7500} \pm \mathbf{0.0000}$ & $0.7500 \pm 0.0000$ & $0.7500 \pm 0.0000$ & 4\\
+hasFrequency & $\mathbf{0.6275} \pm \mathbf{0.0000}$ & $0.6275 \pm 0.0000$ & $0.6275 \pm 0.0000$ & 30\\
+\hline
+\multicolumn{4}{c}{Medication} \\
+hasDrug & $0.6422 \pm 0.0000$ & $\mathbf{0.7156} \pm \mathbf{0.0000}$ & $0.7156 \pm 0.0000$ & 57\\
+hasDeliveryMethod & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 5\\
+hasDoseValue & $0.5000 \pm 0.0000$ & $\mathbf{0.6786} \pm \mathbf{0.0000}$ & $0.6786 \pm 0.0000$ & 27\\
+hasDoseDescription & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 6\\
+hasDoseUnit & $0.6667 \pm 0.0000$ & $\mathbf{0.7037} \pm \mathbf{0.0000}$ & $0.7037 \pm 0.0000$ & 28\\
+\hline
+\multicolumn{4}{c}{Outcome} \\
+hasConfIntervalChangeValue & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 0\\
+hasPValueChangeValue & $\mathbf{0.4762} \pm \mathbf{0.0000}$ & $0.4762 \pm 0.0000$ & $0.4762 \pm 0.0000$ & 11\\
+hasNumberAffected & $0.6667 \pm 0.0000$ & $\mathbf{1.0000} \pm \mathbf{0.0000}$ & $1.0000 \pm 0.0000$ & 9\\
+hasSdDevChangeValue & $0.1818 \pm 0.0000$ & $\mathbf{0.3810} \pm \mathbf{0.0000}$ & $0.3810 \pm 0.0000$ & 7\\
+hasRelativeChangeValue & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 11\\
+hasSdDevResValue & $\mathbf{0.2759} \pm \mathbf{0.0000}$ & $0.2069 \pm 0.0000$ & $0.2069 \pm 0.0000$ & 9\\
+hasPercentageAffected & $0.7971 \pm 0.0000$ & $\mathbf{0.8261} \pm \mathbf{0.0000}$ & $0.8261 \pm 0.0000$ & 70\\
+hasChangeValue & $0.5344 \pm 0.0000$ & $\mathbf{0.6412} \pm \mathbf{0.0000}$ & $0.6412 \pm 0.0000$ & 67\\
+hasResultMeasuredValue & $\mathbf{0.4156} \pm \mathbf{0.0000}$ & $0.4156 \pm 0.0000$ & $0.4156 \pm 0.0000$ & 33\\
+hasSdErrorResValue & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 12\\
+hasObservedResult & $\mathbf{0.1143} \pm \mathbf{0.0000}$ & $0.1143 \pm 0.0000$ & $0.1143 \pm 0.0000$ & 29\\
+hasBaselineValue & $\mathbf{0.4478} \pm \mathbf{0.0000}$ & $0.4179 \pm 0.0000$ & $0.4179 \pm 0.0000$ & 30\\
+hasSubGroupDescription & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 11\\
+hasSdDevBL & $\mathbf{0.2000} \pm \mathbf{0.0000}$ & $0.2000 \pm 0.0000$ & $0.2000 \pm 0.0000$ & 13\\
+hasSdErrorChangeValue & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 12\\
+hasTimePoint & $0.3478 \pm 0.0000$ & $\mathbf{0.4783} \pm \mathbf{0.0000}$ & $0.4783 \pm 0.0000$ & 27\\
+hasPValueResValue & $\mathbf{0.0000} \pm \mathbf{0.0000}$ & $0.0000 \pm 0.0000$ & $0.0000 \pm 0.0000$ & 3\\
+\hline
+\multicolumn{4}{c}{Endpoint} \\
+hasAggregationMethod & $0.4000 \pm 0.0000$ & $\mathbf{0.8000} \pm \mathbf{0.0000}$ & $0.8000 \pm 0.0000$ & 5\\
+hasEndoPointDescription & $0.4670 \pm 0.0000$ & $\mathbf{0.5112} \pm \mathbf{0.0000}$ & $0.5112 \pm 0.0000$ & 105\\
+hasBaselineUnit & $0.4348 \pm 0.0000$ & $\mathbf{0.5273} \pm \mathbf{0.0000}$ & $0.5273 \pm 0.0000$ & 57\\
+\hline\hline
+micro average multi templates & $0.5099 \pm 0.0$  & $\mathbf{0.5616} \pm \mathbf{0.0}$ & $0.5616 \pm 0.0$ \\
+micro average complete & $0.6289 \pm 0.0$  & $\mathbf{0.6606} \pm \mathbf{0.0}$ & $0.6606 \pm 0.0$ \\
+\label{tab:Diabetes_slotfill}
+\end{longtable}
